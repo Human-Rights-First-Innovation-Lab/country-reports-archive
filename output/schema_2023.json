@@ -1,0 +1,321 @@
+{
+  "year": 2023,
+  "documents": 194,
+  "median_chars": 55469,
+  "total_chars": 11572540,
+  "schema": [
+    {
+      "heading": "Section 2. Respect for Civil Liberties",
+      "documents": 194,
+      "share": 1.0
+    },
+    {
+      "heading": "(front matter)",
+      "documents": 194,
+      "share": 1.0
+    },
+    {
+      "heading": "e. Denial of Fair Public Trial",
+      "documents": 194,
+      "share": 1.0
+    },
+    {
+      "heading": "d. Arbitrary Arrest or Detention",
+      "documents": 194,
+      "share": 1.0
+    },
+    {
+      "heading": "Executive Summary",
+      "documents": 194,
+      "share": 1.0
+    },
+    {
+      "heading": "e. Protection of Refugees",
+      "documents": 194,
+      "share": 1.0
+    },
+    {
+      "heading": "c. Torture and Other Cruel, Inhuman, or Degrading",
+      "documents": 194,
+      "share": 1.0
+    },
+    {
+      "heading": "c. Prohibition of Child Labor and Minimum Age for Employment",
+      "documents": 193,
+      "share": 0.995
+    },
+    {
+      "heading": "g. Property Seizure and Restitution",
+      "documents": 193,
+      "share": 0.995
+    },
+    {
+      "heading": "Section 4. Corruption in Government",
+      "documents": 193,
+      "share": 0.995
+    },
+    {
+      "heading": "a. Freedom of Association and the Right to Collective",
+      "documents": 193,
+      "share": 0.995
+    },
+    {
+      "heading": "Section 7. Worker Rights",
+      "documents": 193,
+      "share": 0.995
+    },
+    {
+      "heading": "Section 6. Discrimination and Societal Abuses",
+      "documents": 193,
+      "share": 0.995
+    },
+    {
+      "heading": "c. Freedom of Religion",
+      "documents": 193,
+      "share": 0.995
+    },
+    {
+      "heading": "h. Arbitrary or Unlawful Interference with Privacy, Family,",
+      "documents": 192,
+      "share": 0.99
+    },
+    {
+      "heading": "Section 1. Respect for the Integrity of the Person",
+      "documents": 192,
+      "share": 0.99
+    },
+    {
+      "heading": "f. Transnational Repression",
+      "documents": 192,
+      "share": 0.99
+    },
+    {
+      "heading": "Section 3. Freedom to Participate in the Political",
+      "documents": 192,
+      "share": 0.99
+    },
+    {
+      "heading": "b. Disappearance",
+      "documents": 191,
+      "share": 0.985
+    },
+    {
+      "heading": "d. Freedom of Movement and the Right to Leave the Country",
+      "documents": 191,
+      "share": 0.985
+    },
+    {
+      "heading": "a. Freedom of Expression, Including for Members of the Press and Other Media",
+      "documents": 190,
+      "share": 0.979
+    },
+    {
+      "heading": "b. Freedoms of Peaceful Assembly and Association",
+      "documents": 189,
+      "share": 0.974
+    },
+    {
+      "heading": "e. Acceptable Conditions of Work",
+      "documents": 188,
+      "share": 0.969
+    },
+    {
+      "heading": "Section 5. Governmental Posture Towards",
+      "documents": 187,
+      "share": 0.964
+    },
+    {
+      "heading": "a. Arbitrary Deprivation of Life and Other Unlawful or Politically Motivated Killings",
+      "documents": 177,
+      "share": 0.912
+    },
+    {
+      "heading": "f. Status and Treatment of Internally Displaced Persons",
+      "documents": 120,
+      "share": 0.619
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at",
+      "documents": 111,
+      "share": 0.572
+    },
+    {
+      "heading": "g. Stateless Persons",
+      "documents": 94,
+      "share": 0.485
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor See the Department of State’s Trafficking in Persons Report at",
+      "documents": 54,
+      "share": 0.278
+    },
+    {
+      "heading": "i. Conflict-related Abuses",
+      "documents": 44,
+      "share": 0.227
+    }
+  ],
+  "rare_headings": [
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at:",
+      "documents": 14
+    },
+    {
+      "heading": "a. A rbitrary Deprivation of Life and Other Unlawful or Politically Motivated Killings",
+      "documents": 7
+    },
+    {
+      "heading": "d. Discrimination (see section 6)",
+      "documents": 5
+    },
+    {
+      "heading": "b. Freedom of Peaceful Assembly and Association",
+      "documents": 4
+    },
+    {
+      "heading": "a. Freedom of Expression, Including for the Members of the Press and Other Media",
+      "documents": 4
+    },
+    {
+      "heading": "b. D isappearance",
+      "documents": 3
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor See the Department of State’s Trafficking in Persons Report at:",
+      "documents": 3
+    },
+    {
+      "heading": "a. Arbitrary Deprivation of Life and Ot her Unlawful or Politically Motivated Killings",
+      "documents": 3
+    },
+    {
+      "heading": "d. Freedom of Movement",
+      "documents": 2
+    },
+    {
+      "heading": "Section 5. Governmental Posture Toward",
+      "documents": 2
+    },
+    {
+      "heading": "a. Arbitrary Deprivation of Life a nd Other Unlawful or Politically Motivated Killings",
+      "documents": 2
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor See also the Department of State’s Trafficking in Persons Report at",
+      "documents": 2
+    },
+    {
+      "heading": "a. Arbitrary Deprivation of Life and Other Unlawful or P",
+      "documents": 2
+    },
+    {
+      "heading": "h. Arbitrary or Unlawful Interference with Privacy,",
+      "documents": 2
+    },
+    {
+      "heading": "Section 5. Government Posture Towards",
+      "documents": 2
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor See The Department of State’s Trafficking in Persons Report at",
+      "documents": 2
+    },
+    {
+      "heading": "d. Freedom of Movement and Right to Leave the Country",
+      "documents": 1
+    },
+    {
+      "heading": "a. Arbitrary Deprivation o f Life and Other Unlawful or Politically Motivated Killings",
+      "documents": 1
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor See the Department of State’s annual Trafficking in Person’s Report at",
+      "documents": 1
+    },
+    {
+      "heading": "a. Arbitrary Deprivation of Li fe and Other Unlawful or Politically Motivated Killings",
+      "documents": 1
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor The constitution prohibited but did not criminalize all forms of forced or",
+      "documents": 1
+    },
+    {
+      "heading": "Section 4. Governmental Posture Towards",
+      "documents": 1
+    },
+    {
+      "heading": "f. Transnational Repressio n",
+      "documents": 1
+    },
+    {
+      "heading": "Section 4. Corruption and Lack of Transparency in",
+      "documents": 1
+    },
+    {
+      "heading": "Section 7. Worker Rights.",
+      "documents": 1
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor The law prohibited all forms of forced or compulsory labor and specifically",
+      "documents": 1
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor See the Department of State’s Trafficking in Persons Report at Persons",
+      "documents": 1
+    },
+    {
+      "heading": "i. Conflict-Related Abuses",
+      "documents": 1
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor The constitution prohibited most forms of forced or compulsory labor, but",
+      "documents": 1
+    },
+    {
+      "heading": "f. Transnational Repression.",
+      "documents": 1
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor See the Department of State’s Trafficking in Persons Report",
+      "documents": 1
+    },
+    {
+      "heading": "b. Freedom s of Peaceful Assembly and Association",
+      "documents": 1
+    },
+    {
+      "heading": "a. Arbitrary Deprivation of Life and Other Unlawful",
+      "documents": 1
+    },
+    {
+      "heading": "Section 3. Freedom to Participate in the",
+      "documents": 1
+    },
+    {
+      "heading": "a. Freedom of Association and the Right to",
+      "documents": 1
+    },
+    {
+      "heading": "b. Prohibition of Forced or Compulsory Labor See the Department of State ’s annual Trafficking in Persons",
+      "documents": 1
+    },
+    {
+      "heading": "Section 1. Respect for the Integrity of the",
+      "documents": 1
+    },
+    {
+      "heading": "i. Conflict-related Abuse",
+      "documents": 1
+    },
+    {
+      "heading": "Section 6. Discrimination and Social Abuses",
+      "documents": 1
+    },
+    {
+      "heading": "g. S tateless Persons",
+      "documents": 1
+    }
+  ],
+  "failures": []
+}

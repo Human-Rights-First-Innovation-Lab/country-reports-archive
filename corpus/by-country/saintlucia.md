@@ -1,0 +1,157 @@
+# Saint Lucia — Country Reports on Human Rights Practices
+
+Editions included: 2023, 2024
+
+## Saint Lucia — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/624521_SAINT-LUCIA-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Saint Lucia during the year. Significant human rights issues included significant presence of any of the worst forms of child labor. The government did not take credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports the government or its agents committed arbitrary or unlawful killings during the year.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The constitution provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The law provided for workers to form and join independent unions, bargain collectively, and conduct legal strikes. The law prohibited antiunion discrimination, and workers fired for union activity had the right to reinstatement. The government enforced the law effectively. Penalties were more than those for analogous violations such as civil rights violations but were rarely applied against violators. The government generally respected freedom of association, and employers generally respected the right to collective bargaining. Workers exercised the right to strike and bargain collectively. Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acceptable Work Conditions Wage and Hour Laws In August, the government established a minimum wage effective August 1. Employers had until October 1 to grant all employees at least the minimum wage. The legislated workweek was 40 hours, with a maximum of eight hours per day. Special legislation covered work hours for shop assistants, agricultural workers, domestic workers, and industrial workers. Occupational Safety and Health The government set occupational safety and health (OSH) standards that were appropriate. The Department of Public Service, Home Affairs, Labour, and Gender Affairs (Ministry of Labour) conducted OSH inspections. Workers could remove themselves from situations that endangered health or safety without jeopardy to their employment, and authorities effectively protected employees in these cases. Authorities reported they received more than 100 reports of accidents on the job and one individual died during the year. Labor laws, including overtime rules and OSH standards, applied to all workers, whether in the formal or informal sector. The government effectively enforced the law in the formal sector. The labor code provided penalties that were not commensurate with those for similar crimes such as fraud or negligence. The Ministry of Labour was responsible for monitoring implementation of labor laws. Employers were generally responsive to ministry requests to address labor code violations, and authorities rarely levied fines. Wage, Hour, and OSH Enforcement Labor inspectors effectively monitored compliance with OSH standards. Inspectors had the authority to initiate sanctions, institute proceedings before the tribunal, or hold informal inquiries when complaints were brought to their notice. Inspectors had the authority to make unannounced inspections. The number of inspectors was not adequate to enforce compliance. According to the International Labor Organization, the informal sector made up approximately 27 percent of the workforce. The government did not enforce labor laws in the informal sector.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The constitution prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their arrest or detention in court. The government generally observed these requirements. Lengthy pretrial detention was a problem. The government reported that while all trial dates were set, there were often prolonged delays. For example, in one case the accused person had been awaiting trial for 10 years.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The constitution prohibited such practices, and there were no credible reports government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor See the Department of Labor’s Findings on the Worst Forms of Child Labor at https://www.dol.gov/agencies/ilab/resources/reports/child-labor/findings/. Child Marriage The legal minimum age for marriage was 18, or 16 with parental consent. The government generally enforced the law.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, or asylum seekers, as well as other persons of concern. Provision of First Asylum The law did not provide for the granting of asylum or refugee status, and the government did not have a system for providing protection to refugees.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+According to the 2022 census, there were no Jewish citizens. There were no reports of antisemitic incidents during the year.
+
+## Saint Lucia — 2023 Human Rights Report
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Saint Lucia during the year. Significant human rights issues included laws criminalizing consensual sexual conduct between men, but the laws were not enforced. The government took credible steps to identify and punish officials who may have committed human rights abuses.
+
+### Section 1. Respect for the Integrity of the Person
+
+#### a. Arbitrary Deprivation of Life and Other Unlawful or Politically Motivated Killings
+
+Politically Motivated Killings There were no reports the government or its agents committed arbitrary or unlawful killings, including extrajudicial killings, during the year.
+
+#### b. Disappearance
+
+There were no reports of enforced disappearances by or on behalf of government authorities.
+
+#### c. Torture and Other Cruel, Inhuman, or Degrading
+
+Treatment or Punishment, and Other Related Abuses The constitution prohibited such practices, and there were no credible reports that government officials employed them. Prison and Detention Center Conditions There were no reports regarding prison or detention center conditions that raised human rights concerns. Administration: Authorities investigated allegations of mistreatment. Independent Monitoring: The government permitted monitoring by independent nongovernmental observers. Improvements: In July media reported the primary prison underwent improvements in infrastructure, including repairing fences and roofs.
+
+#### d. Arbitrary Arrest or Detention
+
+The constitution prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their arrest or detention in court. The government observed these requirements. Arrest Procedures and Treatment of Detainees Authorities were required to apprehend persons openly with warrants issued by a judicial authority. The law required a court hearing within 72 hours of detention. Authorities allowed detainees prompt access to counsel. There was a functioning bail system.
+
+#### e. Denial of Fair Public Trial
+
+The constitution provided for an independent judiciary, and the government generally respected judicial independence and impartiality. Trial Procedures The law provided for the right to a fair and public trial, and the judiciary generally enforced this right. Political Prisoners and Detainees There were no reports of political prisoners or detainees.
+
+#### f. Transnational Repression
+
+Not applicable.
+
+#### g. Property Seizure and Restitution
+
+Not applicable.
+
+#### h. Arbitrary or Unlawful Interference with Privacy, Family,
+
+Home, or Correspondence The constitution prohibited such actions, and there were no reports that the government failed to respect these prohibitions.
+
+### Section 2. Respect for Civil Liberties
+
+#### a. Freedom of Expression, Including for the Members of the Press and Other Media
+
+the Press and Other Media The constitution provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members. Internet Freedom The government did not restrict or disrupt access to the internet or censor online content.
+
+#### b. Freedoms of Peaceful Assembly and Association
+
+The constitution provided for the freedoms of peaceful assembly and association, and the government generally respected these rights.
+
+#### c. Freedom of Religion
+
+See the Department of State’s International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### d. Freedom of Movement and the Right to Leave the Country
+
+Country The constitution and law provided for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights.
+
+#### e. Protection of Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, or asylum seekers, as well as other persons of concern. Access to Asylum: The law did not specifically provide for the granting of asylum or refugee status, and the government had not established a system for providing protection to refugees.
+
+### Section 3. Freedom to Participate in the Political
+
+Process The constitution provided citizens the ability to choose their government in free and fair periodic elections held by secret ballot and based on universal and equal suffrage. Elections and Political Participation Abuses or Irregularities in Recent Elections : National elections were widely reported to be fair and free of abuses and irregularities.
+
+### Section 4. Corruption in Government
+
+The law provided criminal penalties for corruption by officials, and the government generally implemented these laws. There were isolated reports of government corruption during the year.
+
+### Section 5. Governmental Posture Towards
+
+International and Nongovernmental Monitoring and Investigation of Alleged Abuses of Human Rights Domestic human rights groups generally operated without government restriction to monitor or investigate human rights conditions or cases and publish their findings. Government officials were generally cooperative and responsive to the views of these groups.
+
+### Section 6. Discrimination and Societal Abuses
+
+Women Rape and Domestic Violence: The law criminalized rape of men and women, including domestic or intimate partner rape and other forms of domestic and sexual violence, as well as so-called corrective rape of lesbian, gay, bisexual, transgender, queer, or intersex (LGBTQI+) individuals. The law stipulated a sentence of 14 years’ to life imprisonment. The government enforced the law effectively. The law criminalized spousal rape only when a couple was divorced or separated or when there was a protection order from the family court. The law prohibited sexual assault, and authorities enforced the law. Roungement – the practice of parents accepting monetary compensation to settle rape and sexual assault cases out of court – was prohibited by law, and the law was enforced. In June media reports of allegations of sexual misconduct by a senior police officer led several NGO and human rights activists to express concern regarding the lack of an independent probe into the allegations. In August a local NGO facilitated training for police officers and public health officials on the contents and processes of the 2022 domestic violence act. The NGO reported the first indictable case under the act was in the high court with an indictment for maiming, which carried a maximum sentence of 25 years’ imprisonment. The local NGO also reported that although authorities offered newly renovated shelter for survivors and referred domestic violence cases for counseling, the counseling referrals did not always result in the provision of timely service. The NGO addressed the gap by providing such services three days a week. The NGO also reported police facilitated the issuance of court protection orders by interviewing victims and providing copies of police reports to the Family Court. The NGO stated that while the rate of domestic violence likely remained constant, the reporting of incidents had increased due to the perception survivors would benefit from additional protections provided by the 2022 act. The NGO also indicated the government had not reported rape statistics since 2017. Other Forms of Gender-based Violence or Harassment: The law prohibited sexual harassment, but according to some NGOs, sexual harassment was a problem, and government enforcement was not always an effective deterrent. Most cases of sexual harassment were handled in the workplace rather than prosecuted under the law. Discrimination: The law provided the same legal status and rights for women and men, and the law was generally respected. The foreign husband of a Saint Lucian woman did not automatically receive Saint Lucian citizenship, but the foreign wife of a Saint Lucian man did. Married, widowed, or divorced women, as well as women who were naturalized citizens, were required to fill out additional information on passport applications that was not required of men regardless of their marital status or path to citizenship. The law required that men and women receive equal pay for equal work but set different rates of severance pay for men and women. An NGO reported victims of discrimination based on gender and economic status generally could not afford legal fees to seek redress. Reproductive Rights: There were no reports of coerced abortion or involuntary sterilization on the part of government authorities. Contraception for those with a prescription and emergency services including abortion (through 12 weeks) was widely available for those age 18 or older. Children required parental consent to access emergency contraception. Survivors of sexual violence could access services, including emergency contraception and postexposure prophylaxis, from any of the public hospitals and wellness centers. Systemic Racial or Ethnic Violence and Discrimination There were no reports of systemic racial or ethnic violence and discrimination. Children Child Abuse: The law prohibited all forms of child abuse, and the government generally enforced the law. Child, Early, and Forced Marriage: The legal minimum age for marriage was 18, or 16 with parental consent. The government generally enforced the law. Sexual Exploitation of Children: Laws on sexual offenses covered rape, unlawful sexual contact, and unlawful sexual intercourse with children younger than 16. The law did not specifically include the sale or grooming of children, but if such acts led to a crime, they could be prosecuted under other laws. The age of consent was 16, but a consent defense could be cited if the victim was between 12 and 16. The law prohibited sex trafficking of children younger than 18. No law defined or specifically prohibited child pornography. The government enforced laws on sexual offenses against children, in part through a police team that focused solely on sexual crimes, including sexual crimes involving children. Antisemitism There was a small organized Jewish community, and there were no reports of antisemitic incidents. Trafficking in Persons See the Department of State’s Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acts of Violence, Criminalization, and Other Abuses Based on Sexual Orientation, Gender Identity or Expression, or Sex Characteristics Criminalization: The law criminalized consensual same-sex sexual acts of “gross indecency” (defined as sexual acts other than intercourse) as well as consensual intercourse between men and stipulated a maximum penalty of 10 years in prison. Attempted consensual sexual intercourse between men was punishable by five years in prison. The law was not enforced. As of October, there was a pending court challenge to the law. Violence and Harassment: There were no known reports of violence against LGBTQI+ individuals being incited, perpetrated, condoned, or tolerated. Discrimination: The law prohibited discrimination based on sexual orientation, gender identity or expression, or sex characteristics. Availability of Legal Gender Recognition: There was no legal procedure that permitted individuals to update their gender on identity documents. Involuntary or Coercive Medical or Psychological Practices: There were no reports of involuntary or coercive medical or psychological practices specifically targeting LGBTQI+ individuals. There were no reports of medically unnecessary and irreversible “normalization” surgeries performed on children or nonconsenting adult intersex persons. Restrictions of Freedom of Expression, Association, or Peaceful Assembly : There were no restrictions on freedom of expression, association, or peaceful assembly related to LGBTQI+ issues or events. Persons with Disabilities The law did not prohibit discrimination against persons with physical, sensory, intellectual, and mental disabilities. Government regulations required access for persons with disabilities to all public buildings, but some government buildings lacked access ramps. Persons with disabilities had the right to vote, but in the past election, some polling stations were inaccessible for voters with limited mobility. Children with physical and visual disabilities could be mainstreamed into the wider student population. There were schools available for persons with developmental disabilities and for children who were hard of hearing, deaf, blind, or visually impaired.
+
+### Section 7. Worker Rights
+
+#### a. Freedom of Association and the Right to Collective
+
+Bargaining The law specified the right of most workers to form and join independent unions, bargain collectively, and conduct legal strikes. The law prohibited antiunion discrimination, and workers fired for union activity had the right to reinstatement. Penalties were not commensurate with those for other laws involving denials of civil rights, such as discrimination. The government enforced the law effectively. The law restricted the right to strike and bargain collectively by police, corrections service, fire department, health service, and utilities (electricity, water, and telecommunications) on the grounds that these organizations provided essential services. These workers were required to give 30 days’ notice before striking. Once workers gave notice, authorities usually referred the matter to an ad hoc labor tribunal. The government selected tribunal members following rules to assure tripartite representation. The tribunals attempted to resolve disputes primarily through mandatory arbitration. The government generally respected freedom of association, and employers generally respected the right to collective bargaining. Workers exercised the right to strike and bargain collectively.
+
+#### b. Prohibition of Forced or Compulsory Labor See the Department of State’s Trafficking in Persons Report at
+
+See the Department of State’s Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+#### c. Prohibition of Child Labor and Minimum Age for Employment
+
+Employment See the Department of Labor’s Findings on the Worst Forms of Child Labor at https://www.dol.gov/agencies/ilab/resources/reports/child-labor/findings/.
+
+#### e. Acceptable Conditions of Work
+
+Wage and Hour Laws: There was no law to establish a minimum wage. The legislated workweek was 40 hours, with a maximum of eight hours per day. Occupational Safety and Health: The government set occupational safety and health (OSH) standards that were appropriate. The government conducted OSH inspections, but the number of inspectors was not adequate to enforce compliance. Workers could remove themselves from situations that endangered health or safety without jeopardy to their employment, and authorities effectively protected employees in these cases. Wage, Hour, and OSH Enforcement: Labor laws, including overtime rules and OSH standards, applied to all workers, whether in the formal or informal sector. Special legislation covered work hours for shop assistants, agricultural workers, domestic workers, and industrial workers. The government effectively enforced the law in the formal sector. The labor code provided penalties that were not commensurate with those for similar crimes such as fraud. The Ministry of Public Service, Home Affairs, Labour, and Gender Affairs was responsible for monitoring implementation of labor laws. Employers were generally responsive to ministry requests to address labor code violations, and authorities rarely levied fines. Labor inspectors effectively monitored compliance with standards governing pensions, terminations, vacation, sick leave, contracts, and hours of work. Inspectors had the authority to initiate sanctions, institute proceedings before the tribunal, or hold informal inquiries when complaints were brought to their notice. According to an International Labor Organization study, the informal sector made up approximately 27 percent of the workforce. The government did not enforce labor laws in this sector.

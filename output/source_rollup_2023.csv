@@ -1,0 +1,1341 @@
+source,source_type,mentions,countries,confidence
+ngos,unnamed/generic,2100,180,low
+journalists,unnamed/generic,1323,150,low
+activists,unnamed/generic,935,124,low
+ngo,unnamed/generic,860,161,low
+observers,unnamed/generic,724,182,low
+UNHCR,UN body,669,138,high
+human rights organizations,unnamed/generic,349,82,low
+experts,unnamed/generic,335,121,low
+civil society organizations,unnamed/generic,314,107,low
+human rights defenders,unnamed/generic,275,84,low
+media outlets,unnamed/generic,271,109,low
+trade union,unnamed/generic,268,112,low
+journalist,unnamed/generic,265,100,low
+trade unions,unnamed/generic,249,115,low
+human rights groups,unnamed/generic,244,87,low
+human rights activists,unnamed/generic,204,74,low
+United Nations,UN body,199,91,high
+activist,unnamed/generic,184,76,low
+international human rights groups,unnamed/generic,177,154,low
+media reports,unnamed/generic,156,75,low
+Amnesty International,international NGO,145,62,high
+local ngos,unnamed/generic,140,65,low
+civil society groups,unnamed/generic,135,67,low
+Freedom House,international NGO,119,51,high
+UNICEF,UN body,117,68,high
+Human Rights Watch,international NGO,116,60,high
+nongovernmental organizations,unnamed/generic,105,95,low
+labor unions,unnamed/generic,102,56,low
+international ngos,unnamed/generic,98,51,low
+International Labor Organization,UN body,93,79,high
+international observers,unnamed/generic,68,50,low
+academic,unnamed/generic,67,42,low
+International Committee of the Red Cross,international NGO,66,62,high
+Council of Europe,intergovernmental,64,35,high
+World Bank,IFI,53,43,high
+International Organization for Migration,UN body,50,47,high
+nongovernmental organization,unnamed/generic,48,47,low
+international human rights organizations,unnamed/generic,48,37,low
+independent journalists,unnamed/generic,44,24,low
+UNFPA,UN body,44,14,high
+labor union,unnamed/generic,43,32,low
+local ngo,unnamed/generic,42,23,low
+media outlet,unnamed/generic,39,34,low
+domestic ngos,unnamed/generic,37,23,low
+independent observers,unnamed/generic,35,25,low
+academics,unnamed/generic,35,25,low
+human rights activist,unnamed/generic,33,25,low
+human rights organization,unnamed/generic,33,15,low
+Reporters Without Borders,international NGO,32,28,high
+independent media outlets,unnamed/generic,31,16,low
+World Health Organization,UN body,30,27,high
+press reports,unnamed/generic,30,21,low
+European Court of Human Rights,judicial,29,22,high
+independent trade unions,unnamed/generic,28,25,low
+domestic human rights groups,unnamed/generic,27,23,low
+international ngo,unnamed/generic,25,21,low
+Transparency International,international NGO,25,18,high
+Ministry of Justice,named (unclassified),24,18,medium
+human rights defender,unnamed/generic,24,19,low
+civil society organization,unnamed/generic,24,20,low
+local human rights groups,unnamed/generic,24,18,low
+local human rights organizations,unnamed/generic,24,18,low
+an ngo,unnamed/generic,22,13,low
+European Union,intergovernmental,20,16,high
+Organization for Security and Cooperation in Europe,intergovernmental,19,18,high
+expert,unnamed/generic,18,18,low
+independent ngos,unnamed/generic,17,11,low
+observer,unnamed/generic,17,14,low
+international trade union,unnamed/generic,16,14,low
+local activists,unnamed/generic,16,12,low
+international nongovernmental organizations,unnamed/generic,15,15,low
+local observers,unnamed/generic,15,13,low
+Committee to Protect Journalists,international NGO,15,14,high
+domestic ngo,unnamed/generic,15,12,low
+domestic human rights organizations,unnamed/generic,15,14,low
+local civil society organizations,unnamed/generic,13,12,low
+local nongovernmental organizations,unnamed/generic,12,12,low
+some ngos,unnamed/generic,12,11,low
+independent labor unions,unnamed/generic,12,10,low
+Office of the UN High Commissioner for Human Rights,UN body,12,11,high
+local media reports,unnamed/generic,12,8,low
+Ombudsperson Institution,named (unclassified),12,1,medium
+Ministry of Interior,named (unclassified),11,10,medium
+human rights monitors,unnamed/generic,11,10,low
+African Union,intergovernmental,11,11,high
+UN Women,UN body,11,11,high
+International Monetary Fund,IFI,10,9,high
+Foro Penal,named (unclassified),10,1,medium
+Ministry of Health,named (unclassified),9,8,medium
+domestic observers,unnamed/generic,9,8,low
+civil society group,unnamed/generic,9,6,low
+local human rights organization,unnamed/generic,9,4,low
+several ngos,unnamed/generic,9,7,low
+local journalists,unnamed/generic,9,8,low
+World Food Program,UN body,8,8,high
+Ministry of Labor,named (unclassified),8,7,medium
+Media and NGOs,named (unclassified),8,7,medium
+UNESCO,UN body,7,7,high
+independent experts,unnamed/generic,7,5,low
+human rights group,unnamed/generic,7,5,low
+media report,unnamed/generic,7,3,low
+Organization of American States,intergovernmental,6,5,high
+One NGO,named (unclassified),6,6,medium
+UN Population Fund,named (unclassified),6,6,medium
+local human rights activists,unnamed/generic,6,6,low
+International Criminal Court,judicial,6,6,high
+International Trade Union Confederation,named (unclassified),5,5,medium
+local experts,unnamed/generic,5,5,low
+Antisemitism Observers,named (unclassified),5,5,medium
+Racism and Intolerance,named (unclassified),5,4,medium
+independent human rights organizations,unnamed/generic,5,5,low
+National Security Forum,named (unclassified),5,1,medium
+High Commissioner for Human Rights,named (unclassified),5,4,medium
+local nongovernmental organization,unnamed/generic,5,5,low
+Public Ministry,named (unclassified),5,2,medium
+White Helmets,named (unclassified),5,1,medium
+National Commission,named (unclassified),5,1,medium
+Internal Displacement Monitoring Center,named (unclassified),4,4,medium
+independent trade union,unnamed/generic,4,3,low
+Ministry of Labour,named (unclassified),4,2,medium
+local media outlets,unnamed/generic,4,4,low
+independent civil society organizations,unnamed/generic,4,2,low
+Rule of Law Report,named (unclassified),4,3,medium
+Ligue Iteka,named (unclassified),4,1,medium
+international human rights monitors,unnamed/generic,4,4,low
+Journalists and NGOs,named (unclassified),4,3,medium
+Socorro Jurídico Humanitario,named (unclassified),4,1,medium
+international civil society organizations,unnamed/generic,4,4,low
+independent nongovernmental organization,unnamed/generic,4,4,low
+international experts,unnamed/generic,4,4,low
+human rights monitor,unnamed/generic,4,4,low
+international media outlets,unnamed/generic,4,4,low
+Punishment (CPT),named (unclassified),4,4,medium
+Ministry of Foreign Affairs,named (unclassified),4,4,medium
+Kav LaOved,named (unclassified),4,1,medium
+UN Panel of Experts,named (unclassified),4,3,medium
+UN Working Group on Discrimination Against Women and Girls,named (unclassified),4,1,medium
+Ministry of Internal Affairs,named (unclassified),4,2,medium
+Advocacy Forum,named (unclassified),4,1,medium
+Coalition Margini,named (unclassified),4,1,medium
+Omani Centre for Human Rights,named (unclassified),4,1,medium
+Center for Law of Armed Conflict,named (unclassified),4,1,medium
+Interior Ministry,named (unclassified),3,3,medium
+Solidarity Center,named (unclassified),3,1,medium
+independent observer,unnamed/generic,3,3,low
+Human Rights Commission,named (unclassified),3,2,medium
+domestic human rights organization,unnamed/generic,3,2,low
+Ministry of Labour and Employment,named (unclassified),3,1,medium
+independent journalist,unnamed/generic,3,3,low
+independent media outlet,unnamed/generic,3,3,low
+local trade unions,unnamed/generic,3,2,low
+UN Human Rights Council,named (unclassified),3,3,medium
+Inter-American Commission on Human Rights,named (unclassified),3,3,medium
+Ministry of Public Security,named (unclassified),3,2,medium
+international journalists,unnamed/generic,3,3,low
+independent human rights groups,unnamed/generic,3,3,low
+Organization for Economic Cooperation and Development,named (unclassified),3,3,medium
+Sixth Tone,named (unclassified),3,1,medium
+High Commissioner for Human Rights (OHCHR),named (unclassified),3,3,medium
+other ngos,unnamed/generic,3,3,low
+A Turkish Cypriot NGO,named (unclassified),3,1,medium
+domestic nongovernmental organization,unnamed/generic,3,3,low
+High Court,named (unclassified),3,2,medium
+Prevention of Torture (CPT),named (unclassified),3,3,medium
+domestic civil society organizations,unnamed/generic,3,3,low
+international human rights organization,unnamed/generic,3,3,low
+Labor Ministry,named (unclassified),3,3,medium
+European Commission,named (unclassified),3,3,medium
+Ministry of Manpower,named (unclassified),3,2,medium
+Kurdistan Human Rights Network,named (unclassified),3,1,medium
+Ministry of Education,named (unclassified),3,3,medium
+Another NGO,named (unclassified),3,3,medium
+Privacy International,named (unclassified),3,2,medium
+Rights Center,named (unclassified),3,2,medium
+Cabo Delgado Province,named (unclassified),3,1,medium
+In February RFA,named (unclassified),3,1,medium
+Department of Labor,named (unclassified),3,2,medium
+local journalist,unnamed/generic,3,3,low
+Freedom Initiative,named (unclassified),3,1,medium
+Ministry of Employment and Labor,named (unclassified),3,1,medium
+UN Commission on Human Rights in South Sudan,named (unclassified),3,1,medium
+numerous ngos,unnamed/generic,3,1,low
+Mothers Association,named (unclassified),3,1,medium
+Ministry of Health and Social Protection,named (unclassified),2,1,medium
+World Vision,named (unclassified),2,1,medium
+Protection of Children,named (unclassified),2,2,medium
+NGO Mosaiko,named (unclassified),2,1,medium
+International Partnership for Human Rights (IPHR),named (unclassified),2,2,medium
+many ngos,unnamed/generic,2,2,low
+Investigative Committee,named (unclassified),2,2,medium
+domestic media outlets,unnamed/generic,2,2,low
+UN Working Group on Arbitrary Detention,named (unclassified),2,1,medium
+Human Rights First,named (unclassified),2,2,medium
+Centre for Governance Studies,named (unclassified),2,1,medium
+independent media reports,unnamed/generic,2,1,low
+independent expert,unnamed/generic,2,2,low
+BH Journalists Association,named (unclassified),2,1,medium
+Sarajevo Open Center,named (unclassified),2,1,medium
+O Globo,named (unclassified),2,1,medium
+Brazilian Public Security Forum,named (unclassified),2,1,medium
+Ministry of Home Affairs,named (unclassified),2,2,medium
+Mission Wings,named (unclassified),2,1,medium
+Romani NGOs,named (unclassified),2,2,medium
+international nongovernmental organization,unnamed/generic,2,2,low
+National Institute of Statistics and Demography,named (unclassified),2,1,medium
+Coordination of Humanitarian Affairs,named (unclassified),2,2,medium
+local human rights defenders,unnamed/generic,2,2,low
+Voice of America,named (unclassified),2,2,medium
+World Economics,named (unclassified),2,2,medium
+Coordination of Humanitarian Affairs (OCHA),named (unclassified),2,2,medium
+Observers and NGOs,named (unclassified),2,2,medium
+Red Cross (ICRC),named (unclassified),2,2,medium
+Safeguard Defenders,named (unclassified),2,1,medium
+independent academic,unnamed/generic,2,2,low
+Washington Post,named (unclassified),2,2,medium
+China Digital Times,named (unclassified),2,1,medium
+international media reports,unnamed/generic,2,2,low
+World Jewish Congress,named (unclassified),2,2,medium
+Fundación GAAT,named (unclassified),2,1,medium
+Prisoners Defenders,named (unclassified),2,1,medium
+independent activists,unnamed/generic,2,1,low
+Turkish Cypriots,named (unclassified),2,1,medium
+NGO Accept LGBTI Cyprus,named (unclassified),2,1,medium
+Queer Cyprus Association,named (unclassified),2,1,medium
+National Commission on Human Rights,named (unclassified),2,2,medium
+Commissioner for Human Rights,named (unclassified),2,2,medium
+independent ngo,unnamed/generic,2,2,low
+local human rights group,unnamed/generic,2,2,low
+El País,named (unclassified),2,2,medium
+Application of Law,named (unclassified),2,1,medium
+Labor Inspectorate,named (unclassified),2,2,medium
+UN Population Division,named (unclassified),2,2,medium
+independent human rights group,unnamed/generic,2,2,low
+UN High Commissioner for Human Rights Volker Turk,named (unclassified),2,2,medium
+BBC Amharic,named (unclassified),2,1,medium
+In September the Ethiopian Human Rights Defenders Center,named (unclassified),2,1,medium
+Displacement Tracking Matrix,named (unclassified),2,2,medium
+Amnesty Finland,named (unclassified),2,1,medium
+Ombudsman for Equality,named (unclassified),2,1,medium
+Interior Minister Darmanin,named (unclassified),2,1,medium
+PDO and NGOs,named (unclassified),2,1,medium
+local civil society organization,unnamed/generic,2,2,low
+domestic journalists,unnamed/generic,2,2,low
+Directorate of Prison Administration,named (unclassified),2,1,medium
+press report,unnamed/generic,2,1,low
+Supreme Court,named (unclassified),2,2,medium
+Alliance of Independent Journalists,named (unclassified),2,1,medium
+International Work Group for Indigenous Affairs,named (unclassified),2,2,medium
+Ministry of Culture,named (unclassified),2,2,medium
+NGO Hengaw,named (unclassified),2,1,medium
+Gulf International Forum,named (unclassified),2,1,medium
+local press reports,unnamed/generic,2,1,low
+Citizens and NGOs,named (unclassified),2,1,medium
+Arab World Now,named (unclassified),2,1,medium
+State Revenue Committee,named (unclassified),2,1,medium
+Pristina Basic Court,named (unclassified),2,1,medium
+NGO Bir Duino,named (unclassified),2,1,medium
+MENA Rights Group,named (unclassified),2,2,medium
+Ministry of Finance,named (unclassified),2,2,medium
+Bureau of Corrections and Rehabilitation,named (unclassified),2,1,medium
+Lawyers for Justice in Libya and Libya Crimes Watch,named (unclassified),2,1,medium
+domestic nongovernmental organizations,unnamed/generic,2,2,low
+Trades Union Congress,named (unclassified),2,1,medium
+Defense and Promotion of Human Rights,named (unclassified),2,1,medium
+Federal Center,named (unclassified),2,1,medium
+Globe International Center,named (unclassified),2,1,medium
+June RFA,named (unclassified),2,1,medium
+In April RFA,named (unclassified),2,1,medium
+In June RFA,named (unclassified),2,1,medium
+White Paper,named (unclassified),2,1,medium
+Media Trade Union,named (unclassified),2,1,medium
+NGO Sahil,named (unclassified),2,1,medium
+National Police,named (unclassified),2,2,medium
+National Institute of Statistics,named (unclassified),2,2,medium
+Antisemitism An,named (unclassified),2,2,medium
+Helsinki Foundation for Human Rights,named (unclassified),2,1,medium
+local activist,unnamed/generic,2,2,low
+Ethnic Hungarians,named (unclassified),2,1,medium
+international human rights group,unnamed/generic,2,2,low
+Civic Assistance Committee,named (unclassified),2,1,medium
+Radio Liberty,named (unclassified),2,2,medium
+Roma Plenipotentiary,named (unclassified),2,1,medium
+Ministry of Health and Welfare,named (unclassified),2,2,medium
+National Statistics Institute,named (unclassified),2,1,medium
+Unit for Combatting Violence Against Women,named (unclassified),2,1,medium
+Syrian Observatory for Human Rights,named (unclassified),2,1,medium
+NGO Syrians for Truth and Justice,named (unclassified),2,2,medium
+Al Jazeera,named (unclassified),2,2,medium
+Human Dignity Trust,named (unclassified),2,1,medium
+President Saied,named (unclassified),2,1,medium
+Penal System Association,named (unclassified),2,1,medium
+Chronicles of Turkmenistan,named (unclassified),2,1,medium
+Nash Svit,named (unclassified),2,1,medium
+Civil Service,named (unclassified),2,1,medium
+NGO Ezgulik,named (unclassified),2,1,medium
+María Corina Machado,named (unclassified),2,1,medium
+Espacio Público,named (unclassified),2,1,medium
+Daily Etilaatroz,named (unclassified),1,1,medium
+Situation of Human Rights in Afghanistan Richard Bennett,named (unclassified),1,1,medium
+Both ACLED and UNAMA,named (unclassified),1,1,medium
+Afghan Journalists Center,named (unclassified),1,1,medium
+Norwegian Refugee Council,named (unclassified),1,1,medium
+Empowerment of Women Sima Sami Bahous,named (unclassified),1,1,medium
+UN Under-Secretary-General Bahous,named (unclassified),1,1,medium
+Coordination of Humanitarian Affairs in Afghanistan,named (unclassified),1,1,medium
+Institute for Activism and Social Change (IANS),named (unclassified),1,1,medium
+General Directorate of Prisons (GDP),named (unclassified),1,1,medium
+Prevention of Torture,named (unclassified),1,1,medium
+General Directorate of State Police,named (unclassified),1,1,medium
+Albanian Journalists Union (AJU),named (unclassified),1,1,medium
+Albanian Institute of Political Studies (AIPS),named (unclassified),1,1,medium
+Declaration and Audit of Assets and Conflict of Interest,named (unclassified),1,1,medium
+Roma and Balkan-Egyptians,named (unclassified),1,1,medium
+NGOs Nisma Arsis and World Vision,named (unclassified),1,1,medium
+NGO Children Rights Center Albania (CRCA),named (unclassified),1,1,medium
+NGO Terre des Hommes,named (unclassified),1,1,medium
+NGOs Nisma Arsis and Terre des Hommes,named (unclassified),1,1,medium
+Nisma Arsis,named (unclassified),1,1,medium
+Alliance Against Discrimination of LGBT,named (unclassified),1,1,medium
+Streha and Alliance Against Discrimination of LGBT,named (unclassified),1,1,medium
+NGO PINK Embassy,named (unclassified),1,1,medium
+Albanian Disabilities Rights Foundation (ADRF),named (unclassified),1,1,medium
+Directorate General for National Security (DGSN),named (unclassified),1,1,medium
+local civil society groups,unnamed/generic,1,1,low
+Ministry of Communication,named (unclassified),1,1,medium
+Liberation of Detainees (CNLD),named (unclassified),1,1,medium
+Wassila Network,named (unclassified),1,1,medium
+Algerian Society of Fertility and Contraception,named (unclassified),1,1,medium
+Directorate General of National Security (DGSN),named (unclassified),1,1,medium
+National Autonomous Union for Public Administration Personnel (SNAPAP),named (unclassified),1,1,medium
+Radio M,named (unclassified),1,1,medium
+Lunda Norte and Lunda Sul,named (unclassified),1,1,medium
+Buenos Aires,named (unclassified),1,1,medium
+Protection of Rights Without Borders NGO,named (unclassified),1,1,medium
+Access Now,named (unclassified),1,1,medium
+Protect Freedom of Expression,named (unclassified),1,1,medium
+Migration and Citizenship Services,named (unclassified),1,1,medium
+Racism and Intolerance (ECRI),named (unclassified),1,1,medium
+Observation Group,named (unclassified),1,1,medium
+In June the Human Rights Commission,named (unclassified),1,1,medium
+Australian Bureau of Statistics in August,named (unclassified),1,1,medium
+Australian Bureau of Statistics,named (unclassified),1,1,medium
+Captive and Missing,named (unclassified),1,1,medium
+domestic human rights activists,unnamed/generic,1,1,low
+Galib Bayramov,named (unclassified),1,1,medium
+President Ilham Aliyev,named (unclassified),1,1,medium
+Republic of Armenia,named (unclassified),1,1,medium
+Bahrain Institute for Rights and Democracy (BIRD),named (unclassified),1,1,medium
+Salish Kendra (ASK),named (unclassified),1,1,medium
+Country Report,named (unclassified),1,1,medium
+Prothom Alo,named (unclassified),1,1,medium
+NGO Fortify Rights,named (unclassified),1,1,medium
+CHT Commission,named (unclassified),1,1,medium
+Parbatya Chattagram Jana Samhati Samiti (PCJSS),named (unclassified),1,1,medium
+Disabilities An NGO,named (unclassified),1,1,medium
+Net Report,named (unclassified),1,1,medium
+Belarusian Association of Journalists,named (unclassified),1,1,medium
+National Statistics Committee,named (unclassified),1,1,medium
+Union of Poles,named (unclassified),1,1,medium
+Director of Immigration Debra Baptist Estrada,named (unclassified),1,1,medium
+Both PETAL and UniBAM,named (unclassified),1,1,medium
+Belize City,named (unclassified),1,1,medium
+Association of Defense Attorneys,named (unclassified),1,1,medium
+Virgil Ahouanse,named (unclassified),1,1,medium
+Social Change Benin,named (unclassified),1,1,medium
+Its Working Group on Arbitrary Detention,named (unclassified),1,1,medium
+Independent National Electoral Commission,named (unclassified),1,1,medium
+Beninese Association for Social Marketing,named (unclassified),1,1,medium
+Department of Immigration,named (unclassified),1,1,medium
+Discrimination CSOs,named (unclassified),1,1,medium
+Association of Journalists of La Paz,named (unclassified),1,1,medium
+Multidimensional Violence,named (unclassified),1,1,medium
+Andrés Gómez,named (unclassified),1,1,medium
+News Agency Fides,named (unclassified),1,1,medium
+Cobertura Digital,named (unclassified),1,1,medium
+Association of Councilors of Bolivia,named (unclassified),1,1,medium
+UN Entity on Gender Equality,named (unclassified),1,1,medium
+Inter-American Court of Human Rights,named (unclassified),1,1,medium
+In May CPT,named (unclassified),1,1,medium
+Free Media Help Line,named (unclassified),1,1,medium
+Aleksandar Trifunovic and Nikola Moraca,named (unclassified),1,1,medium
+Safe Journalist Network,named (unclassified),1,1,medium
+Ministry of Human Rights and Refugees,named (unclassified),1,1,medium
+Emir Suljagic,named (unclassified),1,1,medium
+Gender Equality Agency,named (unclassified),1,1,medium
+Interreligious Council of BiH,named (unclassified),1,1,medium
+Roma NGOs,named (unclassified),1,1,medium
+Agency for Gender Equality,named (unclassified),1,1,medium
+Sarajevo Open Centre (SOC),named (unclassified),1,1,medium
+Rio de Janeiro Institute of Public Security,named (unclassified),1,1,medium
+NGO Forum for Justice,named (unclassified),1,1,medium
+NGO National Security Forum,named (unclassified),1,1,medium
+National Council of Justice,named (unclassified),1,1,medium
+Oswaldo Cruz Foundation,named (unclassified),1,1,medium
+Jurandir Wellington,named (unclassified),1,1,medium
+Bahia and Maranhão,named (unclassified),1,1,medium
+Claudia Dadico,named (unclassified),1,1,medium
+Minas Gerais,named (unclassified),1,1,medium
+NGO Gay Group of Bahia,named (unclassified),1,1,medium
+In September Eller,named (unclassified),1,1,medium
+Grupo Globo,named (unclassified),1,1,medium
+Brazilian Institute of Geography and Statistics,named (unclassified),1,1,medium
+BBC Brasil,named (unclassified),1,1,medium
+Labor Inspectors Union,named (unclassified),1,1,medium
+Chinese Marriage Act,named (unclassified),1,1,medium
+Minister of Development,named (unclassified),1,1,medium
+In January the BHC,named (unclassified),1,1,medium
+NGO Anti-Corruption Fund,named (unclassified),1,1,medium
+In May National Investigative Service Director Borislav Sarafov,named (unclassified),1,1,medium
+In April the Association of European Journalists (AEJ),named (unclassified),1,1,medium
+Anti-Corruption Fund,named (unclassified),1,1,medium
+President Rumen Radev,named (unclassified),1,1,medium
+Polina Velcheva,named (unclassified),1,1,medium
+NGO Mission Wings,named (unclassified),1,1,medium
+NGO Institute for Market Economics,named (unclassified),1,1,medium
+In March the Institute for Market Economics,named (unclassified),1,1,medium
+National Social Security Institute,named (unclassified),1,1,medium
+National Network for Children,named (unclassified),1,1,medium
+Gays and Lesbians Accepted in Society Foundation in March,named (unclassified),1,1,medium
+In May the Single Step Foundation,named (unclassified),1,1,medium
+In July the Kera Foundation,named (unclassified),1,1,medium
+In May the Union of Bulgarian Medical Specialists,named (unclassified),1,1,medium
+Bulgarian Industrial Capital Association,named (unclassified),1,1,medium
+In March Transition President Traoré,named (unclassified),1,1,medium
+Burma Human Rights Network,named (unclassified),1,1,medium
+Karenni Human Rights Group,named (unclassified),1,1,medium
+Karen Human Rights Group,named (unclassified),1,1,medium
+Myanmar Now,named (unclassified),1,1,medium
+Annual Report on Children and Armed Conflict,named (unclassified),1,1,medium
+Confederation of Trade Unions in Myanmar,named (unclassified),1,1,medium
+Business and Human Rights Resource Center,named (unclassified),1,1,medium
+SOS Torture Burundi,named (unclassified),1,1,medium
+UN Human Rights Committee,named (unclassified),1,1,medium
+UN Committee Against Torture,named (unclassified),1,1,medium
+Office of Penitentiary Affairs,named (unclassified),1,1,medium
+NGO ACAT-Burundi,named (unclassified),1,1,medium
+Some IDPs,named (unclassified),1,1,medium
+In February the CNIDH,named (unclassified),1,1,medium
+Demographic and Health Survey,named (unclassified),1,1,medium
+NGO in Banteay Meanchey Province,named (unclassified),1,1,medium
+Hun Sen,named (unclassified),1,1,medium
+Foreign Ministry,named (unclassified),1,1,medium
+Candlelight Party,named (unclassified),1,1,medium
+Cambodian Journalists Alliance Association,named (unclassified),1,1,medium
+General Department of Immigration,named (unclassified),1,1,medium
+Immigration Office,named (unclassified),1,1,medium
+Cambodia Socio-Economic Survey,named (unclassified),1,1,medium
+National Election Committee,named (unclassified),1,1,medium
+Indigenous NGOs,named (unclassified),1,1,medium
+Although NGOs,named (unclassified),1,1,medium
+Mandela Center,named (unclassified),1,1,medium
+Northwest Region Governor Adolphe Lele Lafrique,named (unclassified),1,1,medium
+Moja Moja,named (unclassified),1,1,medium
+Coordinator for Humanitarian Affairs (OCHA),named (unclassified),1,1,medium
+Mbororo Social and Cultural Development Association,named (unclassified),1,1,medium
+NGO Colibri,named (unclassified),1,1,medium
+NGO Humanity First Cameroon,named (unclassified),1,1,medium
+Correctional Service of Canada,named (unclassified),1,1,medium
+Andre Spring,named (unclassified),1,1,medium
+Canada Border Services Agency,named (unclassified),1,1,medium
+Vancouver Police Department,named (unclassified),1,1,medium
+York University,named (unclassified),1,1,medium
+First Nation,named (unclassified),1,1,medium
+Children First Canada in August,named (unclassified),1,1,medium
+Auditor General of Canada,named (unclassified),1,1,medium
+Labour Program,named (unclassified),1,1,medium
+Central African Republic (MINUSCA),named (unclassified),1,1,medium
+Human Rights Division,named (unclassified),1,1,medium
+UN Human Rights Office and MINUSCA,named (unclassified),1,1,medium
+UN Human Rights Division,named (unclassified),1,1,medium
+National Electoral Authority,named (unclassified),1,1,medium
+Economic Community of Central African States Observer Mission,named (unclassified),1,1,medium
+International NGO Safety Organization,named (unclassified),1,1,medium
+September the HRW,named (unclassified),1,1,medium
+International Organization of Migration,named (unclassified),1,1,medium
+Ministry of Communications,named (unclassified),1,1,medium
+Chadian Disability Organization,named (unclassified),1,1,medium
+Investigations Police of Chile,named (unclassified),1,1,medium
+Legal and Social Sciences Research Conclave,named (unclassified),1,1,medium
+Homosexual Integration and Liberation Movement (MOVILH),named (unclassified),1,1,medium
+Iguales Foundation,named (unclassified),1,1,medium
+In July Radio Free Asia (RFA),named (unclassified),1,1,medium
+Maralbeshi County,named (unclassified),1,1,medium
+Rights Protection Network (RPN),named (unclassified),1,1,medium
+Independent Chinese PEN Center,named (unclassified),1,1,medium
+In March the UN High Commissioner for Human Rights,named (unclassified),1,1,medium
+Dagens Nyheter,named (unclassified),1,1,medium
+NGO PEN America,named (unclassified),1,1,medium
+PEN America,named (unclassified),1,1,medium
+Television and Theater Review Journal,named (unclassified),1,1,medium
+Straits Times,named (unclassified),1,1,medium
+University World News,named (unclassified),1,1,medium
+Shenzhen City,named (unclassified),1,1,medium
+North Korea,named (unclassified),1,1,medium
+South China Morning Post,named (unclassified),1,1,medium
+Caixin Global,named (unclassified),1,1,medium
+In March the RFA,named (unclassified),1,1,medium
+In March Radio Free Europe,named (unclassified),1,1,medium
+United Kingdom,named (unclassified),1,1,medium
+China Media Project,named (unclassified),1,1,medium
+Beijing News,named (unclassified),1,1,medium
+Intermediate Court,named (unclassified),1,1,medium
+Freedom of Association,named (unclassified),1,1,medium
+China Labor Watch,named (unclassified),1,1,medium
+NGO Center for Research and Popular Education (CINEP),named (unclassified),1,1,medium
+Study of Development and Peace (INDEPAZ),named (unclassified),1,1,medium
+Political Prisoners (CSPP),named (unclassified),1,1,medium
+Comprehensive Action Group Against Antipersonnel Mines,named (unclassified),1,1,medium
+NGO National Association of Displaced Afro-descendants,named (unclassified),1,1,medium
+NGO Caribe Afirmativo,named (unclassified),1,1,medium
+UN Development Program,named (unclassified),1,1,medium
+Antisemitism The Jewish Zionist Center,named (unclassified),1,1,medium
+Colombe Ivoire,named (unclassified),1,1,medium
+Pulchérie Gbalet,named (unclassified),1,1,medium
+COSCEL-CI and CIVIS,named (unclassified),1,1,medium
+Urban Planning,named (unclassified),1,1,medium
+Minister of Construction,named (unclassified),1,1,medium
+Mayor Assale Tiemoko,named (unclassified),1,1,medium
+Prime Minister Andrej Plenkovic,named (unclassified),1,1,medium
+Danish Refugee Council (DRC),named (unclassified),1,1,medium
+Lighthouse Reports,named (unclassified),1,1,medium
+Serb National Council (SNV),named (unclassified),1,1,medium
+Antisemitism The World Jewish Congress,named (unclassified),1,1,medium
+NGO Association for HIV (HUHIV),named (unclassified),1,1,medium
+NGO Christian Solidarity Worldwide,named (unclassified),1,1,medium
+Spain-based NGO Prisoners Defenders,named (unclassified),1,1,medium
+Lizandra Góngora Espinosa,named (unclassified),1,1,medium
+Cuban Observatory of Human Rights,named (unclassified),1,1,medium
+Jorge Fernández Era,named (unclassified),1,1,medium
+Prison and Detention Center Conditions NGOs,named (unclassified),1,1,medium
+ROC Bar Association,named (unclassified),1,1,medium
+Lawyers and NGOs,named (unclassified),1,1,medium
+Makarios Drousiotis,named (unclassified),1,1,medium
+In May the Center for Migration and Rights Studies,named (unclassified),1,1,medium
+In May the Larnaca District Court,named (unclassified),1,1,medium
+Family (SPAVO),named (unclassified),1,1,medium
+Officials and NGOs,named (unclassified),1,1,medium
+NGO Voice of International Students in Cyprus,named (unclassified),1,1,medium
+In March the Larnaca District Court,named (unclassified),1,1,medium
+Jewish Community Center,named (unclassified),1,1,medium
+Parents and NGOs,named (unclassified),1,1,medium
+In July the European Commission,named (unclassified),1,1,medium
+AIDS Help Society,named (unclassified),1,1,medium
+UN Joint Human Rights Office (UNJHRO),named (unclassified),1,1,medium
+Radio France International (RFI),named (unclassified),1,1,medium
+NGO Congo Handicap,named (unclassified),1,1,medium
+UN Group of Experts,named (unclassified),1,1,medium
+Protection for Whistleblowers in Africa,named (unclassified),1,1,medium
+Congo Handicap,named (unclassified),1,1,medium
+Trade Union Confederation,named (unclassified),1,1,medium
+Health Agency,named (unclassified),1,1,medium
+General Court in Holbaek,named (unclassified),1,1,medium
+Analyze Denmark,named (unclassified),1,1,medium
+Danish Institute for Human Rights (DIHR),named (unclassified),1,1,medium
+Jewish Community in Denmark,named (unclassified),1,1,medium
+National Human Rights Commission,named (unclassified),1,1,medium
+Confederation of Indigenous Nationalities of Ecuador,named (unclassified),1,1,medium
+Attorney General,named (unclassified),1,1,medium
+NGO Fundamedios,named (unclassified),1,1,medium
+NGO Regional Human Rights Advisory Foundation,named (unclassified),1,1,medium
+NGO Silueta X,named (unclassified),1,1,medium
+Discrimination Fundación Ecuatoriana Equidad,named (unclassified),1,1,medium
+domestic human rights group,unnamed/generic,1,1,low
+Minority Rights Group,named (unclassified),1,1,medium
+Giza Governorate,named (unclassified),1,1,medium
+Center for Trade Union and Workers Services,named (unclassified),1,1,medium
+National Civil Police (PNC),named (unclassified),1,1,medium
+El Faro,named (unclassified),1,1,medium
+El Diario de Hoy,named (unclassified),1,1,medium
+Association of Journalists of El Salvador (APES),named (unclassified),1,1,medium
+APES Center for Monitoring Attacks on Journalists,named (unclassified),1,1,medium
+Revista Factum,named (unclassified),1,1,medium
+Government Ethics Tribunal,named (unclassified),1,1,medium
+Union of Seamstresses and Tailors,named (unclassified),1,1,medium
+COMCAVIS TRANS,named (unclassified),1,1,medium
+Disabilities Foundation,named (unclassified),1,1,medium
+NGO Socorro Jurídico Humanitario,named (unclassified),1,1,medium
+Diaspora Simeon Oyono Angue,named (unclassified),1,1,medium
+Citizens for Innovation (CI),named (unclassified),1,1,medium
+President Obiang,named (unclassified),1,1,medium
+When NGOs,named (unclassified),1,1,medium
+Ministry of Health and Social Welfare,named (unclassified),1,1,medium
+NGO Release International,named (unclassified),1,1,medium
+UN Human Rights Council Working Group on Arbitrary Detention,named (unclassified),1,1,medium
+Outright International,named (unclassified),1,1,medium
+Office of Gender Equality and Equal Treatment,named (unclassified),1,1,medium
+Multi-Stakeholder Forum,named (unclassified),1,1,medium
+International Observatory of Lawyers,named (unclassified),1,1,medium
+Eswatini Observer,named (unclassified),1,1,medium
+National Development Plan,named (unclassified),1,1,medium
+Eswatini Sexual and Gender Minorities,named (unclassified),1,1,medium
+Ethiopian Human Rights Council (EHRCO),named (unclassified),1,1,medium
+Association for Human Rights in Ethiopia,named (unclassified),1,1,medium
+Ethiopian Insider,named (unclassified),1,1,medium
+Oromo Legacy Leadership and Advocacy Association (OLLAA),named (unclassified),1,1,medium
+EHRC in July,named (unclassified),1,1,medium
+In June HRW,named (unclassified),1,1,medium
+Ethiopia Insider,named (unclassified),1,1,medium
+Ethiopian Women Lawyers Association (EWLA),named (unclassified),1,1,medium
+Washington University,named (unclassified),1,1,medium
+Disabilities Association,named (unclassified),1,1,medium
+National Employment Policy and Strategy of Ethiopia,named (unclassified),1,1,medium
+Fiji Independent Commission Against Corruption,named (unclassified),1,1,medium
+Crisis Center,named (unclassified),1,1,medium
+NGO Diverse Voices and Action for Equality,named (unclassified),1,1,medium
+National Police Board,named (unclassified),1,1,medium
+District Court of Helsinki,named (unclassified),1,1,medium
+Dublin III Regulation,named (unclassified),1,1,medium
+Istanbul Convention,named (unclassified),1,1,medium
+Pirkanmaa District Court,named (unclassified),1,1,medium
+Finnish Intelligence Service,named (unclassified),1,1,medium
+Statistics Finland,named (unclassified),1,1,medium
+Data Protection Authority,named (unclassified),1,1,medium
+Sexual Mutilation,named (unclassified),1,1,medium
+Berman Jewish Data Bank,named (unclassified),1,1,medium
+Representative Council of Jewish Institutions,named (unclassified),1,1,medium
+SOS Homophobie,named (unclassified),1,1,medium
+Discrimination Local NGOs,named (unclassified),1,1,medium
+State Security Service of Georgia (SSSG),named (unclassified),1,1,medium
+Independent and Transparent Judiciary,named (unclassified),1,1,medium
+Court Watch,named (unclassified),1,1,medium
+NGO GYLA,named (unclassified),1,1,medium
+Media Advocacy Coalition,named (unclassified),1,1,medium
+UN Special Rapporteur on Human Rights Defenders,named (unclassified),1,1,medium
+High Representative,named (unclassified),1,1,medium
+Public Defender and GYLA,named (unclassified),1,1,medium
+domestic observer,unnamed/generic,1,1,low
+Trade Union Confederation of Georgia (GTUC),named (unclassified),1,1,medium
+Hamburg OPC,named (unclassified),1,1,medium
+NGO PRO ASYL,named (unclassified),1,1,medium
+Deutsche Presse Agentur,named (unclassified),1,1,medium
+Federal Statistical Office,named (unclassified),1,1,medium
+Federal Anti-Discrimination Agency (FADA),named (unclassified),1,1,medium
+Roma Life Mehmet Daimagueler,named (unclassified),1,1,medium
+Minister of Interior Herbert Reul,named (unclassified),1,1,medium
+Berlin NGO Maneo,named (unclassified),1,1,medium
+Institute for Human Rights,named (unclassified),1,1,medium
+NGO German AIDS Service Organization,named (unclassified),1,1,medium
+Prisons Service,named (unclassified),1,1,medium
+UN Office on Drugs and Crime,named (unclassified),1,1,medium
+Statistical Service,named (unclassified),1,1,medium
+Ministry for Citizen Protection,named (unclassified),1,1,medium
+El Pais,named (unclassified),1,1,medium
+New York Times,named (unclassified),1,1,medium
+Prime Minister Mitsotakis,named (unclassified),1,1,medium
+Hellenic Police and Coast Guard,named (unclassified),1,1,medium
+Racist Violence Recording Network (RVRN),named (unclassified),1,1,medium
+INTERSOS Greece,named (unclassified),1,1,medium
+Hellenic Police,named (unclassified),1,1,medium
+Vanessa Veneti Kottika,named (unclassified),1,1,medium
+NGO Intersex Greece,named (unclassified),1,1,medium
+In February the Labor Inspectorate,named (unclassified),1,1,medium
+UN High Commissioner for Human Rights (OHCHR),named (unclassified),1,1,medium
+Association of Journalists of Guatemala,named (unclassified),1,1,medium
+Freedom of Association Some NGOs,named (unclassified),1,1,medium
+Reproductive and Sexual Health Observatory,named (unclassified),1,1,medium
+UN High Commissioner for Refugees,named (unclassified),1,1,medium
+NGO Mutual Support Group,named (unclassified),1,1,medium
+Guinea-Bissau Human Rights League (GBHRL),named (unclassified),1,1,medium
+Too Many,named (unclassified),1,1,medium
+Minister of Justice Alfonse Charles Wright,named (unclassified),1,1,medium
+Association of Guinean Bloggers,named (unclassified),1,1,medium
+domestic civil society groups,unnamed/generic,1,1,low
+Onomo Hotel Conakry,named (unclassified),1,1,medium
+In June the High Court,named (unclassified),1,1,medium
+In July the High Court,named (unclassified),1,1,medium
+Pan American Health Organization,named (unclassified),1,1,medium
+Guyana Public Service Union,named (unclassified),1,1,medium
+Guyanese Bureau of Statistics,named (unclassified),1,1,medium
+UN Integrated Office in Haiti (BINUH),named (unclassified),1,1,medium
+Eyes Wide Open Foundation,named (unclassified),1,1,medium
+Center for Analysis and Research in Human Rights,named (unclassified),1,1,medium
+Doctors Without Borders,named (unclassified),1,1,medium
+Roderson Elias,named (unclassified),1,1,medium
+NGO Haitian National Human Rights Defense Network,named (unclassified),1,1,medium
+Status and Rights of Women,named (unclassified),1,1,medium
+Neges Mawon,named (unclassified),1,1,medium
+Better Work Haiti (BWH),named (unclassified),1,1,medium
+Institute for Social Well-Being and Research,named (unclassified),1,1,medium
+National Human Rights Commission (CONADEH),named (unclassified),1,1,medium
+CONADEH and CONAPREV,named (unclassified),1,1,medium
+Ministry of Security,named (unclassified),1,1,medium
+National Center for Social Sector Information,named (unclassified),1,1,medium
+Hungarian Helsinki Committee (HHC),named (unclassified),1,1,medium
+domestic media outlet,unnamed/generic,1,1,low
+Media Plurality Monitor,named (unclassified),1,1,medium
+In June the European Court of Justice (ECJ),named (unclassified),1,1,medium
+Anti-corruption NGOs,named (unclassified),1,1,medium
+Corruption Research Center Budapest,named (unclassified),1,1,medium
+European Anti-Fraud Office (OLAF),named (unclassified),1,1,medium
+Office Minister Gergely Gulyas,named (unclassified),1,1,medium
+Pro-Roma NGOs,named (unclassified),1,1,medium
+In June the ILO,named (unclassified),1,1,medium
+World Press Freedom Index,named (unclassified),1,1,medium
+High Court of J&K,named (unclassified),1,1,medium
+NGO International Center for Research on Women,named (unclassified),1,1,medium
+Registrar General,named (unclassified),1,1,medium
+Members of Bnei Menashe,named (unclassified),1,1,medium
+Indian Psychiatric Society,named (unclassified),1,1,medium
+Minister Athawale,named (unclassified),1,1,medium
+Political Prisoners and Detainees NGOs,named (unclassified),1,1,medium
+Europe-based NGO Human Rights Monitor (HRM),named (unclassified),1,1,medium
+Melki Sedek Huang,named (unclassified),1,1,medium
+Refugees and NGOs,named (unclassified),1,1,medium
+In April the NGO Indonesia Corruption Watch,named (unclassified),1,1,medium
+Coalition of Safe Public Space,named (unclassified),1,1,medium
+National Commission on Violence Against Women,named (unclassified),1,1,medium
+Abdorrahman Boroumand Center,named (unclassified),1,1,medium
+Twelver Shia Islam,named (unclassified),1,1,medium
+Fatemeh Sepehri,named (unclassified),1,1,medium
+Khaled Pirzadeh,named (unclassified),1,1,medium
+Intelligence Minister Esmail Khatib,named (unclassified),1,1,medium
+Norwegian Police Security Service Hanne Blomberg,named (unclassified),1,1,medium
+Washington D.C.-based National Union for Democracy in Iran,named (unclassified),1,1,medium
+Marzieh Mohebbi,named (unclassified),1,1,medium
+Center for Human Rights in Iran (CHRI),named (unclassified),1,1,medium
+Atlantic Council,named (unclassified),1,1,medium
+Abbas Ali Kadkhodaei,named (unclassified),1,1,medium
+domestic activists,unnamed/generic,1,1,low
+IranWire and The Guardian,named (unclassified),1,1,medium
+IRGC-affiliated Fars News Agency,named (unclassified),1,1,medium
+National Organization for Civil Registration,named (unclassified),1,1,medium
+Mahsa Zhina Amini,named (unclassified),1,1,medium
+International Community (BIC),named (unclassified),1,1,medium
+Faezeh Hashemi,named (unclassified),1,1,medium
+Socially Disadvantaged Affairs Office,named (unclassified),1,1,medium
+Social Welfare,named (unclassified),1,1,medium
+Iranian National Tax Administration,named (unclassified),1,1,medium
+Iraqi Observatory for Human Rights,named (unclassified),1,1,medium
+Iraqi Human Rights Observatory,named (unclassified),1,1,medium
+Press Freedom Advocacy Association,named (unclassified),1,1,medium
+Erbil-based Organization of Reporters for Rights and Development,named (unclassified),1,1,medium
+KRG Ministry of Culture and Youth,named (unclassified),1,1,medium
+UNAMI Special Representative,named (unclassified),1,1,medium
+KRG Ministry of Health,named (unclassified),1,1,medium
+Federal Intelligence and Investigation Agency,named (unclassified),1,1,medium
+NGOs IraQueer and Outright,named (unclassified),1,1,medium
+COR Committee on Labor and Social Affairs,named (unclassified),1,1,medium
+In July the Prison Service,named (unclassified),1,1,medium
+Irish Penal Reform Trust,named (unclassified),1,1,medium
+Jerusalem Post,named (unclassified),1,1,medium
+NGO Public Committee Against Torture in Israel (PCATI),named (unclassified),1,1,medium
+Mossawa Center for Arab Citizens in Israel,named (unclassified),1,1,medium
+Israel Prison Service,named (unclassified),1,1,medium
+Hotline for Refugees and Migrants (HRM),named (unclassified),1,1,medium
+Protect Journalists (CPJ),named (unclassified),1,1,medium
+Jerusalem Municipality,named (unclassified),1,1,medium
+East Jerusalem,named (unclassified),1,1,medium
+Shin Bet,named (unclassified),1,1,medium
+Israeli Committee Against House Demolitions,named (unclassified),1,1,medium
+Israeli NGO Gisha,named (unclassified),1,1,medium
+Palestinian Center for Development and Media Freedoms,named (unclassified),1,1,medium
+Palestinian Journalists Syndicate,named (unclassified),1,1,medium
+Ben Gvir,named (unclassified),1,1,medium
+Cyber Unit,named (unclassified),1,1,medium
+Tel Aviv,named (unclassified),1,1,medium
+Police Commissioner Kobi Shabtai,named (unclassified),1,1,medium
+NGO Aid Organization for Refugees and Asylum Seekers in Israel (ASSAF),named (unclassified),1,1,medium
+NGO Aguda,named (unclassified),1,1,medium
+Amnesty Israel,named (unclassified),1,1,medium
+Jerusalem Institute for Policy Research,named (unclassified),1,1,medium
+Civil Service Commission,named (unclassified),1,1,medium
+Union of Arab Students,named (unclassified),1,1,medium
+Ethiopian Jews,named (unclassified),1,1,medium
+Justice Ministry,named (unclassified),1,1,medium
+Yves Society,named (unclassified),1,1,medium
+NGO Ir Amim,named (unclassified),1,1,medium
+Central Bureau of Statistics,named (unclassified),1,1,medium
+Knesset Yitzhak Pindrus of United Torah Judaism,named (unclassified),1,1,medium
+Mossawa Center,named (unclassified),1,1,medium
+European Roma Rights Center,named (unclassified),1,1,medium
+Center of Contemporary Jewish Documentation,named (unclassified),1,1,medium
+UN Program on HIV and AIDS,named (unclassified),1,1,medium
+NGO Equality for All Foundation,named (unclassified),1,1,medium
+February the Ministry of Justice,named (unclassified),1,1,medium
+Public Prosecutors Office,named (unclassified),1,1,medium
+Cabinet Office,named (unclassified),1,1,medium
+Gender Equality Bureau Survey,named (unclassified),1,1,medium
+Nakaoka Shun,named (unclassified),1,1,medium
+National Center for Human Rights (NCHR),named (unclassified),1,1,medium
+PSD Human Rights and Transparency Office,named (unclassified),1,1,medium
+Human Rights and Transparency Office,named (unclassified),1,1,medium
+Amman Public Prosecutor,named (unclassified),1,1,medium
+Center for Defending Freedom of Journalists (CDFJ),named (unclassified),1,1,medium
+Middle East Eye,named (unclassified),1,1,medium
+NGO Front Line Defenders,named (unclassified),1,1,medium
+New Arab,named (unclassified),1,1,medium
+NGO Sisterhood Is Global Institute,named (unclassified),1,1,medium
+Roya News,named (unclassified),1,1,medium
+United Kingdom-based,named (unclassified),1,1,medium
+Bio Med Central,named (unclassified),1,1,medium
+Minority Rights Group International,named (unclassified),1,1,medium
+Open Observatory of Network Interference,named (unclassified),1,1,medium
+International Labour Organization,UN body,1,1,high
+Coalition Against Torture,named (unclassified),1,1,medium
+Human Rights Ombudsman,named (unclassified),1,1,medium
+Prison and Detention Center Conditions Observers,named (unclassified),1,1,medium
+Torture (NPM),named (unclassified),1,1,medium
+Group of European States Against Corruption,named (unclassified),1,1,medium
+Dina Yegeubaeva,named (unclassified),1,1,medium
+President Tokayev,named (unclassified),1,1,medium
+FTUK Chair Satybaldy Dauletallin,named (unclassified),1,1,medium
+Ministry of Labor and Social Protection,named (unclassified),1,1,medium
+Kenya National Commission on Human Rights (KNCHR),named (unclassified),1,1,medium
+NGO Independent Medico-Legal Unit (IMLU),named (unclassified),1,1,medium
+NGO Muslims for Human Rights,named (unclassified),1,1,medium
+NGO Internal Displacement Monitoring Center,named (unclassified),1,1,medium
+FP2030 Track20 Family Planning Estimation Tool,named (unclassified),1,1,medium
+Bureau of Statistic,named (unclassified),1,1,medium
+Kiribati Trade Union Congress,named (unclassified),1,1,medium
+independent human rights organization,unnamed/generic,1,1,low
+Prosecutorial Council,named (unclassified),1,1,medium
+Constitutional Court,named (unclassified),1,1,medium
+Humanitarian Law Center in Kosovo,named (unclassified),1,1,medium
+Humanitarian Law Center,named (unclassified),1,1,medium
+Kosovo Police,named (unclassified),1,1,medium
+Association of Journalists in Kosovo (AJK),named (unclassified),1,1,medium
+Kosovan Serbs,named (unclassified),1,1,medium
+Center for Social Group Development,named (unclassified),1,1,medium
+Kuwait News Agency,named (unclassified),1,1,medium
+Ministry of Information,named (unclassified),1,1,medium
+Civic Initiative on Internet Policy,named (unclassified),1,1,medium
+Ethnic Uzbeks,named (unclassified),1,1,medium
+In June the UN,named (unclassified),1,1,medium
+Child Protection League,named (unclassified),1,1,medium
+Kyrgyz Indigo,named (unclassified),1,1,medium
+Labrys Public Foundation,named (unclassified),1,1,medium
+Ministry of Labor and Social Welfare,named (unclassified),1,1,medium
+Lebanese Center for Human Rights,named (unclassified),1,1,medium
+Samir Kassir Eyes Foundation,named (unclassified),1,1,medium
+Megaphone News,named (unclassified),1,1,medium
+While the LAF,named (unclassified),1,1,medium
+Lebanese Association for Democratic Elections,named (unclassified),1,1,medium
+NGO Helem,named (unclassified),1,1,medium
+Society for Inclusion and Development (SIDC),named (unclassified),1,1,medium
+LCS Commissioner Mating Nkakala,named (unclassified),1,1,medium
+National Security Service Director General Pheello Ralenkoane,named (unclassified),1,1,medium
+Minister of Finance and Development Planning Retselisitsoe Matlanyane,named (unclassified),1,1,medium
+Worker Rights Consortium,named (unclassified),1,1,medium
+NGO Federation of Women Lawyers,named (unclassified),1,1,medium
+LNFOD Executive Director Sefuthi,named (unclassified),1,1,medium
+Discrimination Media,named (unclassified),1,1,medium
+Lesotho Police Staff Association (LEPOSA),named (unclassified),1,1,medium
+Press Union,named (unclassified),1,1,medium
+Integrity Watch Liberia,named (unclassified),1,1,medium
+Community Services Section,named (unclassified),1,1,medium
+Labor Congress,named (unclassified),1,1,medium
+UN Independent Fact-Finding Mission on Libya,named (unclassified),1,1,medium
+International Commission on Missing Persons,named (unclassified),1,1,medium
+UN Panel of Experts on Libya,named (unclassified),1,1,medium
+Euro-Med Human Rights Monitor,named (unclassified),1,1,medium
+international civil society groups,unnamed/generic,1,1,low
+Benghazi-based General Intelligence Service,named (unclassified),1,1,medium
+Panel of Experts,named (unclassified),1,1,medium
+Transnational Organized Crime,named (unclassified),1,1,medium
+Ministry of Interior Border Guards,named (unclassified),1,1,medium
+Constitutional Declaration,named (unclassified),1,1,medium
+Platform for Peace,named (unclassified),1,1,medium
+Cairo Institute for Human Rights Studies,named (unclassified),1,1,medium
+Department for Equal Opportunity,named (unclassified),1,1,medium
+Liechtenstein Institute,named (unclassified),1,1,medium
+State Border Guard Service,named (unclassified),1,1,medium
+Transgender Europe,named (unclassified),1,1,medium
+Inspector of Ethics of Journalists,named (unclassified),1,1,medium
+NGO Research and Information on Anti-Semitism in Luxembourg,named (unclassified),1,1,medium
+National Independent Human Rights Commission (CNIDH),named (unclassified),1,1,medium
+March the Pasteur Institute of Madagascar,named (unclassified),1,1,medium
+Bar Association,named (unclassified),1,1,medium
+UN Subcommittee on Prevention of Torture,named (unclassified),1,1,medium
+La Gazette,named (unclassified),1,1,medium
+Minors and Child Protection Brigade,named (unclassified),1,1,medium
+MHRC and NGOs,named (unclassified),1,1,medium
+multiple ngos,unnamed/generic,1,1,low
+Development of People,named (unclassified),1,1,medium
+NGO Nyasa Rainbow Alliance,named (unclassified),1,1,medium
+Nyasa Rainbow Alliance,named (unclassified),1,1,medium
+National AIDS Commission,named (unclassified),1,1,medium
+Congress of Trade Unions,named (unclassified),1,1,medium
+Malaysian Bar Council,named (unclassified),1,1,medium
+Minister of Home Affairs Saifuddin Nasution,named (unclassified),1,1,medium
+Asia Pacific Resource and Research Centre for Women,named (unclassified),1,1,medium
+Association of Women Lawyers,named (unclassified),1,1,medium
+In March the NGO Centre for Independent Journalism,named (unclassified),1,1,medium
+Abdul Hadi Awang,named (unclassified),1,1,medium
+Prime Minister Mahathir,named (unclassified),1,1,medium
+Global Trans Rights Index,named (unclassified),1,1,medium
+NGO Justice for Sisters,named (unclassified),1,1,medium
+Disability-rights NGOs,named (unclassified),1,1,medium
+Although the National Union of Plantation Workers,named (unclassified),1,1,medium
+Department of Occupational Safety and Health,named (unclassified),1,1,medium
+Human Rights Commission of Maldives (HRCM),named (unclassified),1,1,medium
+Professional Standards Command,named (unclassified),1,1,medium
+Transparency Maldives,named (unclassified),1,1,medium
+Anti-Corruption Commission,named (unclassified),1,1,medium
+Authorities and NGOs,named (unclassified),1,1,medium
+In October the Supreme Court,named (unclassified),1,1,medium
+NGO Aide Infos Liberte Solidarite,named (unclassified),1,1,medium
+Search of Persons,named (unclassified),1,1,medium
+Undersecretary of Human Rights Alejandro Encinas,named (unclassified),1,1,medium
+National Search Commission,named (unclassified),1,1,medium
+National Mechanism,named (unclassified),1,1,medium
+NGO Committee,named (unclassified),1,1,medium
+Animal Político,named (unclassified),1,1,medium
+Ciudad Juárez,named (unclassified),1,1,medium
+Aristegui Noticias,named (unclassified),1,1,medium
+National Public Security System,named (unclassified),1,1,medium
+National Population Council,named (unclassified),1,1,medium
+National Statistical Institute (INEGI),named (unclassified),1,1,medium
+National Survey on Discrimination,named (unclassified),1,1,medium
+Black Alliance for Just Immigration,named (unclassified),1,1,medium
+Evaluation of Social Development Policy,named (unclassified),1,1,medium
+National Survey of Sexual Diversity and Gender,named (unclassified),1,1,medium
+Discrimination The Catholic Multimedia Center,named (unclassified),1,1,medium
+Antitorture Prosecution Office,named (unclassified),1,1,medium
+Superior Council of Magistrates,named (unclassified),1,1,medium
+Justice NGOs,named (unclassified),1,1,medium
+Attorneys in Transnistria,named (unclassified),1,1,medium
+General Police Inspectorate,named (unclassified),1,1,medium
+National Anticorruption Center,named (unclassified),1,1,medium
+Jewish Community of Moldova,named (unclassified),1,1,medium
+National Police Agency,named (unclassified),1,1,medium
+LGBT Center,named (unclassified),1,1,medium
+Down Syndrome Association of Mongolia,named (unclassified),1,1,medium
+Human Rights Action (HRA),named (unclassified),1,1,medium
+Digital Forensic Center,named (unclassified),1,1,medium
+NGO Civic Alliance,named (unclassified),1,1,medium
+Civic Alliance,named (unclassified),1,1,medium
+Office for Democratic Institutions and Human Rights (ODIHR),named (unclassified),1,1,medium
+NGO SOS,named (unclassified),1,1,medium
+NGO Young Roma,named (unclassified),1,1,medium
+Montenegrin HIV Foundation,named (unclassified),1,1,medium
+General Delegation for Prison Administration and Reintegration (DGAPR),named (unclassified),1,1,medium
+NGOs in Western Sahara,named (unclassified),1,1,medium
+Global Alliance of National Human Rights Institutions,named (unclassified),1,1,medium
+Higher Commission for Planning (HCP),named (unclassified),1,1,medium
+In September OAM,named (unclassified),1,1,medium
+Media Institute of Southern Africa in Mozambique (MISA),named (unclassified),1,1,medium
+National Institute for Refugee Support,named (unclassified),1,1,medium
+Social Action,named (unclassified),1,1,medium
+Mozambican Network of Human Rights Defenders,named (unclassified),1,1,medium
+Inhambane Province,named (unclassified),1,1,medium
+Safety and Security,named (unclassified),1,1,medium
+Some San,named (unclassified),1,1,medium
+Ombudsman Annual Report,named (unclassified),1,1,medium
+Namibian Employers,named (unclassified),1,1,medium
+Terai Human Rights Defenders Alliance,named (unclassified),1,1,medium
+Attorney General (OAG),named (unclassified),1,1,medium
+NGO Informal Sector Service Center,named (unclassified),1,1,medium
+Anti-Human Trafficking Bureau,named (unclassified),1,1,medium
+Justice Mainali,named (unclassified),1,1,medium
+In May the Inspectorate of Justice and Security,named (unclassified),1,1,medium
+September the Agency,named (unclassified),1,1,medium
+Sint Maarten,named (unclassified),1,1,medium
+In March Erasmus University,named (unclassified),1,1,medium
+NGOs in Aruba and Curaçao,named (unclassified),1,1,medium
+Dutch Foreign Ministry,named (unclassified),1,1,medium
+State Secretary Eric,named (unclassified),1,1,medium
+Dutch Council of Psychiatrists,named (unclassified),1,1,medium
+Karen Vanessa Chavarria Morales,named (unclassified),1,1,medium
+NGO SOS-Woman Child Victims of Domestic Violence,named (unclassified),1,1,medium
+NGO ElectHER,named (unclassified),1,1,medium
+Nigeria Demographic and Health Survey,named (unclassified),1,1,medium
+NGO TAF Africa,named (unclassified),1,1,medium
+In September Radio Free Asia (RFA),named (unclassified),1,1,medium
+ROK NGOs,named (unclassified),1,1,medium
+Report on North Korea Human Rights,named (unclassified),1,1,medium
+White Paper on Human Rights,named (unclassified),1,1,medium
+Korea Future,named (unclassified),1,1,medium
+In June the ROK-based NGO PSCORE,named (unclassified),1,1,medium
+NGO Database Center for North Korean Human Rights,named (unclassified),1,1,medium
+In July RFA,named (unclassified),1,1,medium
+Seoul-based NGO People for Successful Corean Reunification,named (unclassified),1,1,medium
+Professional Standards Unit (PSU),named (unclassified),1,1,medium
+Department for Enforcement of Sanctions (DES),named (unclassified),1,1,medium
+Macedonian Young Lawyers Association (MYLA),named (unclassified),1,1,medium
+Commission for Prevention and Protection Against Discrimination,named (unclassified),1,1,medium
+In January the Judicial Council (JC),named (unclassified),1,1,medium
+Office (PPO),named (unclassified),1,1,medium
+Islamic Religious Community (IRC),named (unclassified),1,1,medium
+In August the Investigative Reporting Lab (IRL),named (unclassified),1,1,medium
+State Commission for Prevention of Corruption (SCPC),named (unclassified),1,1,medium
+NGO Health Education and Research Association,named (unclassified),1,1,medium
+CSO Romalitico,named (unclassified),1,1,medium
+Roma-led CSO Romalitico,named (unclassified),1,1,medium
+Skopje Basic PPO,named (unclassified),1,1,medium
+Disability CSOs,named (unclassified),1,1,medium
+Institute for Public Health,named (unclassified),1,1,medium
+Statistics Norway,named (unclassified),1,1,medium
+Omani Association of Human Rights,named (unclassified),1,1,medium
+Omani Association for Human Rights,named (unclassified),1,1,medium
+Lebanon-based Gulf Centre for Human Rights,named (unclassified),1,1,medium
+Voice for Sindhi Missing Persons,named (unclassified),1,1,medium
+Human Rights Council of Balochistan,named (unclassified),1,1,medium
+Human Rights Commission of Pakistan (HRCP),named (unclassified),1,1,medium
+Ministry for Law,named (unclassified),1,1,medium
+South Asia Terrorism Portal,named (unclassified),1,1,medium
+Baloch Human Rights Council,named (unclassified),1,1,medium
+Qatar-based Al-Jazeera,named (unclassified),1,1,medium
+Police and NGOs,named (unclassified),1,1,medium
+Islamabad Transgender Protection Unit,named (unclassified),1,1,medium
+Tahafuz Center,named (unclassified),1,1,medium
+Pakistan Institute of Labor Education and Research,named (unclassified),1,1,medium
+NGO Living All Inclusive in Belau (LAIIB),named (unclassified),1,1,medium
+Aubrey Baxter,named (unclassified),1,1,medium
+International Coalition of Women and Family,named (unclassified),1,1,medium
+National Court,named (unclassified),1,1,medium
+Asylum Seeker Resource Center,named (unclassified),1,1,medium
+International Foundation for Electoral Systems,named (unclassified),1,1,medium
+World Report,named (unclassified),1,1,medium
+Exploited Children,named (unclassified),1,1,medium
+Australia-based NGO Many Coloured Sky,named (unclassified),1,1,medium
+Discrimination Press,named (unclassified),1,1,medium
+United Church in Hela Province,named (unclassified),1,1,medium
+independent civil society groups,unnamed/generic,1,1,low
+Electoral Supreme Court,named (unclassified),1,1,medium
+NGOs SOMOS GAY and Panambi,named (unclassified),1,1,medium
+President Boluarte,named (unclassified),1,1,medium
+National Penitentiary Institute,named (unclassified),1,1,medium
+Institute of Press and Society,named (unclassified),1,1,medium
+Legal Defense Institute,named (unclassified),1,1,medium
+National Coordinator for Human Rights,named (unclassified),1,1,medium
+Dahas PH,named (unclassified),1,1,medium
+Bureau of Corrections,named (unclassified),1,1,medium
+Task Force,named (unclassified),1,1,medium
+Philippines (NUJP),named (unclassified),1,1,medium
+Qurium Media Foundation,named (unclassified),1,1,medium
+Application of Standards,named (unclassified),1,1,medium
+Human Rights Commissioner,named (unclassified),1,1,medium
+Ukraine Seeking Protection in Poland,named (unclassified),1,1,medium
+Warsaw Praga- Poludnie District Court,named (unclassified),1,1,medium
+Federation for Women and Family Planning,named (unclassified),1,1,medium
+Antisemitism The Union of Jewish Communities,named (unclassified),1,1,medium
+State Secretariat for Citizenship and Equality,named (unclassified),1,1,medium
+Disabled (APD),named (unclassified),1,1,medium
+Center for Independent Life,named (unclassified),1,1,medium
+Fair Square,named (unclassified),1,1,medium
+Qatar University,named (unclassified),1,1,medium
+In July the Ministry of Interior,named (unclassified),1,1,medium
+NGO Migrant Rights,named (unclassified),1,1,medium
+In August the Gender in Geopolitics Institute,named (unclassified),1,1,medium
+Crina Boros,named (unclassified),1,1,medium
+National Council,named (unclassified),1,1,medium
+Protection of National Minorities,named (unclassified),1,1,medium
+Save the Children Romania,named (unclassified),1,1,medium
+NGO ACCEPT,named (unclassified),1,1,medium
+Center for Legal Resources,named (unclassified),1,1,medium
+NGO Center for Legal Resources,named (unclassified),1,1,medium
+NGO Memorial,named (unclassified),1,1,medium
+Novaya Gazeta Europe,named (unclassified),1,1,medium
+International Press Institute,named (unclassified),1,1,medium
+State Duma Committee on Foreign Interference,named (unclassified),1,1,medium
+Organized Crime and Corruption Reporting Project,named (unclassified),1,1,medium
+NGO ANNA Center,named (unclassified),1,1,medium
+ANNA Center,named (unclassified),1,1,medium
+NGOs in Dagestan,named (unclassified),1,1,medium
+Antidiscrimination Center Memorial,named (unclassified),1,1,medium
+Russian Jewish Congress (RJC),named (unclassified),1,1,medium
+Federation of Jewish Communities,named (unclassified),1,1,medium
+Sphere Foundation,named (unclassified),1,1,medium
+Russian LGBT Network,named (unclassified),1,1,medium
+Association of Russian-speaking Intersex,named (unclassified),1,1,medium
+Labor Authorities,named (unclassified),1,1,medium
+European-Saudi Organization for Human Rights (ESOHR),named (unclassified),1,1,medium
+Reprieve and ESOHR,named (unclassified),1,1,medium
+Prisoners of Conscience and Sanad,named (unclassified),1,1,medium
+Sanad and Prisoners of Conscience,named (unclassified),1,1,medium
+UN Committee,named (unclassified),1,1,medium
+UN Security Council Panel of Experts on Yemen,named (unclassified),1,1,medium
+Worldwide Information Network of Abductees (THEWINA),named (unclassified),1,1,medium
+Prisoners of Conscience and SANAD,named (unclassified),1,1,medium
+Prisoners of Conscience,named (unclassified),1,1,medium
+ALQST and Prisoners of Conscience,named (unclassified),1,1,medium
+While the HRC and NSHR,named (unclassified),1,1,medium
+Authority for Persons,named (unclassified),1,1,medium
+Ministry of Health and Social Action,named (unclassified),1,1,medium
+Appeals Chamber,named (unclassified),1,1,medium
+Belgrade Center for Human Rights,named (unclassified),1,1,medium
+Milorad Ivanovic,named (unclassified),1,1,medium
+Election Observation Mission,named (unclassified),1,1,medium
+Belgrade Mayor Aleksandar Sapic,named (unclassified),1,1,medium
+Gender Equality Council,named (unclassified),1,1,medium
+Jewish Community in Belgrade,named (unclassified),1,1,medium
+President Vucic,named (unclassified),1,1,medium
+Department of Social Affairs,named (unclassified),1,1,medium
+Special Investigation Committee (SIC),named (unclassified),1,1,medium
+Sierra Leone Correctional Services (SLCS),named (unclassified),1,1,medium
+HRCSL and Prison Watch Sierra Leone (PWSL),named (unclassified),1,1,medium
+PWSL and DHRMGs,named (unclassified),1,1,medium
+HRCSL and PWSL,named (unclassified),1,1,medium
+Ministry of Social Welfare Affairs,named (unclassified),1,1,medium
+NGOs and HRCSL,named (unclassified),1,1,medium
+NGO Girls Not Brides,named (unclassified),1,1,medium
+NGO Save the Children,named (unclassified),1,1,medium
+NGO Dignity Association,named (unclassified),1,1,medium
+Disabilities-Sierra Leone and NGOs,named (unclassified),1,1,medium
+Albinism Royal Foundation Sierra Leone,named (unclassified),1,1,medium
+local academics,unnamed/generic,1,1,low
+Prime Minister Lee,named (unclassified),1,1,medium
+Societies Act,named (unclassified),1,1,medium
+Singapore Muslim Women,named (unclassified),1,1,medium
+Specialized Criminal Court,named (unclassified),1,1,medium
+Bureau of Border and Foreign Police,named (unclassified),1,1,medium
+Group of States Against Corruption (GRECO),named (unclassified),1,1,medium
+Minister of Health Zuzana Dolinkova,named (unclassified),1,1,medium
+President Caputova,named (unclassified),1,1,medium
+Presov District Court,named (unclassified),1,1,medium
+Trencin District Court,named (unclassified),1,1,medium
+Internet Watch Foundation,named (unclassified),1,1,medium
+Slovak Republic,named (unclassified),1,1,medium
+Igor Matovic,named (unclassified),1,1,medium
+Milan Majersky,named (unclassified),1,1,medium
+Discrimination NGOs,named (unclassified),1,1,medium
+NGO Institute for Public Affairs,named (unclassified),1,1,medium
+In February the Auditor General,named (unclassified),1,1,medium
+Solomon Islands Planned Parenthood Association,named (unclassified),1,1,medium
+National Union of Somali Journalists,named (unclassified),1,1,medium
+Human Rights Center in Somaliland,named (unclassified),1,1,medium
+Danish Immigration Service,named (unclassified),1,1,medium
+Lawyers for Human Rights (LHR),named (unclassified),1,1,medium
+Corruption Watch,named (unclassified),1,1,medium
+De Ruyter,named (unclassified),1,1,medium
+South African Human Rights Commission,named (unclassified),1,1,medium
+NGO Working Group of Indigenous Minorities in Southern Africa,named (unclassified),1,1,medium
+South African Jewish Board of Deputies,named (unclassified),1,1,medium
+One NGO in Durban,named (unclassified),1,1,medium
+Department of Basic Education,named (unclassified),1,1,medium
+Political Prisoners and Detainees The Ministry of Justice,named (unclassified),1,1,medium
+Ministry of Unification,named (unclassified),1,1,medium
+Ministry of Gender Equality and Family,named (unclassified),1,1,medium
+Rights Korea,named (unclassified),1,1,medium
+Ministry of Oceans and Fisheries,named (unclassified),1,1,medium
+Department of Statistics,named (unclassified),1,1,medium
+Small Arms Survey,named (unclassified),1,1,medium
+UN Mission in South Sudan (UNMISS),named (unclassified),1,1,medium
+UN Commission,named (unclassified),1,1,medium
+African Futures,named (unclassified),1,1,medium
+Jesuit Migrant Service,named (unclassified),1,1,medium
+European Shoah Legacy Institute,named (unclassified),1,1,medium
+Federation of Jewish Communities of Spain (FCJE),named (unclassified),1,1,medium
+Defend the Defenders,named (unclassified),1,1,medium
+Spanish NGOs,named (unclassified),1,1,medium
+In March the Ombudsman,named (unclassified),1,1,medium
+Ministry of Inclusion,named (unclassified),1,1,medium
+Gitano Secretariat Foundation (FSG),named (unclassified),1,1,medium
+Antitrafficking NGOs,named (unclassified),1,1,medium
+Sri Lanka,named (unclassified),1,1,medium
+Human Rights Commission of Sri Lanka (HRCSL),named (unclassified),1,1,medium
+Office on Missing Persons (OMP),named (unclassified),1,1,medium
+Center for Human Rights and Development,named (unclassified),1,1,medium
+independent nongovernmental organizations,unnamed/generic,1,1,low
+Bail Act,named (unclassified),1,1,medium
+Center for Human Rights Development,named (unclassified),1,1,medium
+Kilinochchi Magistrate Court,named (unclassified),1,1,medium
+If the HRCSL,named (unclassified),1,1,medium
+In January the Court of Appeal,named (unclassified),1,1,medium
+African Center for Justice and Peace Studies,named (unclassified),1,1,medium
+Africa Center for Justice and Peace Studies,named (unclassified),1,1,medium
+UN Office,named (unclassified),1,1,medium
+UN Joint Human Rights Office,named (unclassified),1,1,medium
+Sudanese Journalists Syndicate,named (unclassified),1,1,medium
+Darfur Bar Association,named (unclassified),1,1,medium
+Queer Rights,named (unclassified),1,1,medium
+National Board of Health and Welfare,named (unclassified),1,1,medium
+Security Service,named (unclassified),1,1,medium
+Swedish Agency for Environment Expertise,named (unclassified),1,1,medium
+Statistics Sweden,named (unclassified),1,1,medium
+Agency for Participation,named (unclassified),1,1,medium
+International Trade Union Confederation (ITUC),named (unclassified),1,1,medium
+Prevention of Torture (NCPT),named (unclassified),1,1,medium
+Global Gender Gap Report,named (unclassified),1,1,medium
+Pink Cross,named (unclassified),1,1,medium
+NGO Transgender Network,named (unclassified),1,1,medium
+NGO Inclusion Handicap,named (unclassified),1,1,medium
+COI in July,named (unclassified),1,1,medium
+Missing in Sednaya Prison,named (unclassified),1,1,medium
+Syria Justice and Accountability Center (SJAC),named (unclassified),1,1,medium
+Secretary-General for Children and Armed Conflict,named (unclassified),1,1,medium
+UN Office for Coordination of Humanitarian Affairs,named (unclassified),1,1,medium
+Prohibition of Chemical Weapons (OPCW),named (unclassified),1,1,medium
+COI in March and September,named (unclassified),1,1,medium
+Syrians for Truth and Justice,named (unclassified),1,1,medium
+COI and NGOs,named (unclassified),1,1,medium
+Syrian Journalists,named (unclassified),1,1,medium
+Action Group for Palestinians of Syria,named (unclassified),1,1,medium
+Syria Direct,named (unclassified),1,1,medium
+Physicians for Human Rights (PHR),named (unclassified),1,1,medium
+Baath Party,named (unclassified),1,1,medium
+Supreme Court Shermuhammad Shohiyon,named (unclassified),1,1,medium
+Radio Ozodi,named (unclassified),1,1,medium
+Pamir Daily News and Bomdod,named (unclassified),1,1,medium
+Agency for Financial Control and Combating Corruption,named (unclassified),1,1,medium
+Shahlo Davlatova,named (unclassified),1,1,medium
+local trade union,unnamed/generic,1,1,low
+In March the Controller and Auditor General,named (unclassified),1,1,medium
+Legal and Human Rights Centre (LHRC),named (unclassified),1,1,medium
+C NGOs,named (unclassified),1,1,medium
+Human Rights and Business Report,named (unclassified),1,1,medium
+Legal Aid Center,named (unclassified),1,1,medium
+Under the Same Sun,named (unclassified),1,1,medium
+international trade unions,unnamed/generic,1,1,low
+Prime Minister,named (unclassified),1,1,medium
+NGO Thai Lawyers for Human Rights,named (unclassified),1,1,medium
+In September NGOs,named (unclassified),1,1,medium
+UN Development Program and NGOs,named (unclassified),1,1,medium
+Ministry of Social Development and Human Security,named (unclassified),1,1,medium
+International Transport Workers Federation,named (unclassified),1,1,medium
+NGO Coalition on Diversity and Action,named (unclassified),1,1,medium
+Liberation of All Political Prisoners in Togo,named (unclassified),1,1,medium
+Court of Auditors,named (unclassified),1,1,medium
+Auditor General,named (unclassified),1,1,medium
+Inter-American Development Bank,named (unclassified),1,1,medium
+World Organization Against Torture (OMCT),named (unclassified),1,1,medium
+Ghannouchi and Chaima Issa,named (unclassified),1,1,medium
+NGO Damj Association,named (unclassified),1,1,medium
+UGTT Spokesman Sami Tahri,named (unclassified),1,1,medium
+Penal System,named (unclassified),1,1,medium
+Minister of Interior Soylu,named (unclassified),1,1,medium
+Committee of Ministers,named (unclassified),1,1,medium
+Syrian Arab Republic,named (unclassified),1,1,medium
+Media Freedom Rapid Response,named (unclassified),1,1,medium
+European Federation of Journalists,named (unclassified),1,1,medium
+In January the Commission,named (unclassified),1,1,medium
+HIV and AIDS,named (unclassified),1,1,medium
+In July the Turkish Ministry of Labor and Social Security,named (unclassified),1,1,medium
+Health and Work Safety Assembly,named (unclassified),1,1,medium
+Human Rights Ombudsperson,named (unclassified),1,1,medium
+Turkmenistan Helsinki Foundation for Human Rights NGO,named (unclassified),1,1,medium
+Turkmenistan Helsinki Foundation for Human Rights,named (unclassified),1,1,medium
+Family in Turkmenistan,named (unclassified),1,1,medium
+Brigadier Felix Kulayigye,named (unclassified),1,1,medium
+Robert Kyagulanyi,named (unclassified),1,1,medium
+Uganda Prisons Service (UPS),named (unclassified),1,1,medium
+Kakwenza Rukirabashaija,named (unclassified),1,1,medium
+NUP and FDC,named (unclassified),1,1,medium
+Some HRDs,named (unclassified),1,1,medium
+Freedom and Roam Uganda,named (unclassified),1,1,medium
+Wakiso District,named (unclassified),1,1,medium
+Convening for Equality,named (unclassified),1,1,medium
+Human Rights Awareness and Promotion Forum (HRAPF),named (unclassified),1,1,medium
+Uganda Key Populations Consortium,named (unclassified),1,1,medium
+NGO Platform for Labor Action (PLA),named (unclassified),1,1,medium
+Court in Kyiv,named (unclassified),1,1,medium
+Kharkiv Human Rights Protection Group (KHPG),named (unclassified),1,1,medium
+Prosecutor General,named (unclassified),1,1,medium
+Ministry of Reintegration,named (unclassified),1,1,medium
+Dmytro Ivanytskyy,named (unclassified),1,1,medium
+Human Rights NGOs,named (unclassified),1,1,medium
+An Oxfam Research Report,named (unclassified),1,1,medium
+Central Election Commission,named (unclassified),1,1,medium
+Human Rights NGO Nash Svit,named (unclassified),1,1,medium
+Office and State Statistics Service,named (unclassified),1,1,medium
+Euro-Mediterranean Human Rights Monitor,named (unclassified),1,1,medium
+Abu Dhabi,named (unclassified),1,1,medium
+Emirates Detainees Advocacy Center,named (unclassified),1,1,medium
+Media Council,named (unclassified),1,1,medium
+Ministry of Human Resources and Emiratization,named (unclassified),1,1,medium
+NGO FairSquare,named (unclassified),1,1,medium
+NGO Equidem,named (unclassified),1,1,medium
+Prime Minister Rishi Sunak,named (unclassified),1,1,medium
+Office for Statistics Regulation,named (unclassified),1,1,medium
+NGO Community Security Trust (CST),named (unclassified),1,1,medium
+Stamford Hill Shomrim,named (unclassified),1,1,medium
+University of Bristol,named (unclassified),1,1,medium
+Avon and Somerset Police,named (unclassified),1,1,medium
+NGO Galop,named (unclassified),1,1,medium
+Bermuda Police Service,named (unclassified),1,1,medium
+National Torture Preventive Mechanism (NPM),named (unclassified),1,1,medium
+National Torture Prevention Mechanism Report,named (unclassified),1,1,medium
+Acrux Partners,named (unclassified),1,1,medium
+National Israel Council,named (unclassified),1,1,medium
+NGO Freedom for Eurasia,named (unclassified),1,1,medium
+Blogger Abdukodir Muminov,named (unclassified),1,1,medium
+NGO International Partnership for Human Rights (IPHR),named (unclassified),1,1,medium
+Tatyana Dovlatova,named (unclassified),1,1,medium
+Galym Ageleulov,named (unclassified),1,1,medium
+Sanma Province,named (unclassified),1,1,medium
+VPride Foundation,named (unclassified),1,1,medium
+Use of Lethal Force,named (unclassified),1,1,medium
+While NGOs,named (unclassified),1,1,medium
+NGO FundaRedes,named (unclassified),1,1,medium
+Working Group,named (unclassified),1,1,medium
+Study of Latin America,named (unclassified),1,1,medium
+Zair Mundaray,named (unclassified),1,1,medium
+National College of Journalists,named (unclassified),1,1,medium
+Amazonas State,named (unclassified),1,1,medium
+IPYS and Espacio Público,named (unclassified),1,1,medium
+VE Sin Filtro,named (unclassified),1,1,medium
+National Primary Commission,named (unclassified),1,1,medium
+Caribbean Financial Action Task Force,named (unclassified),1,1,medium
+Freddy Superlano Salinas,named (unclassified),1,1,medium
+Henrique Capriles Radonski,named (unclassified),1,1,medium
+NGO Center for Defenders and Justice,named (unclassified),1,1,medium
+NGO Utopix Femicide Monitor,named (unclassified),1,1,medium
+Indigenous Peoples OHCHR,named (unclassified),1,1,medium
+Pendare Autana,named (unclassified),1,1,medium
+Environmental NGOs,named (unclassified),1,1,medium
+Bolívar State,named (unclassified),1,1,medium
+Antisemitism The Confederation of Israelite Associations in Venezuela,named (unclassified),1,1,medium
+NGO Citizen Action Against AIDS,named (unclassified),1,1,medium
+Venezuelan Observatory of Social Conflict,named (unclassified),1,1,medium
+NGO Cecodap,named (unclassified),1,1,medium
+Le Anh Hung,named (unclassified),1,1,medium
+Pham Thi Huong Giang,named (unclassified),1,1,medium
+Central Highlands,named (unclassified),1,1,medium
+General Statistics Office of Vietnam,named (unclassified),1,1,medium
+Abductees Mothers Association,named (unclassified),1,1,medium
+Yemeni Journalists Syndicate in Aden,named (unclassified),1,1,medium
+UN Civilian Impact Monitoring Project (CIMP),named (unclassified),1,1,medium
+Yemeni Journalists Syndicate,named (unclassified),1,1,medium
+International Federation of Journalists,named (unclassified),1,1,medium
+Observatory for Media Freedoms in Yemen,named (unclassified),1,1,medium
+INSAF Center for Rights and Development,named (unclassified),1,1,medium
+Rights and Development,named (unclassified),1,1,medium
+Yemen Policy Center,named (unclassified),1,1,medium
+SAM Organization for Rights and Liberties,named (unclassified),1,1,medium
+Human Rights Commission (HRC),named (unclassified),1,1,medium
+Attorney General Mulilo Kabesha,named (unclassified),1,1,medium
+Commissioner for Refugees,named (unclassified),1,1,medium
+Zambia Police Service,named (unclassified),1,1,medium
+Disabilities (ZAPD),named (unclassified),1,1,medium
+National Pension Scheme Authority,named (unclassified),1,1,medium
+Parliamentary Affairs,named (unclassified),1,1,medium
+Commercial Farmers Union,named (unclassified),1,1,medium
+EU EOM,named (unclassified),1,1,medium
+Team Pachedu,named (unclassified),1,1,medium
+NGO Zimbabwe Peace Project,named (unclassified),1,1,medium
+Human Rights NGO Forum,named (unclassified),1,1,medium
+Zimbabwe National Statistics Agency,named (unclassified),1,1,medium
+SADC Gender Protocol Barometer,named (unclassified),1,1,medium
+Midlands State University,named (unclassified),1,1,medium
+Information and Publicity Minister Monica Mutsvangwa,named (unclassified),1,1,medium
+NGO Women in News,named (unclassified),1,1,medium
+Multiple Indicator Cluster Survey,named (unclassified),1,1,medium
+Gays and Lesbians of Zimbabwe (GALZ),named (unclassified),1,1,medium
+Leading NGOs,named (unclassified),1,1,medium
+National Social Security Authority (NSSA),named (unclassified),1,1,medium
+Center for Natural Resource Governance,named (unclassified),1,1,medium
+Steel Company in Mvuma,named (unclassified),1,1,medium
+Zimbabwe Economic Policy Analysis and Research Unit,named (unclassified),1,1,medium
+Vendors Initiative for Sustainable Economic Transformation,named (unclassified),1,1,medium

@@ -1,0 +1,125 @@
+{
+  "year": 2024,
+  "documents": 195,
+  "median_chars": 18544,
+  "total_chars": 3959841,
+  "schema": [
+    {
+      "heading": "b. Coercion in Population Control",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "c. Protection to Refugees",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "b. Worker Rights",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "Section 2. Liberty",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "d. Violations in Religious Freedom",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "a. Extrajudicial Killings",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "e. Trafficking in Persons",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "b. Protection of Children",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "a. Freedom of the Press",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "d. Acts of Antisemitism and Antisemitic Incitement",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "c. Disappearance and Abduction",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "(front matter)",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "Executive Summary",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "Section 3. Security of the Person",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "Section 1. Life",
+      "documents": 195,
+      "share": 1.0
+    },
+    {
+      "heading": "a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment",
+      "documents": 193,
+      "share": 0.99
+    },
+    {
+      "heading": "e. Instances of Transnational Repression",
+      "documents": 53,
+      "share": 0.272
+    }
+  ],
+  "rare_headings": [
+    {
+      "heading": "c. War Crimes, Crimes against Humanity, and Evidence of Acts that May Constitute Genocide, or Conflict-Related",
+      "documents": 30
+    },
+    {
+      "heading": "c. War Crimes, Crimes against Humanity, and Evidence of Acts that May Constitute Genocide, or Conflict-related",
+      "documents": 5
+    },
+    {
+      "heading": "c. War Crimes, Crimes Against Humanity, and Evidence of Acts that May Constitute Genocide",
+      "documents": 2
+    },
+    {
+      "heading": "e. Acts of Transnational Repression",
+      "documents": 1
+    },
+    {
+      "heading": "a. Torture and Cruel, Inhuman, or Degrading Treatment",
+      "documents": 1
+    },
+    {
+      "heading": "c. War Crimes, Crimes against Humanity, and Evidence of Acts that May Constitute Genocide",
+      "documents": 1
+    }
+  ],
+  "failures": [
+    [
+      "north-macedonia",
+      "missing pdf"
+    ]
+  ]
+}

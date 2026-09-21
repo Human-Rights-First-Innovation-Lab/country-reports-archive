@@ -1,0 +1,1783 @@
+{
+  "countries": {
+    "afghanistan": {
+      "bytes": 316259,
+      "name": "Afghanistan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/afghanistan/",
+      "pdf_path": "data/2023/pdf/afghanistan.pdf",
+      "sha256": "0865644a297c6422e22c78c098a3dcb876ccc8d1243512810e7b45e76bd9ea15",
+      "slug": "afghanistan",
+      "status": "cached"
+    },
+    "albania": {
+      "bytes": 269354,
+      "name": "Albania",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/albania/",
+      "pdf_path": "data/2023/pdf/albania.pdf",
+      "sha256": "5d3d9403faa5db860c1e611011c70185278b3d319d777b6ddcea6bda737ebb09",
+      "slug": "albania",
+      "status": "cached"
+    },
+    "algeria": {
+      "bytes": 337123,
+      "name": "Algeria",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/algeria/",
+      "pdf_path": "data/2023/pdf/algeria.pdf",
+      "sha256": "8782157ea1eb93f31b468c3963a2dfbc5ce81d718d6849635ca28153dd02b796",
+      "slug": "algeria",
+      "status": "cached"
+    },
+    "andorra": {
+      "bytes": 220490,
+      "name": "Andorra",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/andorra/",
+      "pdf_path": "data/2023/pdf/andorra.pdf",
+      "sha256": "2e857c2be8e41516c4e7c1ba3257684214d623e206dcfa3ecbdfe4a5526438db",
+      "slug": "andorra",
+      "status": "cached"
+    },
+    "angola": {
+      "bytes": 250843,
+      "name": "Angola",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/angola/",
+      "pdf_path": "data/2023/pdf/angola.pdf",
+      "sha256": "bc0b2db11241f6d59ef7b4e0b514bc797b3631fe7d2909f0c04a6f54b5e1c7b0",
+      "slug": "angola",
+      "status": "cached"
+    },
+    "antigua-and-barbuda": {
+      "bytes": 205883,
+      "name": "Antigua and Barbuda",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/antigua-and-barbuda/",
+      "pdf_path": "data/2023/pdf/antigua-and-barbuda.pdf",
+      "sha256": "1d4d1808a4452dde506bec23803993a17ae58bb29f09a6cab545492590235fc8",
+      "slug": "antigua-and-barbuda",
+      "status": "cached"
+    },
+    "argentina": {
+      "bytes": 265675,
+      "name": "Argentina",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/argentina/",
+      "pdf_path": "data/2023/pdf/argentina.pdf",
+      "sha256": "5c3c2d2a6cea94c3c95dbe73460008bbc4943b9dd808cd62f0842e73ef638419",
+      "slug": "argentina",
+      "status": "cached"
+    },
+    "armenia": {
+      "bytes": 332870,
+      "name": "Armenia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/armenia/",
+      "pdf_path": "data/2023/pdf/armenia.pdf",
+      "sha256": "51a9d9dd6ba91d42ef190fd80004c6d733fc92e8d4e99ae47a8c1de055d7ad3a",
+      "slug": "armenia",
+      "status": "cached"
+    },
+    "australia": {
+      "bytes": 264231,
+      "name": "Australia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/australia/",
+      "pdf_path": "data/2023/pdf/australia.pdf",
+      "sha256": "c6f84fb4f960a116eebaf5139c456c28b0ad7828604f7c2c84256437b4fd01dd",
+      "slug": "australia",
+      "status": "cached"
+    },
+    "austria": {
+      "bytes": 257684,
+      "name": "Austria",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/austria/",
+      "pdf_path": "data/2023/pdf/austria.pdf",
+      "sha256": "1ffa226665b5c2840ce86ea8614dd6d266220d3144029928825b0e8a11932bd2",
+      "slug": "austria",
+      "status": "cached"
+    },
+    "azerbaijan": {
+      "bytes": 364488,
+      "name": "Azerbaijan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/azerbaijan/",
+      "pdf_path": "data/2023/pdf/azerbaijan.pdf",
+      "sha256": "5c5950eb6fb84e8fc036121df6486e7fb775185bfd7d000dc15758c17f9bc063",
+      "slug": "azerbaijan",
+      "status": "cached"
+    },
+    "bahrain": {
+      "bytes": 299761,
+      "name": "Bahrain",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/bahrain/",
+      "pdf_path": "data/2023/pdf/bahrain.pdf",
+      "sha256": "ec9ab62195bb8bd876003a9023bf431a452cfd3912b0943deca92612ea0d6a87",
+      "slug": "bahrain",
+      "status": "cached"
+    },
+    "bangladesh": {
+      "bytes": 452124,
+      "name": "Bangladesh",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/bangladesh/",
+      "pdf_path": "data/2023/pdf/bangladesh.pdf",
+      "sha256": "f44635c665148aef113204d13e2f557adb32c1cdeafde67ece1f49318f2aebfd",
+      "slug": "bangladesh",
+      "status": "cached"
+    },
+    "barbados": {
+      "bytes": 184381,
+      "name": "Barbados",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/barbados/",
+      "pdf_path": "data/2023/pdf/barbados.pdf",
+      "sha256": "e2130bb8b61611c9011fe25ef492ed7c32c151a882e8ae43afefc913cc9d3c8e",
+      "slug": "barbados",
+      "status": "cached"
+    },
+    "belarus": {
+      "bytes": 493200,
+      "name": "Belarus",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/belarus/",
+      "pdf_path": "data/2023/pdf/belarus.pdf",
+      "sha256": "a3fdae7afc86734bcb4f0a624bd49e37a53a547cfa25d0620e7dccaa2171b3e1",
+      "slug": "belarus",
+      "status": "cached"
+    },
+    "belgium": {
+      "bytes": 235289,
+      "name": "Belgium",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/belgium/",
+      "pdf_path": "data/2023/pdf/belgium.pdf",
+      "sha256": "38f6392107c3f60eac88e4473b884ea74fc4e7a3e476b26a34475087acfc7446",
+      "slug": "belgium",
+      "status": "cached"
+    },
+    "belize": {
+      "bytes": 293876,
+      "name": "Belize",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/belize/",
+      "pdf_path": "data/2023/pdf/belize.pdf",
+      "sha256": "561a3023031686b377d1bd7134da23917e2386459a4a63696b09c3bff9434955",
+      "slug": "belize",
+      "status": "cached"
+    },
+    "benin": {
+      "bytes": 318950,
+      "fetched_at": "2026-09-15T17:32:49.771605+00:00",
+      "name": "Benin",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/benin/",
+      "pdf_path": "data/2023/pdf/benin.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/02/528267_BENIN-2023-HUMAN-RIGHTS-REPORT.pdf",
+      "sha256": "8ef82ec6c3f0a24ef217607947bd14d88e104645fa9eabaf2079e3da708bcb3f",
+      "slug": "benin",
+      "status": "ok"
+    },
+    "bhutan": {
+      "bytes": 248143,
+      "name": "Bhutan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/bhutan/",
+      "pdf_path": "data/2023/pdf/bhutan.pdf",
+      "sha256": "f0401fcd16008a93155fff8f1a93a76de7f2990643bda29b3a4ff877c298a46a",
+      "slug": "bhutan",
+      "status": "cached"
+    },
+    "bolivia": {
+      "bytes": 288741,
+      "name": "Bolivia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/bolivia/",
+      "pdf_path": "data/2023/pdf/bolivia.pdf",
+      "sha256": "afcaf8ccdbbea99ad395f092f1121edfb99ebd04116c1396c3a33182fef15ac9",
+      "slug": "bolivia",
+      "status": "cached"
+    },
+    "bosnia-and-herzegovina": {
+      "bytes": 453878,
+      "name": "Bosnia and Herzegovina",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/bosnia-and-herzegovina/",
+      "pdf_path": "data/2023/pdf/bosnia-and-herzegovina.pdf",
+      "sha256": "76a662dcb8c4a16db81e1c4bb2b186033eafe5d4a0f046e85ac7ac99f5916b60",
+      "slug": "bosnia-and-herzegovina",
+      "status": "cached"
+    },
+    "botswana": {
+      "bytes": 263222,
+      "fetched_at": "2026-09-15T17:32:49.210029+00:00",
+      "name": "Botswana",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/botswana/",
+      "pdf_path": "data/2023/pdf/botswana.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/02/528267_BOTSWANA-2023-HUMAN-RIGHTS-REPORT-1.pdf",
+      "sha256": "f42704972a2fe5c889fef5883127a775143564c2585f8755c2dc4517a499da8d",
+      "slug": "botswana",
+      "status": "ok"
+    },
+    "brazil": {
+      "bytes": 316769,
+      "name": "Brazil",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/brazil/",
+      "pdf_path": "data/2023/pdf/brazil.pdf",
+      "sha256": "d4403b56046c864cba74c5dd49af3378cf791fedfa3b28e8bf45f3fd50eba69c",
+      "slug": "brazil",
+      "status": "cached"
+    },
+    "brunei": {
+      "bytes": 334146,
+      "name": "Brunei",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/brunei/",
+      "pdf_path": "data/2023/pdf/brunei.pdf",
+      "sha256": "f85f7978e58c81f0b9f2ec3db6ce665ccd1898c198e494acc730b7eb84142307",
+      "slug": "brunei",
+      "status": "cached"
+    },
+    "bulgaria": {
+      "bytes": 332929,
+      "name": "Bulgaria",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/bulgaria/",
+      "pdf_path": "data/2023/pdf/bulgaria.pdf",
+      "sha256": "f527caeec79faa95295ceaeeca19c46a9e6c39bc3ee29da61289acf6caf827ac",
+      "slug": "bulgaria",
+      "status": "cached"
+    },
+    "burkina-faso": {
+      "bytes": 324158,
+      "name": "Burkina Faso",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/burkina-faso/",
+      "pdf_path": "data/2023/pdf/burkina-faso.pdf",
+      "sha256": "d1777c8ab1e6bf3f7283c644a2612a62c866879e0f9fa3a3a3783eb4ac374dda",
+      "slug": "burkina-faso",
+      "status": "cached"
+    },
+    "burma": {
+      "bytes": 326025,
+      "name": "Burma",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/burma/",
+      "pdf_path": "data/2023/pdf/burma.pdf",
+      "sha256": "fc4ad58af60332d07a75988a1dc8f96479978bc3f30b82a96d5e1255ef671488",
+      "slug": "burma",
+      "status": "cached"
+    },
+    "burma-draft": {
+      "bytes": 326025,
+      "fetched_at": "2026-09-15T17:32:52.357128+00:00",
+      "name": "Burma",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/burma-draft/",
+      "pdf_path": "data/2023/pdf/burma-draft.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/02/528267_BURMA-2023-HUMAN-RIGHTS-REPORT.pdf",
+      "sha256": "fc4ad58af60332d07a75988a1dc8f96479978bc3f30b82a96d5e1255ef671488",
+      "slug": "burma-draft",
+      "status": "ok"
+    },
+    "burundi": {
+      "bytes": 295562,
+      "name": "Burundi",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/burundi/",
+      "pdf_path": "data/2023/pdf/burundi.pdf",
+      "sha256": "45c4bf3ffc56d1cffb414e70e3c58082d0bdd84b534fcd4030ea1233c2365c48",
+      "slug": "burundi",
+      "status": "cached"
+    },
+    "cabo-verde": {
+      "bytes": 202386,
+      "name": "Cabo Verde",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/cabo-verde/",
+      "pdf_path": "data/2023/pdf/cabo-verde.pdf",
+      "sha256": "7217ce7547a0ae84ea7e47b53bddf1ab360d1226d9fa9871b62720eeb1abdfdd",
+      "slug": "cabo-verde",
+      "status": "cached"
+    },
+    "cambodia": {
+      "bytes": 344558,
+      "name": "Cambodia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/cambodia/",
+      "pdf_path": "data/2023/pdf/cambodia.pdf",
+      "sha256": "12bbb0808470d017f707d0255ab035c0f5cc37e0db09c6e0392109d694558cc2",
+      "slug": "cambodia",
+      "status": "cached"
+    },
+    "cameroon": {
+      "bytes": 295467,
+      "name": "Cameroon",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/cameroon/",
+      "pdf_path": "data/2023/pdf/cameroon.pdf",
+      "sha256": "be07ffb185d693fb1ea97f9b75f9dfaf5814bf15627d4e1489edb6e419c427f4",
+      "slug": "cameroon",
+      "status": "cached"
+    },
+    "canada": {
+      "bytes": 335153,
+      "name": "Canada",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/canada/",
+      "pdf_path": "data/2023/pdf/canada.pdf",
+      "sha256": "3fd2bcab1fbd790d952516e07ca0362ec1cdcd3461034a49013dd5fd5c534583",
+      "slug": "canada",
+      "status": "cached"
+    },
+    "central-african-republic": {
+      "bytes": 279490,
+      "name": "Central African Republic",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/central-african-republic/",
+      "pdf_path": "data/2023/pdf/central-african-republic.pdf",
+      "sha256": "f9ab0118fe5299457bed55ec48ca480381e1efc1fdf3dfd7d3accdbae4023cd7",
+      "slug": "central-african-republic",
+      "status": "cached"
+    },
+    "chad": {
+      "bytes": 256551,
+      "name": "Chad",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/chad/",
+      "pdf_path": "data/2023/pdf/chad.pdf",
+      "sha256": "e0d4a7826a5bc58d39b1b2d2ea147ef4bec76665366c72836a7b9ffa9512b795",
+      "slug": "chad",
+      "status": "cached"
+    },
+    "chile": {
+      "bytes": 234806,
+      "name": "Chile",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/chile/",
+      "pdf_path": "data/2023/pdf/chile.pdf",
+      "sha256": "2d2bb1845116b8a13ddaabe67150c3380fd291ee073e306e9b0c8924262ae908",
+      "slug": "chile",
+      "status": "cached"
+    },
+    "china": {
+      "bytes": 450897,
+      "name": "China (Includes Hong Kong, Macau, and Tibet)",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/china/",
+      "pdf_path": "data/2023/pdf/china.pdf",
+      "sha256": "b83ea180d0921932425b972e4319f32e18dac1eff5aa5ea43e726e689dae9b3a",
+      "slug": "china",
+      "status": "cached"
+    },
+    "colombia": {
+      "bytes": 317772,
+      "name": "Colombia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/colombia/",
+      "pdf_path": "data/2023/pdf/colombia.pdf",
+      "sha256": "2085a0f9c5a4c9dabdc8a25218a74f74436ada17a310b795b1c6eda5852ed790",
+      "slug": "colombia",
+      "status": "cached"
+    },
+    "comoros": {
+      "bytes": 245307,
+      "name": "Comoros",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/comoros/",
+      "pdf_path": "data/2023/pdf/comoros.pdf",
+      "sha256": "fc12064cc35e8886db5d2fbb27c7eda280e36c00ef135fcdff19b5bd9274443c",
+      "slug": "comoros",
+      "status": "cached"
+    },
+    "costa-rica": {
+      "bytes": 249887,
+      "name": "Costa Rica",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/costa-rica/",
+      "pdf_path": "data/2023/pdf/costa-rica.pdf",
+      "sha256": "cd2db5ac8d1dd9b418141585bc480fc5b916610fe52c0b7861f91080d893b2dd",
+      "slug": "costa-rica",
+      "status": "cached"
+    },
+    "cote-divoire": {
+      "bytes": 327075,
+      "name": "Côte d’Ivoire",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/cote-divoire/",
+      "pdf_path": "data/2023/pdf/cote-divoire.pdf",
+      "sha256": "7b9460a993679069d94e5d0a7347b0f7080534db39d20c182bdb48dd7a20f484",
+      "slug": "cote-divoire",
+      "status": "cached"
+    },
+    "croatia": {
+      "bytes": 260878,
+      "name": "Croatia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/croatia/",
+      "pdf_path": "data/2023/pdf/croatia.pdf",
+      "sha256": "f2585ba9f534e9141d4f6897d083a530529726e0a9371d3674aca3aab80f7657",
+      "slug": "croatia",
+      "status": "cached"
+    },
+    "cuba": {
+      "bytes": 272980,
+      "name": "Cuba",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/cuba/",
+      "pdf_path": "data/2023/pdf/cuba.pdf",
+      "sha256": "65ad7cef976199e42e3f602fec6a072346097f1a8191472217c90dc197541a09",
+      "slug": "cuba",
+      "status": "cached"
+    },
+    "cyprus": {
+      "bytes": 341845,
+      "name": "Cyprus",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/cyprus/",
+      "pdf_path": "data/2023/pdf/cyprus.pdf",
+      "sha256": "619a8ba56f9d755d772e823c7d7bae6bf6c2c07f7ec9bcd1e08d0d9c4bfe125f",
+      "slug": "cyprus",
+      "status": "cached"
+    },
+    "czech-republic": {
+      "bytes": 287059,
+      "name": "Czech Republic",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/czech-republic/",
+      "pdf_path": "data/2023/pdf/czech-republic.pdf",
+      "sha256": "86bab755ee3b50b698b3a11838c7a4e66bee6e6c76b6d51972558c3f4fd02fb2",
+      "slug": "czech-republic",
+      "status": "cached"
+    },
+    "democratic-republic-of-the-congo": {
+      "bytes": 325714,
+      "fetched_at": "2026-09-15T17:32:53.035374+00:00",
+      "name": "Democratic Republic of the Congo",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/",
+      "pdf_path": "data/2023/pdf/democratic-republic-of-the-congo.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/02/528267_CONGO-DEM-REP-2023-HUMAN-RIGHTS-REPORT.pdf",
+      "sha256": "cc3ab26d5a4612206eedffc5efee07684ba6a25c6fde876e0a8f1e2fce1f8863",
+      "slug": "democratic-republic-of-the-congo",
+      "status": "ok"
+    },
+    "denmark": {
+      "bytes": 250988,
+      "name": "Denmark",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/denmark/",
+      "pdf_path": "data/2023/pdf/denmark.pdf",
+      "sha256": "81e3770b03954a8c15be55046c2b64d64e7df84c8791567ba1fa436923cd0870",
+      "slug": "denmark",
+      "status": "cached"
+    },
+    "djibouti": {
+      "bytes": 251659,
+      "name": "Djibouti",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/djibouti/",
+      "pdf_path": "data/2023/pdf/djibouti.pdf",
+      "sha256": "ff5316493e228153b848e3a785f11a44e24269c05bd860abcedfd7414adce468",
+      "slug": "djibouti",
+      "status": "cached"
+    },
+    "dominica": {
+      "bytes": 188097,
+      "name": "Dominica",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/dominica/",
+      "pdf_path": "data/2023/pdf/dominica.pdf",
+      "sha256": "428989602984d013230a1c1c826e88589fdf0df9213465801f18f52bafc9d8a0",
+      "slug": "dominica",
+      "status": "cached"
+    },
+    "dominican-republic": {
+      "bytes": 305743,
+      "name": "Dominican Republic",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/dominican-republic/",
+      "pdf_path": "data/2023/pdf/dominican-republic.pdf",
+      "sha256": "57f7037f8541dc1d5cb18a9df1999341a29c916b8d985bdbf3adf22efb6a5dd6",
+      "slug": "dominican-republic",
+      "status": "cached"
+    },
+    "ecuador": {
+      "bytes": 321284,
+      "name": "Ecuador",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/ecuador/",
+      "pdf_path": "data/2023/pdf/ecuador.pdf",
+      "sha256": "3599e13f7f6f958a8d9521df7a58b62b0f0911c6175830aee880640a1465b91f",
+      "slug": "ecuador",
+      "status": "cached"
+    },
+    "egypt": {
+      "bytes": 410450,
+      "name": "Egypt",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/egypt/",
+      "pdf_path": "data/2023/pdf/egypt.pdf",
+      "sha256": "918e02e4b2c1d2978edc3266b0e4c3494dbe11fdbca96a94b58dbeafd4d12c9b",
+      "slug": "egypt",
+      "status": "cached"
+    },
+    "el-salvador": {
+      "bytes": 312951,
+      "name": "El Salvador",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/el-salvador/",
+      "pdf_path": "data/2023/pdf/el-salvador.pdf",
+      "sha256": "704a770e10c7b6a0f73d7590b1df8c4298a82effb7a02aa45672f0e579297947",
+      "slug": "el-salvador",
+      "status": "cached"
+    },
+    "equatorial-guinea": {
+      "bytes": 274005,
+      "name": "Equatorial Guinea",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/equatorial-guinea/",
+      "pdf_path": "data/2023/pdf/equatorial-guinea.pdf",
+      "sha256": "b59c20bddb683c5883345011dedba0308c0d7bfbce598d57a2984813162299e7",
+      "slug": "equatorial-guinea",
+      "status": "cached"
+    },
+    "eritrea": {
+      "bytes": 267739,
+      "name": "Eritrea",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/eritrea/",
+      "pdf_path": "data/2023/pdf/eritrea.pdf",
+      "sha256": "579ba3fcbc07154c8165e5ae710501265e81b51aafffd4c54e7e42c0661d68e5",
+      "slug": "eritrea",
+      "status": "cached"
+    },
+    "estonia": {
+      "bytes": 176055,
+      "name": "Estonia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/estonia/",
+      "pdf_path": "data/2023/pdf/estonia.pdf",
+      "sha256": "6c6de001476b24b5a67be66e792c44f091c317f67118ff28b55efc22de2304c0",
+      "slug": "estonia",
+      "status": "cached"
+    },
+    "eswatini": {
+      "bytes": 322076,
+      "name": "Eswatini",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/eswatini/",
+      "pdf_path": "data/2023/pdf/eswatini.pdf",
+      "sha256": "cd17fc5bb73d5dd598de923aadef85d72af4fe3a15a74618f3956b14bcf7b41e",
+      "slug": "eswatini",
+      "status": "cached"
+    },
+    "ethiopia": {
+      "bytes": 387382,
+      "name": "Ethiopia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/ethiopia/",
+      "pdf_path": "data/2023/pdf/ethiopia.pdf",
+      "sha256": "ec050319eba05953fa89b487d1700a2a9b5623978101e3847dcc572174d1893c",
+      "slug": "ethiopia",
+      "status": "cached"
+    },
+    "fiji": {
+      "bytes": 240010,
+      "name": "Fiji",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/fiji/",
+      "pdf_path": "data/2023/pdf/fiji.pdf",
+      "sha256": "ce3fc2004498fcb5825bbeec89f8f2eb3ce0db25bbc4240375f1f1feecd4c10f",
+      "slug": "fiji",
+      "status": "cached"
+    },
+    "finland": {
+      "bytes": 286020,
+      "name": "Finland",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/finland/",
+      "pdf_path": "data/2023/pdf/finland.pdf",
+      "sha256": "aa00caf2ddeca4606f3489338885d474f710b4611a34042ee33232b015f60597",
+      "slug": "finland",
+      "status": "cached"
+    },
+    "france": {
+      "bytes": 318497,
+      "name": "France",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/france/",
+      "pdf_path": "data/2023/pdf/france.pdf",
+      "sha256": "79cd2cf591c4280861bed6756882bbee356f45abe89498ecbca4f8b7411ab4e6",
+      "slug": "france",
+      "status": "cached"
+    },
+    "gabon": {
+      "bytes": 267268,
+      "name": "Gabon",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/gabon/",
+      "pdf_path": "data/2023/pdf/gabon.pdf",
+      "sha256": "aeebf5ccb5165fc22704f4455da105c2c74bb319e1ae2fb8e0153062a5ce9a4c",
+      "slug": "gabon",
+      "status": "cached"
+    },
+    "georgia": {
+      "bytes": 328927,
+      "name": "Georgia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/georgia/",
+      "pdf_path": "data/2023/pdf/georgia.pdf",
+      "sha256": "17bd8f491bfc96e6bc07eeff901b106ff4836c2b1014cf19d23d55bd62810591",
+      "slug": "georgia",
+      "status": "cached"
+    },
+    "germany": {
+      "bytes": 327679,
+      "name": "Germany",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/germany/",
+      "pdf_path": "data/2023/pdf/germany.pdf",
+      "sha256": "f99ed2288549a151e2f0f1973ef1a6af24abdf1674d878f5b30627e9c6e7a5c3",
+      "slug": "germany",
+      "status": "cached"
+    },
+    "ghana": {
+      "bytes": 271295,
+      "name": "Ghana",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/ghana/",
+      "pdf_path": "data/2023/pdf/ghana.pdf",
+      "sha256": "b33bee92e0d62121bf004bce89f117a9b0b52cd62bea0f44a39affa95420d212",
+      "slug": "ghana",
+      "status": "cached"
+    },
+    "greece": {
+      "bytes": 332039,
+      "name": "Greece",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/greece/",
+      "pdf_path": "data/2023/pdf/greece.pdf",
+      "sha256": "7b7b1ea7299e101aaf99710f74f23166b1db61df63eaca43e8508e3b8338eddf",
+      "slug": "greece",
+      "status": "cached"
+    },
+    "grenada": {
+      "bytes": 196185,
+      "name": "Grenada",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/grenada/",
+      "pdf_path": "data/2023/pdf/grenada.pdf",
+      "sha256": "b218058de7668d74ac8b179705ee01e29f60bc4a41263c220c74a74dbc507f6c",
+      "slug": "grenada",
+      "status": "cached"
+    },
+    "guatemala": {
+      "bytes": 303241,
+      "name": "Guatemala",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/guatemala/",
+      "pdf_path": "data/2023/pdf/guatemala.pdf",
+      "sha256": "d9087f2efc3a31cb7d428614efbc9bac0fb76bd817f6ece8cb9aa9912515184f",
+      "slug": "guatemala",
+      "status": "cached"
+    },
+    "guinea": {
+      "bytes": 293496,
+      "name": "Guinea",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/guinea/",
+      "pdf_path": "data/2023/pdf/guinea.pdf",
+      "sha256": "299e5c599247cb3b1f6c21411c20ff8cca37a15231280614a2ea43ebce8af7b5",
+      "slug": "guinea",
+      "status": "cached"
+    },
+    "guinea-bissau": {
+      "bytes": 183173,
+      "name": "Guinea-Bissau",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/guinea-bissau/",
+      "pdf_path": "data/2023/pdf/guinea-bissau.pdf",
+      "sha256": "3b348d71c45c77b657e8723ffead51594bd19392f5685ba6000f42a982d21f5d",
+      "slug": "guinea-bissau",
+      "status": "cached"
+    },
+    "guyana": {
+      "bytes": 209672,
+      "name": "Guyana",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/guyana/",
+      "pdf_path": "data/2023/pdf/guyana.pdf",
+      "sha256": "e305d59ee4c6e57257e525db37c7e507bb09211f55edf5f95b6b3b08bc956714",
+      "slug": "guyana",
+      "status": "cached"
+    },
+    "haiti": {
+      "bytes": 285614,
+      "name": "Haiti",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/haiti/",
+      "pdf_path": "data/2023/pdf/haiti.pdf",
+      "sha256": "a4f2a7b45b54377d41f899659a10dfe59b7b136fe4097369d23b1fefd2c10817",
+      "slug": "haiti",
+      "status": "cached"
+    },
+    "honduras": {
+      "bytes": 226653,
+      "name": "Honduras",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/honduras/",
+      "pdf_path": "data/2023/pdf/honduras.pdf",
+      "sha256": "9d941a581357a2003fb2116c700cd99d7fbf435e900dafbb29b1f48f0a2a25e0",
+      "slug": "honduras",
+      "status": "cached"
+    },
+    "hungary": {
+      "bytes": 308741,
+      "name": "Hungary",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/hungary/",
+      "pdf_path": "data/2023/pdf/hungary.pdf",
+      "sha256": "5995d3b9632eada05a891159ecb414d60034882966a868f48296e02b8b60d8ec",
+      "slug": "hungary",
+      "status": "cached"
+    },
+    "iceland": {
+      "bytes": 229835,
+      "name": "Iceland",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/iceland/",
+      "pdf_path": "data/2023/pdf/iceland.pdf",
+      "sha256": "7ecf3c907e4e05a0e8bd78bda67a5739cc1d46f12d53a8cd4a2a189978a5f0a3",
+      "slug": "iceland",
+      "status": "cached"
+    },
+    "india": {
+      "bytes": 357827,
+      "name": "India",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/india/",
+      "pdf_path": "data/2023/pdf/india.pdf",
+      "sha256": "e3a198d1165c385d23bab1c4d399aba09e652aff2fffda6c8d56f1ee5e17a32f",
+      "slug": "india",
+      "status": "cached"
+    },
+    "indonesia": {
+      "bytes": 330697,
+      "name": "Indonesia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/indonesia/",
+      "pdf_path": "data/2023/pdf/indonesia.pdf",
+      "sha256": "d9df8a1f03f773d7bb369d360858743304b640ca6d0b88865d69c15b1a97d152",
+      "slug": "indonesia",
+      "status": "cached"
+    },
+    "iran": {
+      "bytes": 512919,
+      "name": "Iran",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/iran/",
+      "pdf_path": "data/2023/pdf/iran.pdf",
+      "sha256": "dfa109012c424dc085a71f853c09c30a9af72b83037d276236cb97af164c0356",
+      "slug": "iran",
+      "status": "cached"
+    },
+    "iraq": {
+      "bytes": 481270,
+      "name": "Iraq",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/iraq/",
+      "pdf_path": "data/2023/pdf/iraq.pdf",
+      "sha256": "52c37e29d586b0e56cc920149744adc6a45730025c594a887742ba8c451e3b7a",
+      "slug": "iraq",
+      "status": "cached"
+    },
+    "ireland": {
+      "bytes": 214032,
+      "name": "Ireland",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/ireland/",
+      "pdf_path": "data/2023/pdf/ireland.pdf",
+      "sha256": "cc0d2e44fb8ecbe27fb6be644c7e37c3997e7acf1f5cd1d589392d5321c9c30b",
+      "slug": "ireland",
+      "status": "cached"
+    },
+    "israel-west-bank-and-gaza": {
+      "bytes": 641122,
+      "name": "Israel, West Bank and Gaza",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/",
+      "pdf_path": "data/2023/pdf/israel-west-bank-and-gaza.pdf",
+      "sha256": "043d4aa08da682127f40404ae2fb9e6d3731288ccc10c89e0f7c557be1d5dde2",
+      "slug": "israel-west-bank-and-gaza",
+      "status": "cached"
+    },
+    "italy": {
+      "bytes": 248564,
+      "name": "Italy",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/italy/",
+      "pdf_path": "data/2023/pdf/italy.pdf",
+      "sha256": "53e4ec88934f58f000e5c8d1d50a1b69d12298360b882520e6252f2ff636b2b5",
+      "slug": "italy",
+      "status": "cached"
+    },
+    "jamaica": {
+      "bytes": 288858,
+      "name": "Jamaica",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/jamaica/",
+      "pdf_path": "data/2023/pdf/jamaica.pdf",
+      "sha256": "d970cb10e51a3012cbab45c12b82decd8f9110cffaa171d19cae5338b8935a9a",
+      "slug": "jamaica",
+      "status": "cached"
+    },
+    "japan": {
+      "bytes": 315745,
+      "name": "Japan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/japan/",
+      "pdf_path": "data/2023/pdf/japan.pdf",
+      "sha256": "9b08799d422948162518c86983efc995f9a4da897fabc5b2f03800b219d083fe",
+      "slug": "japan",
+      "status": "cached"
+    },
+    "jordan": {
+      "bytes": 430253,
+      "name": "Jordan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/jordan/",
+      "pdf_path": "data/2023/pdf/jordan.pdf",
+      "sha256": "a7496eaaa10fc538857a40c3d20fc2c24ba4af1ff3dd69340d8570e763e34e0b",
+      "slug": "jordan",
+      "status": "cached"
+    },
+    "kazakhstan": {
+      "bytes": 367826,
+      "name": "Kazakhstan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/kazakhstan/",
+      "pdf_path": "data/2023/pdf/kazakhstan.pdf",
+      "sha256": "64668b365c1c2ead7737b9d5905ad97d1dab4342f5f6dc452e2951ec17f56963",
+      "slug": "kazakhstan",
+      "status": "cached"
+    },
+    "kenya": {
+      "bytes": 311266,
+      "name": "Kenya",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/kenya/",
+      "pdf_path": "data/2023/pdf/kenya.pdf",
+      "sha256": "023044de14b67bbb8f1b8000d8cbb4b2a9cd60db56034de4aeb3f8dc61cd3193",
+      "slug": "kenya",
+      "status": "cached"
+    },
+    "kiribati": {
+      "bytes": 177324,
+      "name": "Kiribati",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/kiribati/",
+      "pdf_path": "data/2023/pdf/kiribati.pdf",
+      "sha256": "a736d3ca3715f0c7b5046936642a79c98c095a35f5284685f4706d8a3a37335f",
+      "slug": "kiribati",
+      "status": "cached"
+    },
+    "kosovo": {
+      "bytes": 324833,
+      "name": "Kosovo",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/kosovo/",
+      "pdf_path": "data/2023/pdf/kosovo.pdf",
+      "sha256": "b968032db3ff99e1fcc32cf3de4c4ed757ab1e03ad853dc3ed6a3760130679ac",
+      "slug": "kosovo",
+      "status": "cached"
+    },
+    "kuwait": {
+      "bytes": 370447,
+      "name": "Kuwait",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/kuwait/",
+      "pdf_path": "data/2023/pdf/kuwait.pdf",
+      "sha256": "16655e896dc5eac0bac6f2ada1375c1a62ef3a138e1b7d8a05ed19480beb8fbd",
+      "slug": "kuwait",
+      "status": "cached"
+    },
+    "kyrgyz-republic": {
+      "bytes": 287116,
+      "name": "Kyrgyz Republic",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/kyrgyz-republic/",
+      "pdf_path": "data/2023/pdf/kyrgyz-republic.pdf",
+      "sha256": "aff805bd4f112e3e156b211d9b2dd46d32bbccaf35fcfe22cc2629a9e2ad8f32",
+      "slug": "kyrgyz-republic",
+      "status": "cached"
+    },
+    "laos": {
+      "bytes": 230653,
+      "name": "Laos",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/laos/",
+      "pdf_path": "data/2023/pdf/laos.pdf",
+      "sha256": "82c7131f380eae360f901ca95bd624d87773e70ab6faf4f4056e972acfcbcb43",
+      "slug": "laos",
+      "status": "cached"
+    },
+    "latvia": {
+      "bytes": 254879,
+      "name": "Latvia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/latvia/",
+      "pdf_path": "data/2023/pdf/latvia.pdf",
+      "sha256": "b1eb58e54f6e14b74befe091d34666b81f9ae1c6927fa5b769b39dac28d6a001",
+      "slug": "latvia",
+      "status": "cached"
+    },
+    "lebanon": {
+      "bytes": 385954,
+      "name": "Lebanon",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/lebanon/",
+      "pdf_path": "data/2023/pdf/lebanon.pdf",
+      "sha256": "523eafee6a10658baf0a2b7f483e4dabf5b73aa5cfed9f65b9f0facea27e8401",
+      "slug": "lebanon",
+      "status": "cached"
+    },
+    "lesotho": {
+      "bytes": 266461,
+      "name": "Lesotho",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/lesotho/",
+      "pdf_path": "data/2023/pdf/lesotho.pdf",
+      "sha256": "3fc1cf69b15faa1cc075463e39b0bf61ef8aa7b22a31f8697108ad2b124ec025",
+      "slug": "lesotho",
+      "status": "cached"
+    },
+    "liberia": {
+      "bytes": 219918,
+      "name": "Liberia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/liberia/",
+      "pdf_path": "data/2023/pdf/liberia.pdf",
+      "sha256": "0263125c1e66e9c1718ce78bb04dac957c26ed78501a37d4432c94528075bdfd",
+      "slug": "liberia",
+      "status": "cached"
+    },
+    "libya": {
+      "bytes": 276047,
+      "name": "Libya",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/libya/",
+      "pdf_path": "data/2023/pdf/libya.pdf",
+      "sha256": "cf7c71af5019ab15ff1bfd3cb36c5968d8be28ea13677c5e9863fb7423c8b005",
+      "slug": "libya",
+      "status": "cached"
+    },
+    "liechtenstein": {
+      "bytes": 215807,
+      "name": "Liechtenstein",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/liechtenstein/",
+      "pdf_path": "data/2023/pdf/liechtenstein.pdf",
+      "sha256": "f6436959cb913dcf52d49d6f98ff41d5a7fb8da53037c56f21faacb8452a3eea",
+      "slug": "liechtenstein",
+      "status": "cached"
+    },
+    "lithuania": {
+      "bytes": 237269,
+      "name": "Lithuania",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/lithuania/",
+      "pdf_path": "data/2023/pdf/lithuania.pdf",
+      "sha256": "f55548b2d6ea794918089125e9edce2981a4474e302b764fba0e4288f392abff",
+      "slug": "lithuania",
+      "status": "cached"
+    },
+    "luxembourg": {
+      "bytes": 208796,
+      "name": "Luxembourg",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/luxembourg/",
+      "pdf_path": "data/2023/pdf/luxembourg.pdf",
+      "sha256": "ccebde3c09de1807bef69421b965fad5d759ccf12aa8987ae7c82d0123a3f8a5",
+      "slug": "luxembourg",
+      "status": "cached"
+    },
+    "madagascar": {
+      "bytes": 315677,
+      "name": "Madagascar",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/madagascar/",
+      "pdf_path": "data/2023/pdf/madagascar.pdf",
+      "sha256": "49985bf82e1d623e9bc36c0fe0f9a05728d6379f050be9cb0dc933f18080fdca",
+      "slug": "madagascar",
+      "status": "cached"
+    },
+    "malawi": {
+      "bytes": 257421,
+      "name": "Malawi",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/malawi/",
+      "pdf_path": "data/2023/pdf/malawi.pdf",
+      "sha256": "286c1611ed558c4ab4ff620afbd9083b794884346528d2f9b8caa4e9a8299874",
+      "slug": "malawi",
+      "status": "cached"
+    },
+    "malaysia": {
+      "bytes": 344498,
+      "name": "Malaysia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/malaysia/",
+      "pdf_path": "data/2023/pdf/malaysia.pdf",
+      "sha256": "c9c595b3e540e2d97b4c46fa3d9de1ac1a4d776d9bb3e64a156968364f2f7a1d",
+      "slug": "malaysia",
+      "status": "cached"
+    },
+    "maldives": {
+      "bytes": 268745,
+      "name": "Maldives",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/maldives/",
+      "pdf_path": "data/2023/pdf/maldives.pdf",
+      "sha256": "13cdf1a2fe337b3da48c65306579868504f92393829905f0e820f6f8571ab212",
+      "slug": "maldives",
+      "status": "cached"
+    },
+    "mali": {
+      "bytes": 326212,
+      "name": "Mali",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/mali/",
+      "pdf_path": "data/2023/pdf/mali.pdf",
+      "sha256": "da7150425a1f72495db137ec7ccb0691b2537e7ea12f87965c52d53b3dd6e52f",
+      "slug": "mali",
+      "status": "cached"
+    },
+    "malta": {
+      "bytes": 242430,
+      "name": "Malta",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/malta/",
+      "pdf_path": "data/2023/pdf/malta.pdf",
+      "sha256": "68cec426981d7be0e72d2150c77a8e24f9a6a694008942873e51028a4c34fcd3",
+      "slug": "malta",
+      "status": "cached"
+    },
+    "marshall-islands": {
+      "bytes": 181481,
+      "name": "Marshall Islands",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/marshall-islands/",
+      "pdf_path": "data/2023/pdf/marshall-islands.pdf",
+      "sha256": "c8cd698c8619a3b6330ff98aa9d81cddb5d086fcd83630f2639fb80c372b62b3",
+      "slug": "marshall-islands",
+      "status": "cached"
+    },
+    "mauritania": {
+      "bytes": 277257,
+      "fetched_at": "2026-09-15T17:32:53.353699+00:00",
+      "name": "Mauritania",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/mauritania/",
+      "pdf_path": "data/2023/pdf/mauritania.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/03/528267-MAURITANIA-2023-HUMAN-RIGHTS-REPORT.pdf",
+      "sha256": "54783eef1c6c3fa8c809c45e8eaee4b81d6b1205513e5706be462ca28ee1b08d",
+      "slug": "mauritania",
+      "status": "ok"
+    },
+    "mauritius": {
+      "bytes": 191423,
+      "name": "Mauritania",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/mauritius/",
+      "pdf_path": "data/2023/pdf/mauritius.pdf",
+      "sha256": "9268bff73355c1f53705bdde0535bb7bd6791569224713fbe1fbaa3f56f3db15",
+      "slug": "mauritius",
+      "status": "cached"
+    },
+    "mexico": {
+      "bytes": 341970,
+      "name": "Mexico",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/mexico/",
+      "pdf_path": "data/2023/pdf/mexico.pdf",
+      "sha256": "0c004979e173aa1826b3a4d3c146179a982e1fad8be22bae9e720bd7ae945a3e",
+      "slug": "mexico",
+      "status": "cached"
+    },
+    "micronesia": {
+      "bytes": 167444,
+      "name": "Micronesia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/micronesia/",
+      "pdf_path": "data/2023/pdf/micronesia.pdf",
+      "sha256": "d91ba2ecbef83080339e56512b208fd8eb749a124120c2c3532508e1ab79b743",
+      "slug": "micronesia",
+      "status": "cached"
+    },
+    "moldova": {
+      "bytes": 404589,
+      "name": "Moldova",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/moldova/",
+      "pdf_path": "data/2023/pdf/moldova.pdf",
+      "sha256": "61e64cc8ed69077f65372a961009b94abe49ac0f19ef29c22c69d4a009b42e6c",
+      "slug": "moldova",
+      "status": "cached"
+    },
+    "monaco": {
+      "bytes": 217356,
+      "name": "Monaco",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/monaco/",
+      "pdf_path": "data/2023/pdf/monaco.pdf",
+      "sha256": "2ab0861175e760bafe97313410d910802b392a01c19b2e18860746797bae24d6",
+      "slug": "monaco",
+      "status": "cached"
+    },
+    "mongolia": {
+      "bytes": 246466,
+      "name": "Mongolia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/mongolia/",
+      "pdf_path": "data/2023/pdf/mongolia.pdf",
+      "sha256": "ed04369e15190a47dd0650116e683fa3f335fe617c7a5ad8361526e49ea103fa",
+      "slug": "mongolia",
+      "status": "cached"
+    },
+    "montenegro": {
+      "bytes": 316733,
+      "name": "Montenegro",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/montenegro/",
+      "pdf_path": "data/2023/pdf/montenegro.pdf",
+      "sha256": "1fda77b969787e5c981fb3bb20e75c3c3b3deb9fed8b699382399523c2c493d1",
+      "slug": "montenegro",
+      "status": "cached"
+    },
+    "morocco": {
+      "bytes": 278138,
+      "name": "Morocco",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/morocco/",
+      "pdf_path": "data/2023/pdf/morocco.pdf",
+      "sha256": "c2106b2f9dd0e21ef0015cde636017031ff5e9d7cd1e45386c5115709ec4663d",
+      "slug": "morocco",
+      "status": "cached"
+    },
+    "mozambique": {
+      "bytes": 301003,
+      "name": "Mozambique",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/mozambique/",
+      "pdf_path": "data/2023/pdf/mozambique.pdf",
+      "sha256": "3c675eefb408d5bc33c7bbb63943699ad1f24a50a1d647da5e52aff9f5d6da42",
+      "slug": "mozambique",
+      "status": "cached"
+    },
+    "namibia": {
+      "bytes": 254790,
+      "name": "Namibia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/namibia/",
+      "pdf_path": "data/2023/pdf/namibia.pdf",
+      "sha256": "0e4bb2abc49db2d6418d5afda88124fc074cfb33b6288931bb5a63bd010e739e",
+      "slug": "namibia",
+      "status": "cached"
+    },
+    "nauru": {
+      "bytes": 175813,
+      "name": "Nauru",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/nauru/",
+      "pdf_path": "data/2023/pdf/nauru.pdf",
+      "sha256": "2e6ddce02ef5311836ebeb912a145536926ef61148bae46be70f843e683c8631",
+      "slug": "nauru",
+      "status": "cached"
+    },
+    "nepal": {
+      "bytes": 326613,
+      "name": "Nepal",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/nepal/",
+      "pdf_path": "data/2023/pdf/nepal.pdf",
+      "sha256": "3e69a38cdf8e1d7b2f580ab99da267a59b3e311a1323f5a1cfdeaa7d11d80ede",
+      "slug": "nepal",
+      "status": "cached"
+    },
+    "netherlands": {
+      "bytes": 316212,
+      "name": "Netherlands",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/netherlands/",
+      "pdf_path": "data/2023/pdf/netherlands.pdf",
+      "sha256": "495bf3a04ac9ed622d9c635525e048f13b9832463194bf8236f23b9027c64ed7",
+      "slug": "netherlands",
+      "status": "cached"
+    },
+    "new-zealand": {
+      "bytes": 212606,
+      "name": "New Zealand",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/new-zealand/",
+      "pdf_path": "data/2023/pdf/new-zealand.pdf",
+      "sha256": "6bd1ddf29d98bd91f288949e429232499b8bf371e3e2450853112776500d7d53",
+      "slug": "new-zealand",
+      "status": "cached"
+    },
+    "nicaragua": {
+      "bytes": 369647,
+      "name": "Nicaragua",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/nicaragua/",
+      "pdf_path": "data/2023/pdf/nicaragua.pdf",
+      "sha256": "bedd00d682252ff5fc1f3ad25e0e5165208c22725edac8c7239448b3e2b239ce",
+      "slug": "nicaragua",
+      "status": "cached"
+    },
+    "niger": {
+      "bytes": 239861,
+      "name": "Niger",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/niger/",
+      "pdf_path": "data/2023/pdf/niger.pdf",
+      "sha256": "c28ec8356a12728dff3c7693327ea41b653f7fe1613cf762ee3e899c16bd6836",
+      "slug": "niger",
+      "status": "cached"
+    },
+    "nigeria": {
+      "bytes": 303116,
+      "name": "Nigeria",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/nigeria/",
+      "pdf_path": "data/2023/pdf/nigeria.pdf",
+      "sha256": "f13cec212dfa192d5d16e2dc55763dfc424e7ffa2950a1b6b22dbb8e140f3f12",
+      "slug": "nigeria",
+      "status": "cached"
+    },
+    "north-korea": {
+      "bytes": 351692,
+      "name": "North Korea",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/north-korea/",
+      "pdf_path": "data/2023/pdf/north-korea.pdf",
+      "sha256": "39076150fa56a00c7575ac5e73c31e70812ddfd63a671ed0b22eb863bf6e9edd",
+      "slug": "north-korea",
+      "status": "cached"
+    },
+    "north-macedonia": {
+      "bytes": 367640,
+      "name": "North Macedonia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/north-macedonia/",
+      "pdf_path": "data/2023/pdf/north-macedonia.pdf",
+      "sha256": "03bd6b3722a4f94acea3162acfc69e01ff19b4886cea4bc4ecac22cc81f61fa6",
+      "slug": "north-macedonia",
+      "status": "cached"
+    },
+    "norway": {
+      "bytes": 201287,
+      "name": "Norway",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/norway/",
+      "pdf_path": "data/2023/pdf/norway.pdf",
+      "sha256": "2c83e2ca6f1370739e110524ac45e974660806c4eb158d1c9a5960095706e6df",
+      "slug": "norway",
+      "status": "cached"
+    },
+    "oman": {
+      "bytes": 247265,
+      "name": "Oman",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/oman/",
+      "pdf_path": "data/2023/pdf/oman.pdf",
+      "sha256": "99fecd7507c8d5fdb8131642a602d1e25263f6f2a41595035ac956c3e0652823",
+      "slug": "oman",
+      "status": "cached"
+    },
+    "pakistan": {
+      "bytes": 440912,
+      "name": "Pakistan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/pakistan/",
+      "pdf_path": "data/2023/pdf/pakistan.pdf",
+      "sha256": "58f8e30a3c9c7be971809a7fb1d619d598c5f37731dc593a06fc9cc086f75e5b",
+      "slug": "pakistan",
+      "status": "cached"
+    },
+    "palau": {
+      "bytes": 175431,
+      "name": "Palau",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/palau/",
+      "pdf_path": "data/2023/pdf/palau.pdf",
+      "sha256": "0e6bb4ba5683422990a737f3262c9d583b190b21ba6c997bf2411f2a86759bdd",
+      "slug": "palau",
+      "status": "cached"
+    },
+    "panama": {
+      "bytes": 241923,
+      "name": "Panama",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/panama/",
+      "pdf_path": "data/2023/pdf/panama.pdf",
+      "sha256": "f99a0ab77c5ee31d99fbc62bdd88ffc4f6e916ced12187a02bc06c627aab3977",
+      "slug": "panama",
+      "status": "cached"
+    },
+    "papua-new-guinea": {
+      "bytes": 269210,
+      "name": "Papua New Guinea",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/papua-new-guinea/",
+      "pdf_path": "data/2023/pdf/papua-new-guinea.pdf",
+      "sha256": "3b89d007e58ac1b66b84208e33888145e8453ccab64bf14a7a6e005a11864ba3",
+      "slug": "papua-new-guinea",
+      "status": "cached"
+    },
+    "paraguay": {
+      "bytes": 285959,
+      "name": "Paraguay",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/paraguay/",
+      "pdf_path": "data/2023/pdf/paraguay.pdf",
+      "sha256": "55e5f8e79bd7a07fa2718eff6702646a45fc7aa78c71373390fae0248cfd662f",
+      "slug": "paraguay",
+      "status": "cached"
+    },
+    "peru": {
+      "bytes": 293029,
+      "name": "Peru",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/peru/",
+      "pdf_path": "data/2023/pdf/peru.pdf",
+      "sha256": "f898837042c21f4cfddbb8d6ceefca9d81bd5f10e912acbd9edf0d135de4401b",
+      "slug": "peru",
+      "status": "cached"
+    },
+    "philippines": {
+      "bytes": 325082,
+      "name": "Philippines",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/philippines/",
+      "pdf_path": "data/2023/pdf/philippines.pdf",
+      "sha256": "dc11815cba9f63392be972274d7ce704acc45c7e71953ef8ccabeca2d7689423",
+      "slug": "philippines",
+      "status": "cached"
+    },
+    "poland": {
+      "bytes": 255296,
+      "name": "Poland",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/poland/",
+      "pdf_path": "data/2023/pdf/poland.pdf",
+      "sha256": "bc54adf500863b2caa6130d01942571485a85765256906788536eb048bd90ede",
+      "slug": "poland",
+      "status": "cached"
+    },
+    "portugal": {
+      "bytes": 258905,
+      "name": "Portugal",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/portugal/",
+      "pdf_path": "data/2023/pdf/portugal.pdf",
+      "sha256": "bc6d10a5117dbec3b237be51925ed6522a32293ea09aa531e5403b2845d7f376",
+      "slug": "portugal",
+      "status": "cached"
+    },
+    "qatar": {
+      "bytes": 250904,
+      "name": "Qatar",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/qatar/",
+      "pdf_path": "data/2023/pdf/qatar.pdf",
+      "sha256": "203de18c1f76358453d6a31f121ae7faf9ef16ad61e3ddeba0aac6c13d1c1a7a",
+      "slug": "qatar",
+      "status": "cached"
+    },
+    "republic-of-the-congo": {
+      "bytes": 220174,
+      "fetched_at": "2026-09-15T17:32:53.567211+00:00",
+      "name": "Republic of the Congo",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/republic-of-the-congo/",
+      "pdf_path": "data/2023/pdf/republic-of-the-congo.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/02/528267_CONGO-REP-2023-HUMAN-RIGHTS-REPORT.pdf",
+      "sha256": "ac9ab33775861e5b1f175383c7e1426b4d7547d56419a309211820a9f615c648",
+      "slug": "republic-of-the-congo",
+      "status": "ok"
+    },
+    "romania": {
+      "bytes": 320617,
+      "name": "Romania",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/romania/",
+      "pdf_path": "data/2023/pdf/romania.pdf",
+      "sha256": "40fd47c9b66630747878caea921cd0d8c5967c701a0f720ac39032d43eda7b1b",
+      "slug": "romania",
+      "status": "cached"
+    },
+    "russia": {
+      "bytes": 520604,
+      "name": "Russia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/russia/",
+      "pdf_path": "data/2023/pdf/russia.pdf",
+      "sha256": "0f32942a8474d6c340ba33e619d150e699ae7a8f55b94d0ecc3e3b2afd4e165a",
+      "slug": "russia",
+      "status": "cached"
+    },
+    "rwanda": {
+      "bytes": 292380,
+      "name": "Rwanda",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/rwanda/",
+      "pdf_path": "data/2023/pdf/rwanda.pdf",
+      "sha256": "3c58478e6977ac0bf7f0fa77e57d9469ad04aecf314b403c2833bb1c73da351e",
+      "slug": "rwanda",
+      "status": "cached"
+    },
+    "saint-kitts-and-nevis": {
+      "bytes": 199420,
+      "name": "Saint Kitts and Nevis",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/saint-kitts-and-nevis/",
+      "pdf_path": "data/2023/pdf/saint-kitts-and-nevis.pdf",
+      "sha256": "dccea0c060a9ea803f8638f162e4c1e096920b4020ad613700d07707cb0e7601",
+      "slug": "saint-kitts-and-nevis",
+      "status": "cached"
+    },
+    "saint-lucia": {
+      "bytes": 167359,
+      "name": "Saint Lucia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/saint-lucia/",
+      "pdf_path": "data/2023/pdf/saint-lucia.pdf",
+      "sha256": "ac64c8f234710e0e52f244e99136f1870c6323877b7ac697df049de7d815bd71",
+      "slug": "saint-lucia",
+      "status": "cached"
+    },
+    "saint-vincent-and-the-grenadines": {
+      "bytes": 192844,
+      "name": "Saint Vincent and the Grenadines",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/saint-vincent-and-the-grenadines/",
+      "pdf_path": "data/2023/pdf/saint-vincent-and-the-grenadines.pdf",
+      "sha256": "5288718a368e68ae38b2bdd4d962b28befeb23c258864aca224490b9cdc0f8cc",
+      "slug": "saint-vincent-and-the-grenadines",
+      "status": "cached"
+    },
+    "samoa": {
+      "bytes": 178687,
+      "name": "Samoa",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/samoa/",
+      "pdf_path": "data/2023/pdf/samoa.pdf",
+      "sha256": "7ef0ae8724ac4d76ef24fa403f1e0e2a9efcf47ef0bddda04d0b62c97e4163f7",
+      "slug": "samoa",
+      "status": "cached"
+    },
+    "san-marino": {
+      "bytes": 164597,
+      "name": "San Marino",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/san-marino/",
+      "pdf_path": "data/2023/pdf/san-marino.pdf",
+      "sha256": "e6349c75a98c8a9a9bfe63f602d3e6d213eb992e3ff7a4f19099ff5f67eb19c4",
+      "slug": "san-marino",
+      "status": "cached"
+    },
+    "sao-tome-and-principe": {
+      "bytes": 223248,
+      "name": "São Tomé and Príncipe",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/sao-tome-and-principe/",
+      "pdf_path": "data/2023/pdf/sao-tome-and-principe.pdf",
+      "sha256": "50819d56ce6f615cad64123f0883321abfae5ff561dab673f5f07b9aa0d4cfba",
+      "slug": "sao-tome-and-principe",
+      "status": "cached"
+    },
+    "saudi-arabia": {
+      "bytes": 442797,
+      "name": "Saudi Arabia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/saudi-arabia/",
+      "pdf_path": "data/2023/pdf/saudi-arabia.pdf",
+      "sha256": "737e3f8f3a68b4d7cfbb5723f6cf083c290e129eb4201c6aab63cc5d7c04462b",
+      "slug": "saudi-arabia",
+      "status": "cached"
+    },
+    "senegal": {
+      "bytes": 259901,
+      "name": "Senegal",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/senegal/",
+      "pdf_path": "data/2023/pdf/senegal.pdf",
+      "sha256": "a4b19e7c20a0e83fcad173b486e01dd081b8a068adb0be0bbf2f5571cea13138",
+      "slug": "senegal",
+      "status": "cached"
+    },
+    "serbia": {
+      "bytes": 408672,
+      "name": "Serbia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/serbia/",
+      "pdf_path": "data/2023/pdf/serbia.pdf",
+      "sha256": "ce77694afff3e096e28b9082b4563d3cd80180da93fb242fdb157c3694763efe",
+      "slug": "serbia",
+      "status": "cached"
+    },
+    "seychelles": {
+      "bytes": 194847,
+      "name": "Seychelles",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/seychelles/",
+      "pdf_path": "data/2023/pdf/seychelles.pdf",
+      "sha256": "f4eefab931426551b15eb47518592defd608559cf35d4d976c7b272cbba08b19",
+      "slug": "seychelles",
+      "status": "cached"
+    },
+    "sierra-leone": {
+      "bytes": 256056,
+      "name": "Sierra Leone",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/sierra-leone/",
+      "pdf_path": "data/2023/pdf/sierra-leone.pdf",
+      "sha256": "bbd8bdde29223942b355a7af68eea0ceca6dfe6ae5094419749dc938f9bc0684",
+      "slug": "sierra-leone",
+      "status": "cached"
+    },
+    "singapore": {
+      "bytes": 323937,
+      "name": "Singapore",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/singapore/",
+      "pdf_path": "data/2023/pdf/singapore.pdf",
+      "sha256": "439365b3e0e0c33552a1c636e50df05089f01d25dcbec3141a0079fa8887d368",
+      "slug": "singapore",
+      "status": "cached"
+    },
+    "slovakia": {
+      "bytes": 332185,
+      "name": "Slovakia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/slovakia/",
+      "pdf_path": "data/2023/pdf/slovakia.pdf",
+      "sha256": "2169841a24594cf3dd57682d9ccb09aeb3e3e0b9673cc67e5822659f8378a64c",
+      "slug": "slovakia",
+      "status": "cached"
+    },
+    "slovenia": {
+      "bytes": 247243,
+      "name": "Slovenia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/slovenia/",
+      "pdf_path": "data/2023/pdf/slovenia.pdf",
+      "sha256": "3734fa56c86f802a4f5db7d1707885c8dddd8325833a2b5d4451caef4f8f2f7b",
+      "slug": "slovenia",
+      "status": "cached"
+    },
+    "solomon-islands": {
+      "bytes": 224633,
+      "name": "Solomon Islands",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/solomon-islands/",
+      "pdf_path": "data/2023/pdf/solomon-islands.pdf",
+      "sha256": "840ab3356700101388fa844a25ac17ed9ffa138208157a7424be3702ed2d91b0",
+      "slug": "solomon-islands",
+      "status": "cached"
+    },
+    "somalia": {
+      "bytes": 355029,
+      "fetched_at": "2026-09-15T17:32:52.156376+00:00",
+      "name": "Somalia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/somalia/",
+      "pdf_path": "data/2023/pdf/somalia.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/02/528267_SOMALIA-2023-HUMAN-RIGHTS-REPORT.pdf",
+      "sha256": "915f2131082292a7aceb3d712cc32d57c155f162e885f06d5f43c61d70119acb",
+      "slug": "somalia",
+      "status": "ok"
+    },
+    "south-africa": {
+      "bytes": 331307,
+      "name": "South Africa",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/south-africa/",
+      "pdf_path": "data/2023/pdf/south-africa.pdf",
+      "sha256": "ec89ad1b8e57dc84ad3f10a58fb8a45116c66486461710110a932e9f2ae3d309",
+      "slug": "south-africa",
+      "status": "cached"
+    },
+    "south-korea": {
+      "bytes": 249779,
+      "name": "South Korea",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/south-korea/",
+      "pdf_path": "data/2023/pdf/south-korea.pdf",
+      "sha256": "302024b87072a7e617e13c0cf9b400901ef5a44aec77a18253c9dd7291267220",
+      "slug": "south-korea",
+      "status": "cached"
+    },
+    "south-sudan": {
+      "bytes": 353864,
+      "name": "South Sudan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/south-sudan/",
+      "pdf_path": "data/2023/pdf/south-sudan.pdf",
+      "sha256": "469b353f4f37370ba73ca51c56309bab2ab8fda7e641db1d349e98cc91a03410",
+      "slug": "south-sudan",
+      "status": "cached"
+    },
+    "spain": {
+      "bytes": 351246,
+      "name": "Spain",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/spain/",
+      "pdf_path": "data/2023/pdf/spain.pdf",
+      "sha256": "dfcfbf82b3dc741ac1f17e53d722cf5649a41fd59e80dfb00aba61f3151bd26a",
+      "slug": "spain",
+      "status": "cached"
+    },
+    "sri-lanka": {
+      "bytes": 313992,
+      "name": "Sri Lanka",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/sri-lanka/",
+      "pdf_path": "data/2023/pdf/sri-lanka.pdf",
+      "sha256": "a624be3a5e36c0295794f2dd666a859097b63651c5bfd1f9c34c5c4c6a6d7470",
+      "slug": "sri-lanka",
+      "status": "cached"
+    },
+    "sudan": {
+      "bytes": 277369,
+      "fetched_at": "2026-09-15T17:32:49.606774+00:00",
+      "name": "Sudan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/sudan/",
+      "pdf_path": "data/2023/pdf/sudan.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/02/528267_SUDAN-2023-HUMAN-RIGHTS-REPORT-1.pdf",
+      "sha256": "a54366ffbbaa64614c41292965fff395cb577a8a3fd81bd161112b783cd1a97a",
+      "slug": "sudan",
+      "status": "ok"
+    },
+    "suriname": {
+      "bytes": 199635,
+      "name": "Suriname",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/suriname/",
+      "pdf_path": "data/2023/pdf/suriname.pdf",
+      "sha256": "02a889e4e2353d102483e08aaf8da106800b1133ae4c627e6e38154416415daf",
+      "slug": "suriname",
+      "status": "cached"
+    },
+    "sweden": {
+      "bytes": 232922,
+      "name": "Sweden",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/sweden/",
+      "pdf_path": "data/2023/pdf/sweden.pdf",
+      "sha256": "ce06cbe34089189c20438e5a9c51b323eb13397c99791ef648450e5710d78ff0",
+      "slug": "sweden",
+      "status": "cached"
+    },
+    "switzerland": {
+      "bytes": 235184,
+      "name": "Switzerland",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/switzerland/",
+      "pdf_path": "data/2023/pdf/switzerland.pdf",
+      "sha256": "629bd1a0ec9d3166f11a91c79d4a6e215834b6b7782625db903aa62c06727be5",
+      "slug": "switzerland",
+      "status": "cached"
+    },
+    "syria": {
+      "bytes": 482782,
+      "name": "Syria",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/syria/",
+      "pdf_path": "data/2023/pdf/syria.pdf",
+      "sha256": "9c0fb2395f6212f3d1d649d1835b7b293aeeba6f7ac71f966fbdeb437601e4a4",
+      "slug": "syria",
+      "status": "cached"
+    },
+    "taiwan": {
+      "bytes": 230215,
+      "name": "Taiwan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/taiwan/",
+      "pdf_path": "data/2023/pdf/taiwan.pdf",
+      "sha256": "4b8d849da541ede026d3a41c37c99f8c2fe82c62117b885ff073692afa272f73",
+      "slug": "taiwan",
+      "status": "cached"
+    },
+    "tajikistan": {
+      "bytes": 306542,
+      "name": "Tajikistan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/tajikistan/",
+      "pdf_path": "data/2023/pdf/tajikistan.pdf",
+      "sha256": "3ed42a24c8c3630eeb5352e265383dc76b579fb1432e27b3ba45064efe512167",
+      "slug": "tajikistan",
+      "status": "cached"
+    },
+    "tanzania": {
+      "bytes": 355496,
+      "name": "Tanzania",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/tanzania/",
+      "pdf_path": "data/2023/pdf/tanzania.pdf",
+      "sha256": "e3627f0a8eec9c900e9b8241930d3329e492983e98adfddb8eadbd7f52687f08",
+      "slug": "tanzania",
+      "status": "cached"
+    },
+    "thailand": {
+      "bytes": 312238,
+      "name": "Thailand",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/thailand/",
+      "pdf_path": "data/2023/pdf/thailand.pdf",
+      "sha256": "ff78e0103591ccfcd926900e2aad20f9a58db96853ede19e1b54997f2c356a44",
+      "slug": "thailand",
+      "status": "cached"
+    },
+    "the-gambia": {
+      "bytes": 215480,
+      "fetched_at": "2026-09-15T17:32:50.315373+00:00",
+      "name": "The Gambia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/the-gambia/",
+      "pdf_path": "data/2023/pdf/the-gambia.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/02/528267_GAMBIA-2023-HUMAN-RIGHTS-REPORT-1.pdf",
+      "sha256": "02f95a9f23321f48302f3ca75a81a7a535656833bbdcc3d50fbd3bd46106bf2e",
+      "slug": "the-gambia",
+      "status": "ok"
+    },
+    "thebahamas": {
+      "bytes": 203167,
+      "name": "The Bahamas",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/thebahamas/",
+      "pdf_path": "data/2023/pdf/thebahamas.pdf",
+      "sha256": "cbe5805ae44cc1dd95f5ef986a6cd19db2cf74fa77f4d8ca0f25ad7bbd2eadcc",
+      "slug": "thebahamas",
+      "status": "cached"
+    },
+    "timor-leste": {
+      "bytes": 249203,
+      "name": "Timor-Leste",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/timor-leste/",
+      "pdf_path": "data/2023/pdf/timor-leste.pdf",
+      "sha256": "e53c617a15ff75beeb0f0592a251393932c41c6279fbf3e4fe84bdf9197806a2",
+      "slug": "timor-leste",
+      "status": "cached"
+    },
+    "togo": {
+      "bytes": 290730,
+      "name": "Togo",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/togo/",
+      "pdf_path": "data/2023/pdf/togo.pdf",
+      "sha256": "dc146e94e3ca1c49e16db052f3a35b50451c2961993b2c9021307a6e3f9fd9a4",
+      "slug": "togo",
+      "status": "cached"
+    },
+    "tonga": {
+      "bytes": 174498,
+      "name": "Tonga",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/tonga/",
+      "pdf_path": "data/2023/pdf/tonga.pdf",
+      "sha256": "6fdd3fe7225f1bedaf52116711102c7edbe8b824cb54348789e3dbdd707547b4",
+      "slug": "tonga",
+      "status": "cached"
+    },
+    "trinidad-and-tobago": {
+      "bytes": 198904,
+      "name": "Trinidad and Tobago",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/trinidad-and-tobago/",
+      "pdf_path": "data/2023/pdf/trinidad-and-tobago.pdf",
+      "sha256": "c851d2dd8bbdd02f6c9be0d8f950628d5c11d3370d73ca6118e5e52ff34ee027",
+      "slug": "trinidad-and-tobago",
+      "status": "cached"
+    },
+    "tunisia": {
+      "bytes": 281270,
+      "name": "Tunisia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/tunisia/",
+      "pdf_path": "data/2023/pdf/tunisia.pdf",
+      "sha256": "a642cf2509b8f22f50f8ac9048db223ffd6dc796899917fa9c7a0a22bed16416",
+      "slug": "tunisia",
+      "status": "cached"
+    },
+    "turkey": {
+      "bytes": 464588,
+      "name": "Turkey",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/turkey/",
+      "pdf_path": "data/2023/pdf/turkey.pdf",
+      "sha256": "a3ea998667e7efd53a211d7df3bc996ba7450519be05bb351c8cf73c9b09d6cf",
+      "slug": "turkey",
+      "status": "cached"
+    },
+    "turkmenistan": {
+      "bytes": 223773,
+      "name": "Turkmenistan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/turkmenistan/",
+      "pdf_path": "data/2023/pdf/turkmenistan.pdf",
+      "sha256": "d28bc1f10e90a04d8eec811d1de46bae9a6ae11f8a86471f390ee777a003d01c",
+      "slug": "turkmenistan",
+      "status": "cached"
+    },
+    "tuvalu": {
+      "bytes": 171222,
+      "name": "Tuvalu",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/tuvalu/",
+      "pdf_path": "data/2023/pdf/tuvalu.pdf",
+      "sha256": "2b9592c8e767c4d7652071a01b8f67eeb98929a5f95dc32b37c8ce1f56392036",
+      "slug": "tuvalu",
+      "status": "cached"
+    },
+    "uganda": {
+      "bytes": 363325,
+      "fetched_at": "2026-09-15T17:32:50.744400+00:00",
+      "name": "Uganda",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/uganda/",
+      "pdf_path": "data/2023/pdf/uganda.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/02/528267_UGANDA-2023-HUMAN-RIGHTS-REPORT.pdf",
+      "sha256": "a3f769c4f3416e98060fb66a92a4d19f77b8027a139fa64e53096c1ed4b2b646",
+      "slug": "uganda",
+      "status": "ok"
+    },
+    "ukraine": {
+      "bytes": 340913,
+      "name": "Ukraine",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/ukraine/",
+      "pdf_path": "data/2023/pdf/ukraine.pdf",
+      "sha256": "22a8864fd961961dbcff56ea8419964633cb2b3e5f76e1152d50466af8ef17c3",
+      "slug": "ukraine",
+      "status": "cached"
+    },
+    "united-arab-emirates": {
+      "bytes": 355214,
+      "name": "United Arab Emirates",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/united-arab-emirates/",
+      "pdf_path": "data/2023/pdf/united-arab-emirates.pdf",
+      "sha256": "6cbfe1330d137ab01f226cd8133b69f801337a2db3ab50ab4020d984ec06389f",
+      "slug": "united-arab-emirates",
+      "status": "cached"
+    },
+    "united-kingdom": {
+      "bytes": 281118,
+      "name": "United Kingdom",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/united-kingdom/",
+      "pdf_path": "data/2023/pdf/united-kingdom.pdf",
+      "sha256": "519abb6dabc6d36b1b63fb76189c77c14e5bbe315432584ded0ae676c491ca60",
+      "slug": "united-kingdom",
+      "status": "cached"
+    },
+    "uruguay": {
+      "bytes": 229835,
+      "name": "Uruguay",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/uruguay/",
+      "pdf_path": "data/2023/pdf/uruguay.pdf",
+      "sha256": "7af7169422871d1105b27a59f5a583f0458e448fe9ef361ffc5f6cd39213e1c9",
+      "slug": "uruguay",
+      "status": "cached"
+    },
+    "uzbekistan": {
+      "bytes": 317847,
+      "name": "Uzbekistan",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/uzbekistan/",
+      "pdf_path": "data/2023/pdf/uzbekistan.pdf",
+      "sha256": "f7dbe8b56d6e5bfc4ed0c1af9cd296b1dbc5928ae4607b7e1895bb57b8e17089",
+      "slug": "uzbekistan",
+      "status": "cached"
+    },
+    "vanuatu": {
+      "bytes": 186034,
+      "name": "Vanuatu",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/vanuatu/",
+      "pdf_path": "data/2023/pdf/vanuatu.pdf",
+      "sha256": "42a845b114e624a1b5d72fe3b80e284c6b99330a4ebdaf3e97f5864e77b74cab",
+      "slug": "vanuatu",
+      "status": "cached"
+    },
+    "venezuela": {
+      "bytes": 366848,
+      "name": "Venezuela",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/venezuela/",
+      "pdf_path": "data/2023/pdf/venezuela.pdf",
+      "sha256": "85d45388de2f0e2f499707250557a1e0089210278555fb9d7aaa042ddafc354f",
+      "slug": "venezuela",
+      "status": "cached"
+    },
+    "vietnam": {
+      "bytes": 349194,
+      "name": "Vietnam",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/vietnam/",
+      "pdf_path": "data/2023/pdf/vietnam.pdf",
+      "sha256": "9638aad709b20e3554e293db4a009504427f1190e29e9acf3ce7650bb9010e8c",
+      "slug": "vietnam",
+      "status": "cached"
+    },
+    "yemen": {
+      "bytes": 309216,
+      "name": "Yemen",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/yemen/",
+      "pdf_path": "data/2023/pdf/yemen.pdf",
+      "sha256": "7ab79ee08df1f0e42e93ff746dde2a2ea8a0b86a31d5d18bf6028c154ca1ae7a",
+      "slug": "yemen",
+      "status": "cached"
+    },
+    "zambia": {
+      "bytes": 255448,
+      "name": "Zambia",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/zambia/",
+      "pdf_path": "data/2023/pdf/zambia.pdf",
+      "sha256": "49ca173b00a37caa49be77facee08ba92bb0b204700d110ad237d0631a44db3f",
+      "slug": "zambia",
+      "status": "cached"
+    },
+    "zimbabwe": {
+      "bytes": 314010,
+      "fetched_at": "2026-09-15T17:32:51.958648+00:00",
+      "name": "Zimbabwe",
+      "page_url": "https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/zimbabwe/",
+      "pdf_path": "data/2023/pdf/zimbabwe.pdf",
+      "pdf_url": "https://www.state.gov/wp-content/uploads/2024/02/528267_ZIMBABWE-2023-HUMAN-RIGHTS-REPORT.pdf",
+      "sha256": "43430651824eb4a77db1fe6da711649f01deba34f6f40467a8a4ff714ec8cce4",
+      "slug": "zimbabwe",
+      "status": "ok"
+    }
+  },
+  "fetched_at": "2026-09-15T17:32:53.569342+00:00",
+  "year": 2023
+}

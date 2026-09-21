@@ -1,0 +1,16 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Node (report tooling only)
+report/node_modules/
+report/package-lock.json
+
+# Local render artifacts
+report/preview.pdf
+report/pg*.png
+report/pg*.pdf
+
+# Logs
+output/fetch_*.log

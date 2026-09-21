@@ -1,0 +1,516 @@
+<title>The 2024 Contraction</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=Public+Sans:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#F2F4F7; --surface:#FFFFFF; --surface-2:#E9EDF2;
+  --ink:#12171D; --ink-2:#39424D; --muted:#5B6673;
+  --rule:#DDE3EA; --rule-strong:#C3CCD6;
+  --s23:#1163A0; --s24:#A32C25;
+  --flag:#7A4A06;
+  --shadow:0 1px 2px rgba(18,23,29,.06), 0 8px 24px -12px rgba(18,23,29,.14);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#10141A; --surface:#171C22; --surface-2:#1F262E;
+    --ink:#E4E8ED; --ink-2:#BCC5CF; --muted:#8E9AA8;
+    --rule:#262E37; --rule-strong:#38434F;
+    --s23:#3E92D0; --s24:#D4564C;
+    --flag:#D9A441;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.6);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#10141A; --surface:#171C22; --surface-2:#1F262E;
+  --ink:#E4E8ED; --ink-2:#BCC5CF; --muted:#8E9AA8;
+  --rule:#262E37; --rule-strong:#38434F;
+  --s23:#3E92D0; --s24:#D4564C;
+  --flag:#D9A441;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.6);
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--ground); color:var(--ink);
+  font-family:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:17px; line-height:1.62; margin:0;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1000px;margin:0 auto;padding:0 28px 96px}
+.col{max-width:68ch}
+
+/* ---------- masthead ---------- */
+header{padding:64px 0 36px;border-bottom:2px solid var(--ink)}
+.eyebrow{
+  font-family:"IBM Plex Mono",ui-monospace,monospace;
+  font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--muted);margin:0 0 20px
+}
+h1{
+  font-family:Spectral,Georgia,"Times New Roman",serif;
+  font-weight:600;font-size:clamp(2.4rem,5.4vw,3.6rem);line-height:1.08;
+  letter-spacing:-.018em;margin:0 0 18px;text-wrap:balance
+}
+.standfirst{
+  font-family:Spectral,Georgia,serif;font-size:1.22rem;line-height:1.55;
+  color:var(--ink-2);margin:0;max-width:60ch
+}
+.byline{
+  display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:28px;
+  font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--muted)
+}
+
+/* ---------- key figures ---------- */
+.figures{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(168px,1fr));
+  gap:0;margin:0;border-bottom:1px solid var(--rule)
+}
+.fig{padding:30px 26px 28px;border-right:1px solid var(--rule)}
+.fig:last-child{border-right:0}
+.fig .n{
+  font-family:Spectral,Georgia,serif;font-weight:600;
+  font-size:clamp(2rem,4.4vw,2.7rem);line-height:1;letter-spacing:-.02em;
+  font-variant-numeric:tabular-nums;color:var(--s24);display:block
+}
+.fig .n.neutral{color:var(--ink)}
+.fig .l{
+  display:block;margin-top:10px;font-size:13.5px;line-height:1.4;color:var(--muted)
+}
+
+/* ---------- typography ---------- */
+h2{
+  font-family:Spectral,Georgia,serif;font-weight:600;
+  font-size:1.72rem;letter-spacing:-.012em;line-height:1.2;
+  margin:0 0 4px;text-wrap:balance
+}
+.sec{padding-top:58px}
+.sec-no{
+  font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--muted);margin:0 0 14px
+}
+p{margin:0 0 20px}
+.lede{font-size:1.06rem;color:var(--ink-2)}
+strong{font-weight:700}
+em{font-style:italic}
+
+/* ---------- figures / charts ---------- */
+figure{
+  margin:34px 0 8px;background:var(--surface);border:1px solid var(--rule);
+  border-radius:3px;box-shadow:var(--shadow);overflow:hidden
+}
+.fig-head{padding:22px 26px 0}
+.fig-title{
+  font-family:"Public Sans",sans-serif;font-weight:700;font-size:15px;
+  letter-spacing:.005em;margin:0 0 5px
+}
+.fig-sub{font-size:13.5px;color:var(--muted);margin:0;max-width:64ch}
+.plot{padding:16px 20px 4px;overflow-x:auto}
+svg{display:block;width:100%;height:auto;min-width:520px}
+figcaption{
+  padding:14px 26px 20px;font-size:12.5px;line-height:1.5;color:var(--muted);
+  border-top:1px solid var(--rule);margin-top:10px
+}
+.legend{display:flex;gap:20px;padding:4px 26px 0;flex-wrap:wrap}
+.legend span{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--ink-2)}
+.swatch{width:11px;height:11px;border-radius:2px;flex:none}
+
+/* ---------- schema comparison ---------- */
+.schema{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--rule)}
+@media (max-width:680px){.schema{grid-template-columns:1fr}}
+.schema > div{background:var(--surface);padding:22px 24px}
+.schema h3{
+  font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.12em;
+  text-transform:uppercase;margin:0 0 14px;font-weight:500
+}
+.schema h3.a{color:var(--s23)}
+.schema h3.b{color:var(--s24)}
+.schema ol{margin:0;padding-left:1.35em;font-size:14.5px;line-height:1.75}
+.schema li{color:var(--ink-2)}
+.schema li::marker{color:var(--muted);font-family:"IBM Plex Mono",monospace;font-size:12px}
+
+/* ---------- callout ---------- */
+.note{
+  border-left:3px solid var(--flag);background:var(--surface);
+  padding:20px 24px;margin:32px 0;border-radius:0 3px 3px 0;
+  box-shadow:var(--shadow)
+}
+.note p{margin:0 0 12px;font-size:15.5px}
+.note p:last-child{margin:0}
+.note .h{
+  font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--flag);margin-bottom:10px;font-weight:500
+}
+
+/* ---------- table ---------- */
+.tablewrap{overflow-x:auto;margin:28px 0}
+table{border-collapse:collapse;width:100%;font-size:14px;min-width:460px}
+th,td{padding:9px 14px;text-align:left;border-bottom:1px solid var(--rule)}
+th{
+  font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--muted);font-weight:500;
+  border-bottom:1px solid var(--rule-strong)
+}
+td.num{text-align:right;font-variant-numeric:tabular-nums;font-family:"IBM Plex Mono",monospace;font-size:13px}
+td.down{color:var(--s24)}
+tbody tr:last-child td{border-bottom:0}
+
+details{margin:22px 0}
+summary{
+  cursor:pointer;font-family:"IBM Plex Mono",monospace;font-size:12px;
+  letter-spacing:.06em;text-transform:uppercase;color:var(--muted);
+  padding:8px 0;list-style:none;display:flex;align-items:center;gap:9px
+}
+summary::-webkit-details-marker{display:none}
+summary::before{content:"+";font-size:15px;line-height:1;color:var(--rule-strong)}
+details[open] summary::before{content:"−"}
+summary:hover{color:var(--ink)}
+summary:focus-visible{outline:2px solid var(--s23);outline-offset:3px}
+
+footer{
+  margin-top:72px;padding-top:26px;border-top:1px solid var(--rule);
+  font-size:13px;color:var(--muted)
+}
+footer p{margin:0 0 10px;max-width:68ch}
+code{
+  font-family:"IBM Plex Mono",monospace;font-size:.88em;
+  background:var(--surface-2);padding:1.5px 5px;border-radius:2px
+}
+
+/* ---------- tooltip ---------- */
+#tip{
+  position:fixed;pointer-events:none;opacity:0;transition:opacity .12s;
+  background:var(--ink);color:var(--ground);padding:7px 11px;border-radius:3px;
+  font-size:12.5px;line-height:1.45;font-family:"IBM Plex Mono",monospace;
+  z-index:50;max-width:260px;box-shadow:0 4px 14px rgba(0,0,0,.28)
+}
+.hit{cursor:crosshair}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<div class="wrap">
+
+<header>
+  <p class="eyebrow">Human Rights First · Research note</p>
+  <h1>Every country report got shorter</h1>
+  <p class="standfirst">The State Department's 2024 Country Reports on Human Rights Practices are two-thirds shorter than the 2023 edition, cite half as many organisations, and follow a rewritten outline. Not one of 192 countries gained text.</p>
+  <div class="byline">
+    <span>Editions compared: 2023 → 2024</span>
+    <span>389 reports analysed</span>
+    <span>Prepared 15 Sep 2026</span>
+  </div>
+</header>
+
+<section class="figures">
+  <div class="fig"><span class="n">−65.8%</span><span class="l">Total text across both editions, 11.15M → 3.81M characters</span></div>
+  <div class="fig"><span class="n neutral">0 of 192</span><span class="l">Countries whose report grew</span></div>
+  <div class="fig"><span class="n">−58%</span><span class="l">Distinct organisations cited, 1,211 → 506</span></div>
+  <div class="fig"><span class="n">−62.7%</span><span class="l">Quantitative claims, 3,676 → 1,372</span></div>
+</section>
+
+<div class="col">
+<section class="sec">
+  <p class="sec-no">01 — Scale</p>
+  <h2>A uniform cut, not a set of country decisions</h2>
+  <p class="lede">The 2024 reports were released on 12 August 2025. Measured against the prior edition, the median country report fell from roughly 52,900 characters to 18,200 — a 65.6% reduction, closely tracking the 65.8% drop across the corpus as a whole.</p>
+  <p>The more telling number is the spread. If editors had made country-by-country judgements about what still warranted reporting, the reductions would vary widely — some countries trimmed lightly, others heavily, a few expanded. That is not what happened. Every one of the 192 countries present in both editions lands between −49% and −94%, and 147 of them sit inside a single 20-point band.</p>
+</section>
+</div>
+
+<figure>
+  <div class="fig-head">
+    <p class="fig-title">Distribution of change in report length, 2023 → 2024</p>
+    <p class="fig-sub">192 countries with a report in both editions, grouped by percentage change.</p>
+  </div>
+  <div class="plot"><svg id="c1" viewBox="0 0 720 320" role="img" aria-label="Histogram: all 192 countries fall between −49% and −94% change, with 100 countries in the −70% to −60% band."></svg></div>
+  <figcaption>No country appears to the right of −49%. The concentration in two adjacent bands is the signature of an editorial rule applied across the corpus, rather than 192 separate assessments.</figcaption>
+</figure>
+
+<div class="col">
+<section class="sec">
+  <p class="sec-no">02 — Outliers</p>
+  <h2>Israel and the West Bank and Gaza fell furthest</h2>
+  <p>One report is a clear outlier. The combined Israel, West Bank and Gaza report — by far the longest in the 2023 edition at 150,886 characters — was reduced to 8,762, a 94.2% cut. It is the only country outside the band that contains every other report, and it went from the longest report in the corpus to a below-median one.</p>
+</section>
+</div>
+
+<figure>
+  <div class="fig-head">
+    <p class="fig-title">Ten largest reductions</p>
+    <p class="fig-sub">Percentage change in report length, with before and after character counts.</p>
+  </div>
+  <div class="plot"><svg id="c2" viewBox="0 0 720 420" role="img" aria-label="Bar chart of the ten largest reductions, led by Israel including West Bank and Gaza at −94.2%."></svg></div>
+  <figcaption>For comparison, the smallest reductions in the corpus were Norway (−49.3%), Grenada (−50.5%) and Liberia (−50.7%).</figcaption>
+</figure>
+
+<div class="col">
+<section class="sec">
+  <p class="sec-no">03 — Evidence base</p>
+  <h2>Half the organisations disappeared from the reporting</h2>
+  <p class="lede">The reports attribute claims to outside bodies in prose — there are no footnotes. Counting those attributions, the number of distinct named organisations fell from 1,211 to 506, and total named mentions from 3,476 to 1,328.</p>
+  <p>The decline is not evenly distributed. UNHCR, the most-cited body in both editions, fell from 669 mentions across 137 countries to 288 across 93. The International Committee of the Red Cross fell from 66 mentions to 9; the Council of Europe from 64 to 7; Transparency International from 25 to 3. Thirty-three organisations cited at least three times in 2023 vanish entirely, among them the OSCE, UNESCO and the Organization of American States.</p>
+</section>
+</div>
+
+<figure>
+  <div class="fig-head">
+    <p class="fig-title">Mentions of frequently cited organisations</p>
+    <p class="fig-sub">Named attributions across the full corpus, both editions.</p>
+  </div>
+  <div class="legend">
+    <span><i class="swatch" style="background:var(--s23)"></i>2023 edition</span>
+    <span><i class="swatch" style="background:var(--s24)"></i>2024 edition</span>
+  </div>
+  <div class="plot"><svg id="c3" viewBox="0 0 720 620" role="img" aria-label="Paired bar chart comparing organisation mentions between editions; nearly all decline sharply, while the International Labor Organization holds steady."></svg></div>
+  <figcaption>One exception stands out. The International Labor Organization barely moves — 93 mentions to 83, across 79 countries then 75 — while comparable bodies lose half or more of their presence.</figcaption>
+</figure>
+
+<div class="col">
+  <div class="note">
+    <p class="h">Worth a closer look</p>
+    <p>Labour-rights sourcing survived the cut almost intact while refugee, civil-liberties and anti-corruption sourcing did not. The 2024 outline retains a dedicated <em>Worker Rights</em> subsection; the topics whose sourcing collapsed are largely those whose dedicated sections were removed. That relationship is worth testing directly before drawing conclusions from it.</p>
+  </div>
+
+<section class="sec">
+  <p class="sec-no">04 — Structure</p>
+  <h2>The outline was rewritten, not trimmed</h2>
+  <p>The 2023 edition organised each report under seven thematic sections. The 2024 edition uses three. Only two headings survive in recognisable form across the two editions — a 96% change in the outline.</p>
+  <p>This matters for anyone comparing the editions: the sections do not correspond, so a section-by-section diff produces confident-looking numbers that mean nothing. Several distinct 2023 sections have no 2024 counterpart at all, including <em>Corruption in Government</em>, <em>Freedom to Participate in the Political Process</em> and <em>Denial of Fair Public Trial</em>.</p>
+</section>
+</div>
+
+<figure>
+  <div class="fig-head">
+    <p class="fig-title">Top-level section structure</p>
+    <p class="fig-sub">Thematic sections in each edition, in document order.</p>
+  </div>
+  <div class="schema">
+    <div>
+      <h3 class="a">2023 edition — 7 sections</h3>
+      <ol>
+        <li>Respect for the Integrity of the Person</li>
+        <li>Respect for Civil Liberties</li>
+        <li>Freedom to Participate in the Political Process</li>
+        <li>Corruption in Government</li>
+        <li>Governmental Posture Towards International Bodies</li>
+        <li>Discrimination and Societal Abuses</li>
+        <li>Worker Rights</li>
+      </ol>
+    </div>
+    <div>
+      <h3 class="b">2024 edition — 3 sections</h3>
+      <ol>
+        <li>Life</li>
+        <li>Liberty</li>
+        <li>Security of the Person</li>
+      </ol>
+    </div>
+  </div>
+  <figcaption>Subsections were also reorganised: 30 distinct headings in 2023 against 17 in 2024. <em>Instances of Transnational Repression</em> is the only 2024 subsection that is not universal — it appears in 52 of 195 reports.</figcaption>
+</figure>
+
+<div class="col">
+<section class="sec">
+  <p class="sec-no">05 — Coverage</p>
+  <h2>Country coverage held steady</h2>
+  <p>Unlike length and sourcing, the number of countries covered did not fall: 193 reports in 2023 against 194 in 2024. The Cook Islands and Niue were added. No country was dropped.</p>
+  <p>Quantitative claims fell roughly in line with overall length, from 3,676 to 1,372 (−62.7%). Percentages remain the most common figure in both editions — 1,917 instances in 2023, 689 in 2024.</p>
+</section>
+
+<section class="sec">
+  <p class="sec-no">06 — Method</p>
+  <h2>How these numbers were produced, and what they can bear</h2>
+  <p class="lede">All 389 reports were downloaded as published PDFs and parsed directly. Every figure above is reproducible from the archive, and each report is recorded with its source URL and SHA-256 checksum.</p>
+  <p><strong>The reports contain no footnotes or bibliography.</strong> Sources appear only as inline prose — <em>"according to UNICEF"</em>, <em>"the KNCHR reported 82 cases"</em>. Source counts are therefore inferred from sentence structure, not read off a citation list. Every extracted row retains the verbatim sentence it came from, and rows are graded by confidence. The organisation-level counts quoted here are drawn from the high-confidence tier: a fixed list of known bodies matched by name.</p>
+  <p>Extraction is deliberately conservative. An ambiguous four-digit figure — <code>2000 refugees</code> — is discarded rather than risk recording a year as a quantity. Real counts are lost this way; corrupted ones are not introduced. Counts of source mentions should be read as a consistent index applied identically to both editions, not as an exhaustive census.</p>
+  <p>Length is measured in characters of extracted body text, excluding running headers and page furniture. It is a proxy for detail, not a measure of quality or coverage.</p>
+
+  <div class="note">
+    <p class="h">Two caveats to carry</p>
+    <p><strong>North Macedonia 2024 is missing.</strong> The report exists, but state.gov blocks automated retrieval of that one file. It is excluded from every figure here rather than estimated.</p>
+    <p><strong>Low-frequency source names are unreliable.</strong> Entries appearing only a handful of times can be truncated phrases rather than real organisations. Only sources with substantial counts are quoted above.</p>
+  </div>
+
+  <details>
+    <summary>Underlying figures</summary>
+    <div class="tablewrap">
+      <table>
+        <thead><tr><th>Measure</th><th class="num">2023</th><th class="num">2024</th><th class="num">Change</th></tr></thead>
+        <tbody>
+          <tr><td>Reports</td><td class="num">193</td><td class="num">194</td><td class="num">+1</td></tr>
+          <tr><td>Total characters</td><td class="num">11,153,732</td><td class="num">3,810,680</td><td class="num down">−65.8%</td></tr>
+          <tr><td>Median report length</td><td class="num">52,875</td><td class="num">18,187</td><td class="num down">−65.6%</td></tr>
+          <tr><td>Outline headings</td><td class="num">30</td><td class="num">17</td><td class="num down">−43.3%</td></tr>
+          <tr><td>Distinct named sources</td><td class="num">1,211</td><td class="num">506</td><td class="num down">−58.2%</td></tr>
+          <tr><td>Named source mentions</td><td class="num">3,476</td><td class="num">1,328</td><td class="num down">−61.8%</td></tr>
+          <tr><td>Quantitative claims</td><td class="num">3,676</td><td class="num">1,372</td><td class="num down">−62.7%</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</section>
+</div>
+
+<footer>
+  <p>Source: U.S. Department of State, Bureau of Democracy, Human Rights, and Labor — <em>Country Reports on Human Rights Practices</em>, 2023 and 2024 editions. The 2024 edition was released 12 August 2025.</p>
+  <p>Figures derived from the published PDFs by an archiving and comparison pipeline maintained by Human Rights First. The same pipeline will run against the 2025 edition on release.</p>
+</footer>
+
+</div>
+<div id="tip" role="status" aria-live="polite"></div>
+
+<script>
+(function(){
+  var NS="http://www.w3.org/2000/svg";
+  function el(n,a){var e=document.createElementNS(NS,n);for(var k in a)e.setAttribute(k,a[k]);return e;}
+  // Presentation attributes (fill="...") do not accept var(); the style
+  // property does. Routing colour through style keeps every mark bound to the
+  // theme tokens, so the charts recolour with the page instead of freezing the
+  // palette that was active when they were drawn.
+  function paint(node,o){
+    var d="";for(var k in o)d+=k+":var("+o[k]+");";
+    node.setAttribute("style",(node.getAttribute("style")||"")+d);return node;
+  }
+  function mark(n,a,c){return paint(el(n,a),c);}
+
+  var tip=document.getElementById("tip");
+  function bind(node,html){
+    node.classList.add("hit");
+    node.addEventListener("pointerenter",function(){tip.innerHTML=html;tip.style.opacity="1";});
+    node.addEventListener("pointermove",function(e){
+      var x=e.clientX+14, y=e.clientY+16;
+      if(x+tip.offsetWidth>innerWidth-10) x=e.clientX-tip.offsetWidth-14;
+      if(y+tip.offsetHeight>innerHeight-10) y=e.clientY-tip.offsetHeight-16;
+      tip.style.left=x+"px";tip.style.top=y+"px";
+    });
+    node.addEventListener("pointerleave",function(){tip.style.opacity="0";});
+  }
+  function fmt(n){return n.toLocaleString("en-US");}
+
+  /* ---------- Chart 1: distribution ---------- */
+  var bins=[
+    {lab:"−100 to −90",n:1},{lab:"−90 to −80",n:0},{lab:"−80 to −70",n:43},
+    {lab:"−70 to −60",n:100},{lab:"−60 to −50",n:47},{lab:"−50 to −40",n:1}
+  ];
+  (function(){
+    var s=document.getElementById("c1"),L=76,R=700,T=28,B=250,max=100;
+    var y=function(v){return B-(v/max)*(B-T);};
+    [0,25,50,75,100].forEach(function(v){
+      s.appendChild(mark("line",{x1:L,x2:R,y1:y(v),y2:y(v),"stroke-width":1},{stroke:"--rule"}));
+      var t=mark("text",{x:L-12,y:y(v)+4,"text-anchor":"end",
+        "font-size":12,"font-family":"IBM Plex Mono, monospace"},{fill:"--muted"});
+      t.textContent=v;s.appendChild(t);
+    });
+    var slot=(R-L)/bins.length, bw=Math.min(74,slot-26);
+    bins.forEach(function(b,i){
+      var cx=L+slot*i+slot/2, h=b.n?Math.max((b.n/max)*(B-T),2.5):0;
+      if(h){
+        var r=mark("rect",{x:cx-bw/2,y:B-h,width:bw,height:h,rx:3},{fill:"--s24"});
+        bind(r,"<b>"+b.n+"</b> "+(b.n===1?"country":"countries")+"<br>"+b.lab+"%");
+        s.appendChild(r);
+      }
+      var v=mark("text",{x:cx,y:B-h-9,"text-anchor":"middle",
+        "font-size":13,"font-weight":b.n?600:400,"font-family":"IBM Plex Mono, monospace"},
+        {fill:b.n?"--ink":"--muted"});
+      v.textContent=b.n;s.appendChild(v);
+      var lb=mark("text",{x:cx,y:B+22,"text-anchor":"middle",
+        "font-size":11.5,"font-family":"IBM Plex Mono, monospace"},{fill:"--muted"});
+      lb.textContent=b.lab;s.appendChild(lb);
+    });
+    s.appendChild(mark("line",{x1:L,x2:R,y1:B,y2:B,"stroke-width":1.5},{stroke:"--rule-strong"}));
+    var ax=mark("text",{x:(L+R)/2,y:B+52,"text-anchor":"middle",
+      "font-size":12,"font-family":"Public Sans, sans-serif"},{fill:"--muted"});
+    ax.textContent="Change in report length (%)";s.appendChild(ax);
+    var ay=mark("text",{x:L-12,y:T-12,"text-anchor":"end",
+      "font-size":11.5,"font-family":"IBM Plex Mono, monospace"},{fill:"--muted"});
+    ay.textContent="countries";s.appendChild(ay);
+  })();
+
+  /* ---------- Chart 2: largest reductions ---------- */
+  var top=[
+    {c:"Israel, West Bank and Gaza",a:150886,b:8762,p:-94.2},
+    {c:"El Salvador",a:58463,b:12704,p:-78.3},
+    {c:"Slovakia",a:74872,b:17575,p:-76.5},
+    {c:"Moldova",a:78586,b:18620,p:-76.3},
+    {c:"Hungary",a:79410,b:18903,p:-76.2},
+    {c:"Namibia",a:35570,b:8581,p:-75.9},
+    {c:"Sierra Leone",a:37669,b:9076,p:-75.9},
+    {c:"Belize",a:49780,b:12214,p:-75.5},
+    {c:"Bhutan",a:26176,b:6406,p:-75.5},
+    {c:"Bosnia and Herzegovina",a:96796,b:23703,p:-75.5}
+  ];
+  (function(){
+    var s=document.getElementById("c2"),LX=208,RX=628,T=26,rh=37;
+    [0,25,50,75,100].forEach(function(v){
+      var x=LX+(v/100)*(RX-LX);
+      s.appendChild(mark("line",{x1:x,x2:x,y1:T-8,y2:T+top.length*rh-8,
+        "stroke-width":1},{stroke:"--rule"}));
+      var t=mark("text",{x:x,y:T+top.length*rh+10,"text-anchor":"middle",
+        "font-size":11.5,"font-family":"IBM Plex Mono, monospace"},{fill:"--muted"});
+      t.textContent="−"+v+"%";s.appendChild(t);
+    });
+    top.forEach(function(d,i){
+      var yy=T+i*rh, w=(Math.abs(d.p)/100)*(RX-LX);
+      var lb=mark("text",{x:LX-14,y:yy+5,"text-anchor":"end",
+        "font-size":13.5,"font-family":"Public Sans, sans-serif"},{fill:"--ink"});
+      lb.textContent=d.c;s.appendChild(lb);
+      var r=mark("rect",{x:LX,y:yy-9,width:w,height:18,rx:3},{fill:"--s24"});
+      bind(r,"<b>"+d.c+"</b><br>"+fmt(d.a)+" → "+fmt(d.b)+" chars<br>"+d.p+"%");
+      s.appendChild(r);
+      var v=mark("text",{x:LX+w+10,y:yy+5,"font-size":12.5,"font-weight":600,
+        "font-family":"IBM Plex Mono, monospace"},{fill:"--ink"});
+      v.textContent=d.p+"%";s.appendChild(v);
+    });
+    s.appendChild(mark("line",{x1:LX,x2:LX,y1:T-8,y2:T+top.length*rh-8,
+      "stroke-width":1.5},{stroke:"--rule-strong"}));
+  })();
+
+  /* ---------- Chart 3: sources ---------- */
+  var src=[
+    {s:"UNHCR",a:669,b:288,ca:137,cb:93},
+    {s:"United Nations",a:199,b:50,ca:90,cb:31},
+    {s:"Amnesty International",a:145,b:57,ca:62,cb:31},
+    {s:"Freedom House",a:119,b:41,ca:51,cb:25},
+    {s:"UNICEF",a:117,b:39,ca:67,cb:29},
+    {s:"Human Rights Watch",a:116,b:50,ca:60,cb:40},
+    {s:"Int'l Labor Organization",a:93,b:83,ca:79,cb:75},
+    {s:"Int'l Cttee of the Red Cross",a:66,b:9,ca:62,cb:8},
+    {s:"Council of Europe",a:64,b:7,ca:35,cb:7},
+    {s:"World Bank",a:53,b:30,ca:43,cb:28},
+    {s:"Int'l Org. for Migration",a:50,b:22,ca:47,cb:21},
+    {s:"Reporters Without Borders",a:32,b:27,ca:28,cb:21},
+    {s:"Transparency International",a:25,b:3,ca:18,cb:3}
+  ];
+  (function(){
+    var s=document.getElementById("c3"),LX=214,RX=612,T=26,rh=43,max=669;
+    [0,200,400,600].forEach(function(v){
+      var x=LX+(v/max)*(RX-LX);
+      s.appendChild(mark("line",{x1:x,x2:x,y1:T-10,y2:T+src.length*rh-12,
+        "stroke-width":1},{stroke:"--rule"}));
+      var t=mark("text",{x:x,y:T+src.length*rh+6,"text-anchor":"middle",
+        "font-size":11.5,"font-family":"IBM Plex Mono, monospace"},{fill:"--muted"});
+      t.textContent=v;s.appendChild(t);
+    });
+    src.forEach(function(d,i){
+      var yy=T+i*rh;
+      var lb=mark("text",{x:LX-14,y:yy+4,"text-anchor":"end",
+        "font-size":13,"font-family":"Public Sans, sans-serif"},{fill:"--ink"});
+      lb.textContent=d.s;s.appendChild(lb);
+      [[d.a,"--s23",-9,2023,d.ca],[d.b,"--s24",3,2024,d.cb]].forEach(function(p){
+        var w=Math.max((p[0]/max)*(RX-LX),1.5);
+        var r=mark("rect",{x:LX,y:yy+p[2],width:w,height:10,rx:2.5},{fill:p[1]});
+        bind(r,"<b>"+d.s+"</b><br>"+p[3]+": "+p[0]+" mentions<br>across "+p[4]+" countries");
+        s.appendChild(r);
+      });
+      var v=mark("text",{x:RX+12,y:yy+4,"font-size":12,
+        "font-family":"IBM Plex Mono, monospace"},{fill:"--muted"});
+      v.textContent=d.a+" → "+d.b;s.appendChild(v);
+    });
+    s.appendChild(mark("line",{x1:LX,x2:LX,y1:T-10,y2:T+src.length*rh-12,
+      "stroke-width":1.5},{stroke:"--rule-strong"}));
+    var ax=mark("text",{x:(LX+RX)/2,y:T+src.length*rh+32,"text-anchor":"middle",
+      "font-size":12,"font-family":"Public Sans, sans-serif"},{fill:"--muted"});
+    ax.textContent="Mentions across the corpus";s.appendChild(ax);
+  })();
+})();
+</script>

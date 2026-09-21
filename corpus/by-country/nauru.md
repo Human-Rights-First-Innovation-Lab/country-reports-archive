@@ -1,0 +1,157 @@
+# Nauru — Country Reports on Human Rights Practices
+
+Editions included: 2023, 2024
+
+## Nauru — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/624521_NAURU-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Nauru during the year. Significant human rights issues included credible reports of serious restrictions on freedom of expression and media freedom, including government control of all media. The government took credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports the government or its agents committed arbitrary or unlawful killings during the year.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The constitution provided for freedom of expression, including for members of the press and other media; however, the government owned all media and exercised significant editorial control over content. Censorship by Governments, Military, Intelligence, or Police Forces, Criminal Groups, or Armed Extremist or Rebel Groups According to journalists, self-censorship was widespread, practiced by virtually all members of the media. Concern for job security given government ownership of all outlets was cited as one significant cause; additionally, journalists cited fear of legal repercussions for any reporting critical of the government or judiciary. Foreign journalists cited hefty visa application fees as continuing to hamper their ability to cover conditions for asylum seekers and refugees.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The law provided for the right of workers to form and join independent trade unions or other associations. It restricted freedom of association for police. While the right to strike was neither protected nor prohibited by law, a civil servant could not foment or take part in a strike and could be summarily dismissed if found guilty of organizing a strike. The law was silent on the right of workers to bargain collectively. The law did not prohibit antiunion discrimination, and there was no legal requirement to reinstate workers dismissed due to union activity; however, workers could seek redress through the civil court system. The government effectively enforced the law, although gaps in worker protections remained. Penalties for violations included fines, which were commensurate with those for other laws involving denials of civil rights. Penalties were regularly applied against violators. The country lacked formal trade unions. Worker interests were represented by informal associations. The transient nature of the mostly foreign workforce hampered efforts to organize trade unions. Forced or Compulsory Labor The constitution prohibited but did not criminalize all forms of forced or compulsory labor. The government did not effectively enforce the law. The law did not stipulate penalties, and there were no labor inspectors. Civil courts handled cases of forced labor. There were no reports of forced labor or of government efforts to investigate, prosecute perpetrators, or remove victims of forced labor. Acceptable Work Conditions Wage and Hour Laws The minimum starting salary for public-sector employees was above the poverty level. There was no minimum salary for the private sector. The law outlined a standard eight-hour workday for permanent and contract employees; workers were not required to work longer than nine hours. Public-service regulations governed salaries, working hours, vacation periods, and other employment matters for government workers, who constituted more than 90 percent of salaried workers. The government had a graduated salary system for public-service officers and employees. The law provided for maternity leave after a woman had completed six months of employment. There was no limit to the maximum number of accumulated overtime hours and no prohibition on excessive or compulsory overtime for workers in the public sector. No specific regulations governed overtime or overtime pay for private-sector workers. Occupational Safety and Health Although the government set some occupational safety and health (OSH) standards, they did not have the force of law. The law did not provide workers the right to remove themselves from a hazardous workplace without jeopardizing their employment. Wage, Hour, and OSH Enforcement The Department of Human Resources and Labor effectively enforced OSH standards in the public sector. Enforcement was lax in the private sector, but no violations of labor regulations were reported. The law allowed the department the right to inspect a workplace without prior notification. Authorities could charge an employer with a criminal offense if found to be in violation of the labor law or the provisions of an employment contract. Penalties were commensurate with those for similar violations and were regularly applied. The number of inspectors was insufficient to monitor compliance fully. Most workers were employed in the informal sector in subsistence agriculture, fishing, and copra gathering. Laws and regulations on working conditions applied to the informal sector but were not enforced. Violations were reportedly common, but inspections of the informal sector did not occur.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The law prohibited arbitrary arrest and detention while providing for the right for any person to challenge the lawfulness of their arrest or detention in court, and the government generally observed these requirements.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/international-religious-freedom-reports/.
+
+#### e. Trafficking in Persons
+
+There were no confirmed reports during the year that traffickers exploited domestic or foreign victims in the country or that traffickers exploited nationals as victims abroad.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The constitution prohibited such practices, and there were no reports government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor There were no confirmed reports during the year of the worst forms of child labor. The worst forms of child labor were not prohibited. The law set the minimum age of employment at 16. No regulations governed the type of work, occupation, or hours for workers younger than age 18, nor did they identify hazardous occupations. The government effectively enforced the law in the public sector but conducted no workplace inspections of private businesses. Penalties were not commensurate with those for other analogous serious crimes but were regularly applied against violators. The two largest employers – the government and the phosphate industry – respected minimum age restrictions. Child Marriage The law prohibited marriage by persons younger than 18. According to the organization Girls Not Brides, the most recent data available indicated that 27 percent of girls in Nauru were married before the age of 18 and 2 percent were married before age 15.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, asylum seekers, stateless persons, or other persons of concern. Provision of First Asylum The law provided for the granting of asylum or refugee status, and the government had a system for providing protection to refugees. The law included a provision for nonrefoulement. Refugee advocates noted, however, the government allowed refugees to reside in the country only temporarily pending resettlement to a third country. The government did not provide a pathway to gain citizenship. In August, the Australian government confirmed it had reopened its offshore processing center in the country for asylum seekers (used to house individuals seeking refuge or asylum in Australia), a site criticized for its poor conditions, which had closed in June 2023. The site was reportedly holding nearly 100 asylum seekers.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+The country did not have a Jewish community, and there were no known reports of antisemitic incidents.
+
+## Nauru — 2023 Human Rights Report
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Nauru during the year. Significant human rights issues included credible reports of: serious restrictions on freedom of expression and media freedom, including government control of all media; and extensive gender-based violence, including domestic or intimate partner violence and sexual violence. The government took credible steps to identify and punish officials who may have committed human rights abuses.
+
+### Section 1. Respect for the Integrity of the Person
+
+#### a. Arbitrary Deprivation of Life and Other Unlawful or Politically Motivated Killings
+
+Politically Motivated Killings There were no reports the government or its agents committed arbitrary or unlawful killings, including extrajudicial killings, during the year.
+
+#### b. Disappearance
+
+There were no reports of disappearances by or on behalf of government authorities.
+
+#### c. Torture and Other Cruel, Inhuman, or Degrading
+
+Treatment or Punishment, and Other Related Abuses The constitution prohibited such practices, and there were no reports government officials employed them. Prison and Detention Center Conditions There were no significant reports regarding prison conditions that raised human rights concerns. Administration: There were no reports authorities failed to conduct proper investigations of credible allegations of mistreatment. Independent Monitoring: The government permitted prison and detention center monitoring visits by independent human rights observers. There were no reports such visits occurred during the year.
+
+#### d. Arbitrary Arrest or Detention
+
+The law prohibited arbitrary arrest and detention while providing for the right for any person to challenge the lawfulness of their arrest or detention in court, and the government generally observed these requirements. Arrest Procedures and Treatment of Detainees Authorities made arrests based either on warrants or for proximate cause by a police officer witnessing a crime. Police could hold a person for a maximum of 24 hours without a hearing before a magistrate. Authorities informed detainees promptly of the charges against them. The bail system functioned properly. The law provided for accused persons to have access to legal assistance, but qualified assistance was not always available.
+
+#### e. Denial of Fair Public Trial
+
+The constitution provided for an independent judiciary, and the government generally respected judicial independence and impartiality. Trial Procedures The constitution provided for the right to a fair and public trial, and an independent judiciary generally enforced this right. There was no legal provision for traditional reconciliation mechanisms; however, as a mitigating factor in sentencing, apologies and reconciliation frequently played an informal role in criminal proceedings. This was sometimes due to communal pressure. The law limited defendants’ access to overseas lawyers, barring them from participating in local cases unless instructed by a local lawyer or pleader with 10 years of legal experience in Nauruan law. Political Prisoners and Detainees There were no reports of political prisoners or detainees.
+
+#### f. Transnational Repression
+
+Not applicable.
+
+#### g. Property Seizure and Restitution
+
+Not applicable.
+
+#### h. Arbitrary or Unlawful Interference with Privacy, Family,
+
+Home, or Correspondence The constitution prohibited such actions, and there were no reports the government failed to respect these prohibitions.
+
+### Section 2. Respect for Civil Liberties
+
+#### a. Freedom of Expression, Including for Members of the Press and Other Media
+
+Press and Other Media The constitution provided for freedom of expression, including for members of the press and other media; however, the government owned all media and exercised some editorial control over content. Censorship or Content Restrictions for Members of the Press and Other Media, Including Online Media: The government owned all media, giving it significant control over published and broadcast content. Libel/Slander Laws: By law “unlawful vilification” and “criminal defamation” were punishable by a maximum three years’ imprisonment. There were no reports of arrests for breach of the law. Internet Freedom The government did not restrict or disrupt access to the internet or censor online content.
+
+#### b. Freedoms of Peaceful Assembly and Association
+
+The constitution provided for the freedoms of peaceful assembly and association, and the government generally respected these rights.
+
+#### c. Freedom of Religion
+
+See the Department of State’s International Religious Freedom Report at www.state.gov/religiousfreedomreport/.
+
+#### d. Freedom of Movement and the Right to Leave the Country
+
+Country Neither the constitution nor the law specifically provided for freedom of internal movement, foreign travel, emigration, and repatriation, but the government generally respected these rights for its citizens.
+
+#### e. Protection of Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, asylum seekers, stateless persons, or other persons of concern. Access to Asylum: The law provided for the granting of asylum or refugee status, and the government had a system for providing protection to refugees. The law included a provision for nonrefoulement. Refugee advocates noted, however, the government allowed refugees to reside in the country only temporarily pending resettlement to a third country. The government did not provide a pathway to gain citizenship. Abuse of Refugees and Asylum Seekers: As of June 30, the last refugee held in Nauru departed the Regional Processing Center, ending the Australian government’s offshore processing of asylum seekers in the country. However, In September, another 11 asylum seekers were sent from Australia to the offshore processing center.
+
+### Section 3. Freedom to Participate in the Political
+
+Process The constitution and law provided citizens the ability to choose their government in free and fair periodic elections held by secret ballot and based on universal and equal suffrage. Elections and Political Participation Abuses or Irregularities in Recent Elections : International observers considered the most recent parliamentary election, held in September 2022, to be generally free and fair, although interlocutors noted allegations of vote buying and constituency hopping prior to the election. Participation of Women and Members of Marginalized or Vulnerable Groups: No laws limited participation of women and members of marginalized or vulnerable groups in the political process, and they did participate; however, due to the cultural expectation that women’s roles were in the home and a lack of access to information on election fundraising, the number of women holding elected office was significantly lower than that of men. There were two women in the 19-member parliament. The country had an almost entirely homogeneous Micronesian population. There were no members of minority groups in parliament or the cabinet.
+
+### Section 4. Corruption in Government
+
+The law provided criminal penalties for corruption by officials, and the government generally implemented the law effectively. There were no reports of government corruption.
+
+### Section 5. Governmental Posture Towards
+
+International and Nongovernmental Monitoring and Investigation of Alleged Abuses of Human Rights The government did not restrict the establishment or operation of local human rights organizations, but no such groups existed. No international human rights organizations maintained offices in the country. Government Human Rights Bodies: The Department of Justice had a Human Rights Section, which was adequately staffed and generally effective.
+
+### Section 6. Discrimination and Societal Abuses
+
+Women Rape and Domestic Violence: Rape of women or men was a crime and carried a maximum penalty of 25 years’ imprisonment. The law applied penalties for spousal and intimate partner rape. Police generally investigated reported rape cases, and the courts prosecuted cases, although observers said many instances of rape and sexual abuse went unreported. The law did not address domestic violence specifically, but authorities prosecuted domestic violence cases under laws against common assault. The maximum penalty for simple assault was one year in prison. The maximum penalty for assault involving bodily harm was three years’ imprisonment. Police and judiciary treated major incidents and unresolved family disputes seriously. Police stated they received frequent complaints of domestic violence. Families normally sought to reconcile such problems informally and, if necessary, communally. Other Forms of Gender-based Violence or Harassment: There was no law against sexual harassment, but authorities prosecuted harassment involving physical assault under assault laws. Discrimination: The country was traditionally a matrilineal society, and the law provided the same legal status and rights for women and men, including under family, religious, labor, property, nationality, and inheritance laws. The government did not enforce the law effectively. The law did not prohibit discrimination based on sex in employment. The law required that public servants receive equal pay for work of equal value, and although women had access to leadership positions within the public sector, women working in the private sector did not. The government did not effectively enforce the law, and discrimination against women in employment and wages in the private sector occurred. Societal pressure to provide care for the family and lower wages limited opportunities for women. There were no reports the government took action to prevent or respond to employment discrimination. Reproductive Rights: There were no reports of coerced abortion or involuntary sterilization on the part of government authorities. The UN Population Fund (UNFPA) reported a high unmet need for family- planning commodities. Causes of this included limited access to adequate sexual health and reproductive services, perceptions of family planning services as inconvenient, unsatisfactory, or culturally insensitive; cultural or religious opposition; lack of skills among those dispensing contraceptives and family planning services; and misconceptions regarding side effects. Emergency contraception as part of the family planning and contraception method mix was available to individuals. The government provided some access to sexual and reproductive health services, including emergency contraception and postexposure prophylaxis, for survivors of sexual violence. Such access, however, was limited by social stigma, cultural practices, and popularly accepted misconceptions. According to UNFPA, access to adolescent reproductive health services and information was limited. Other causes were inadequate access to contraceptives and cultural factors. Systemic Racial or Ethnic Violence and Discrimination The constitution stated, “every person in Nauru…has the right, whatever his race, place of origin, political opinions, color, creed or sex,” to life, liberty, security of the person, property, and the protection of the law; to freedom of conscience, of expression, and of peaceful assembly and association; and to respect for their private and family life. It was unclear whether the government enforced these provisions effectively. Children Child Abuse: The law prohibited child abuse and established comprehensive measures, including mandatory reporting, to protect children from abuse. According to civil society groups, child abuse was a problem. Child, Early, and Forced Marriage: The law prohibited marriage by persons younger than 18. It was unclear whether the government effectively enforced this law. Sexual Exploitation of Children: The law prohibited the sale of children, offering or using a child for commercial sexual exploitation, and practices related to child pornography. The minimum age for consensual sex was 17. There were standardized penalties for sexual exploitation of children; intentional sexual intercourse with a child younger than age 16 was punishable by 25 years’ imprisonment. Sexual intercourse with a child younger than 13 carried a penalty of life imprisonment. The law established penalties for taking images of children’s private acts and genitalia. If the child was younger than age 16, the maximum penalty was 10 years’ imprisonment, and if younger than 13, it was 15 years’ imprisonment. The law prescribed tougher penalties for involving children to produce pornographic material. The maximum penalty if the child was younger than 16 was 15 years’ imprisonment and 20 years’ imprisonment if the child was younger than 13. The law outlawed the electronic publication and transmission of child pornography. Authorities enforced laws against commercial sexual exploitation of children and child pornography. Antisemitism The country did not have a Jewish community, and there were no known reports of antisemitic incidents. Trafficking in Persons There were no confirmed reports during the year that traffickers exploited domestic or foreign victims in Nauru or that traffickers exploited victims from abroad. Acts of Violence, Criminalization, and Other Abuses Based on Sexual Orientation, Gender Identity or Expression, or Sex Characteristics Criminalization: No laws criminalized consensual same-sex sexual conduct between adults. Violence and Harassment: The law did not specifically cite sexual orientation. No law addressed hate crimes. No criminal justice mechanisms existed to aid in the prosecution of bias-motivated crimes against lesbian, gay, bisexual, transgender, queer, and intersex (LGBTQI+) individuals. There were isolated reports of violence against persons based on sexual orientation and gender identity. Discrimination: The law did not prohibit discrimination based on sexual orientation, gender identity or expression, or sex characteristics; nor did it recognize LGBTQI+ individuals, couples, and their families. Observers noted instances of social discrimination and some police intimidation. Availability of Legal Gender Recognition: Legal gender recognition was not available. There were no nonbinary or intersex options on government documents. Involuntary or Coercive Medical or Psychological Practices: There were no reports of involuntary or coercive medical practices or so-called conversion therapy targeting LGBTQI+ individuals. Restrictions of Freedom of Expression, Association, or Peaceful Assembly: There were no reports of such restrictions. Persons with Disabilities Persons with disabilities could access education, health services, some public buildings, and transportation on an equal basis with others. No legislation mandated services for persons with disabilities or access to public buildings. Although the government installed mobility ramps in some public buildings, many private buildings were not accessible. The Department of Education had a special education adviser responsible for education for students with disabilities and operated an Able and Disable Center that provided training for teachers and classes for students with learning difficulties and disabilities. There were no reports of discrimination against persons with disabilities in employment, but social stigma likely led to decreased opportunities for employment.
+
+### Section 7. Worker Rights
+
+#### a. Freedom of Association and the Right to Collective
+
+Bargaining The law provided for the right of workers to form and join independent trade unions or other associations. It restricted freedom of association for police. While the right to strike was neither protected nor prohibited by law, a civil servant could not foment or take part in a strike and could be summarily dismissed if found guilty of organizing a strike. The law was silent on the right of workers to bargain collectively. The law did not prohibit antiunion discrimination, and there was no legal requirement to reinstate workers dismissed due to union activity; however, workers could seek redress through the civil court system. The government effectively enforced the law, although gaps in worker protections remained. Penalties for violations included fines, which were commensurate with those for other laws involving denials of civil rights. Penalties were regularly applied against violators. The country lacked formal trade unions. Worker interests were represented by informal associations. The transient nature of the mostly foreign workforce hampered efforts to organize trade unions.
+
+#### b. Prohibition of Forced or Compulsory Labor The constitution prohibited but did not criminalize all forms of forced or
+
+The constitution prohibited but did not criminalize all forms of forced or compulsory labor. The government did not effectively enforce the law. The law did not stipulate penalties, and there were no labor inspectors. Civil courts handled cases of forced labor. There were no reports of forced labor or of government efforts to investigate, prosecute perpetrators, or remove victims of forced labor.
+
+#### c. Prohibition of Child Labor and Minimum Age for Employment
+
+Employment There were no confirmed reports during the year of the worst forms of child labor. The worst forms of child labor were not prohibited. The law set the minimum age of employment at 16. No regulations governed the type of work, occupation, or hours for workers younger than age 18, nor did they identify hazardous occupations. The government effectively enforced the law in the public sector but conducted no workplace inspections of private businesses. Penalties were not commensurate with those for other analogous serious crimes but were regularly applied against violators. The two largest employers – the government and the phosphate industry – respected minimum age restrictions.
+
+#### e. Acceptable Conditions of Work
+
+Wage and Hour Laws: The minimum starting salary for public-sector employees was above the poverty level. There was no minimum salary for the private sector. The law outlined a standard eight-hour workday for permanent and contract employees; workers were not required to work longer than nine hours. Public-service regulations governed salaries, working hours, vacation periods, and other employment matters for government workers, who constituted more than 90 percent of salaried workers. The government had a graduated salary system for public-service officers and employees. The law provided for maternity leave after a woman had completed six months of employment. There was no limit to the maximum number of accumulated overtime hours and no prohibition on excessive or compulsory overtime for workers in the public sector. No specific regulations governed overtime or overtime pay for private-sector workers. Occupational Safety and Health: Although the government set some occupational safety and health (OSH) standards, they did not have the force of law. The law did not provide workers the right to remove themselves from a hazardous workplace without jeopardizing their employment. Wage, Hour, and OSH Enforcement: The Department of Human Resources and Labor effectively enforced OSH standards in the public sector. Enforcement was lax in the private sector, but no violations of labor regulations were reported. The law allowed the department the right to inspect a workplace without prior notification. Authorities could charge an employer with a criminal offense if found to be in violation of the labor law or the provisions of an employment contract. Penalties were commensurate with those for similar violations and were regularly applied. The number of inspectors was insufficient to monitor compliance fully. Enforcement of workplace health and safety requirements was lax. Most workers were employed in the informal sector in subsistence agriculture, fishing, and copra gathering. Laws and regulations on working conditions applied to the informal sector but were not enforced. Violations were reportedly common, but inspections of the informal sector did not occur.

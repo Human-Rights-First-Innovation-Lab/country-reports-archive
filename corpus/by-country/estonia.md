@@ -1,0 +1,165 @@
+# Estonia — Country Reports on Human Rights Practices
+
+Editions included: 2023, 2024
+
+## Estonia — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/62451_ESTONIA-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Estonia during the year. There were no credible reports of significant human rights abuses. The government took credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports the government or its agents committed arbitrary or unlawful killings during the year.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The constitution and law provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent media, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members. The law prohibited the public display of symbols relating to aggression, genocide, crimes against humanity, or war crimes that would support or justify these acts.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The law, related regulations, and statutory instruments provided workers with the right to form and join independent unions of their choice, bargain collectively, and conduct legal strikes. The law allowed unions to conduct activities without interference. The law prohibited antiunion discrimination. Both employees and employers had the right to request that labor dispute committees or the courts resolve individual labor disputes. The government effectively enforced applicable laws protecting freedom of association, collective bargaining, and the right to strike. Resources, inspections, and remediation were adequate to achieve compliance with the law. In most cases violators incurred fines sufficient to deter violations. Criminal proceedings and civil claims were also available, and penalties were commensurate with those for other laws involving denials of civil rights. Penalties were regularly applied against violators. Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acceptable Work Conditions Wage and Hour Laws The law provided for a national monthly minimum wage for all sectors that was higher than the poverty income level. The standard workweek was 40 hours. The law required a rest period of at least 11 hours per 24-hour work period. There was no prohibition against excessive compulsory overtime, except for children younger than 17. The law required an employer to compensate for overtime work by time off equal to the overtime worked, unless agreed that overtime be compensated for in pay equal to 1.5 times regular wages. Violations of wage, hour, or overtime laws were most common in the construction and hospitality sectors. Nongovernmental organizations (NGOs) reported employers did not always uphold labor laws with refugees and sometimes sought to take advantage of this group’s vulnerable status to reduce wages and other benefits. NGOs reported that refugees did not always understand their labor rights and highlighted a need for educational materials and trainings for employers. Occupational Safety and Health Occupational safety and health (OSH) standards were appropriate for the main industries in the country, and OSH experts proactively identified unsafe conditions. Men experienced labor exploitation, particularly in the construction and hospitality sectors, where nontaxed cash payments were sometimes paid. Workers could remove themselves from situations that endangered health or safety without jeopardizing their employment. Wage, Hour, and OSH Enforcement The Labor Inspectorate, the Health Board, and the Consumer Protection and Technical Regulatory Authority were responsible for enforcing wage, hour, and OSH standards and made efforts to do so in both the formal and informal sectors. The government generally enforced labor laws in all sectors. Inspectors had authority to make unannounced inspections and initiate sanctions. The number of labor inspectors was insufficient to enforce compliance. Penalties were commensurate with those for similar crimes such as fraud or negligence and were regularly applied against violators. The government could not always enforce labor laws for workers in the informal sector who were not officially registered and did not receive any official wages. The State Labor Inspectorate conducted inspections to identify these cases and punish employers for labor law violations. Tax and Customs Board research reported 4 percent of wage payments during the year were informal. Informal workers were more common in the catering, industrial, construction, and commercial wholesale sector.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The constitution and law prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their arrest or detention in court. The government generally observed these requirements. Arrests were made only when authorities possessed a warrant issued by a court or when persons were caught by police in the act of committing a crime. Authorities respected the bail system and other alternatives for provisional release pending trial and did not hold individuals for more than 48 hours without charge. The law provided that asylum seekers could be detained for more than 48 hours (up to two months) without charge only with the permission of an administrative court. An administrative court could extend the term for detention of an asylum seeker by up to two months. Detainees were entitled to immediate access to legal counsel, and the government paid for legal counsel for indigent persons.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The constitution and law prohibited such practices, and there were no credible reports government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor The law prohibited the worst forms of child labor. Children ages 15 to 17 could work, depending on their school enrollment status. Children ages seven to 12 could engage in light work in the areas of culture, art, sports, or advertising with the consent of the Labor Inspectorate. The government effectively enforced laws and policies to protect children from labor exploitation. There were no confirmed reports during the year of the worst forms of child labor. Child Marriage The legal minimum age for marriage was 18, and the law was effectively enforced.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, or asylum seekers, as well as other persons of concern. Provision of First Asylum The law provided for the granting of asylum or refugee status, and the government had a system for providing protection to refugees. Resettlement The government offered naturalization to refugees residing on its territory and assisted in their voluntary return home. Naturalization was possible for permanent residents after five years’ residence, provided they passed mandatory citizenship and language examinations.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+The Jewish community estimated 2,000 Jewish persons resided in the country. In October, police detained an individual who repeatedly made antisemitic statements in public places in Tallinn. Local media reported the individual used a megaphone in a central Tallinn park more than 100 times during the year to make claims regarding Jewish persons controlling social media platforms such as Wikipedia and Facebook. Police detained and questioned the individual but declined to initiate misdemeanor proceedings.
+
+## Estonia — 2023 Human Rights Report
+
+### Executive Summary
+
+In June Estonia legalized same-sex marriage, amended the law to allow same-sex couples to adopt, and recognized the marriages of same-sex couples married abroad. There were no credible reports of significant human rights abuses. The government took credible steps to identify and punish officials who may have committed human rights abuses.
+
+### Section 1. Respect for the Integrity of the Person
+
+#### a. Arbitrary Deprivation of Life and Other Unlawful or Politically Motivated Killings
+
+Politically Motivated Killings There were no reports the government or its agents committed arbitrary or unlawful killings, including extrajudicial killings, during the year.
+
+#### b. Disappearance
+
+There were no reports of disappearances by or on behalf of government authorities.
+
+#### c. Torture and Other Cruel, Inhuman, or Degrading
+
+Treatment or Punishment, and Other Related Abuses The constitution and law prohibited such practices, and there were no credible reports government officials employed them. Prison and Detention Center Conditions There were no significant reports regarding prison or detention center conditions that raised human rights concerns. In May and June, the Council of Europe’s Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment visited 22 police stations, prisons, jails, and other detention centers, but it did not publish its report by the end of the year. Administration: Authorities conducted investigations of credible allegations of mistreatment. There were no significant reports regarding prison or detention center conditions that raised human rights concerns. Independent Monitoring: The government permitted monitoring by independent nongovernmental observers.
+
+#### d. Arbitrary Arrest or Detention
+
+The constitution and law prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their arrest or detention in court. The government generally observed these requirements. Arrest Procedures and Treatment of Detainees Arrests were made only when authorities possessed a warrant issued by a court or when persons were caught by police in the act of committing a crime. Authorities respected the bail system and other alternatives for provisional release pending trial and did not hold individuals for more than 48 hours without charge. The law provided that asylum seekers could be detained for more than 48 hours (up to two months) without charge only with the permission of an administrative court. An administrative court could extend the term for detention of an asylum seeker by up to two months. Detainees were entitled to immediate access to legal counsel, and the government paid for legal counsel for indigent persons.
+
+#### e. Denial of Fair Public Trial
+
+The constitution provided for an independent judiciary, and the government generally respected judicial independence and impartiality. Trial Procedures The constitution and law provided for the right to a fair and public trial, and the judiciary generally enforced this right. Political Prisoners and Detainees There were no reports of political prisoners or detainees.
+
+#### f. Transnational Repression
+
+Not applicable.
+
+#### g. Property Seizure and Restitution
+
+Not applicable.
+
+#### h. Arbitrary or Unlawful Interference with Privacy, Family,
+
+Home, or Correspondence The constitution and law prohibited such actions, and there were no reports the government failed to respect these prohibitions.
+
+### Section 2. Respect for Civil Liberties
+
+#### a. Freedom of Expression, Including for Members of the Press and Other Media
+
+Press and Other Media The constitution and law provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent media, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members. The law prohibited the public display of symbols relating to aggression, genocide, crimes against humanity, or war crimes that would support or justify these acts. Reporters without Borders reported that access to information remained a problem and that privacy was often cited as a reason to block journalists’ freedom of information requests. Internet Freedom The government generally did not restrict or disrupt access to the internet or censor online content, except for restricting access to Russian state media and television. In June the Supreme Court ruled that the Tallinn Detention Center for asylum seekers was not a prison intended for punishment and therefore it was illegal to deny access to the internet for persons detained there.
+
+#### b. Freedoms of Peaceful Assembly and Association
+
+The constitution and law provided for the freedoms of peaceful assembly and association, and the government generally respected these rights.
+
+#### c. Freedom of Religion
+
+See the Department of State’s International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### d. Freedom of Movement and the Right to Leave the Country
+
+Country The constitution provided for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these rights.
+
+#### e. Protection of Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, or asylum seekers, as well as other persons of concern. Access to Asylum: The law provided for the granting of asylum or refugee status, and the government had a system for providing protection to refugees. Freedom of Movement: The Estonian Human Rights Center raised concerns regarding the prolonged detention of asylum seekers while their cases were adjudicated. Durable Solutions: The government offered naturalization to refugees residing on its territory and assisted in their voluntary return home. Naturalization was possible for permanent residents after five years’ residence, provided they passed mandatory citizenship and language examinations. Temporary Protection: The government provided temporary protection to approximately 80,000 individuals who did not qualify as refugees, including Ukrainian citizens.
+
+#### f. Status and Treatment of Internally Displaced Persons
+
+Not applicable.
+
+#### g. Stateless Persons
+
+UNHCR categorized approximately 68,000 persons residing in the country as stateless, most of whom chose not to take any citizenship after the Soviet Union collapsed. Stateless persons were eligible to apply for naturalized citizenship, as were all permanent residents of the country after five years’ residence, provided they passed the mandatory citizenship and language examinations.
+
+### Section 3. Freedom to Participate in the Political
+
+Process The law provided citizens the ability to choose their government in free and fair periodic elections held by secret ballot and based on universal and equal suffrage. Elections and Political Participation Abuses or Irregularities in Recent Elections : Independent observers widely reported that national elections in March were fair and free of abuses and irregularities. Participation of Women and Members of Marginalized or Vulnerable Groups: No laws limited participation of women or members of marginalized or vulnerable groups in the political process, and they did participate. As of June, women accounted for only 28 percent of the country’s national legislature, but they comprised more than 40 percent of the cabinet.
+
+### Section 4. Corruption in Government
+
+The law criminalized corruption by officials, and the government generally implemented the law effectively. There were isolated reports of government corruption, but no officials were charged. Corruption: The number of official corruption crimes reported in the first eight months of the year was approximately half that of the previous year. For additional information concerning corruption in the country, please see the Department of State’s Investment Climate Statement for the country, and the Department of State’s International Narcotics Control Strategy Report, which includes information on financial crimes.
+
+### Section 5. Governmental Posture Towards
+
+International and Nongovernmental Monitoring and Investigation of Alleged Abuses of Human Rights Domestic and international human rights groups monitored and investigated human rights conditions and published their findings without government restriction. Government officials were generally cooperative and responsive to the views of these groups. Government Human Rights Bodies: The chancellor of justice performed the role of ombudsperson. The chancellor reviewed legislation for compliance with the constitution, oversaw authorities’ observance of human rights and fundamental freedoms and the principles of good governance, and helped resolve accusations of discrimination.
+
+### Section 6. Discrimination and Societal Abuses
+
+Women Rape and Domestic Violence: The law criminalized rape and spousal rape, regardless of gender. While laws criminalizing physical abuse included domestic violence, the country lacked legislation specifically addressing domestic violence. The law was generally enforced. The penalty for conviction of rape, including spousal rape, was imprisonment for up to 15 years. According to nongovernmental organizations (NGOs) and shelter managers, gender-based violence, including domestic violence, was a problem. NGOs stated laws regarding rape and sexual violence were not based on consent alone but included preconditions such as violence or abuse. Discrimination: The law provided the same legal status and rights for women as for men, and those laws were generally respected. There were reports of discrimination in employment and occupation based on sex. Reproductive Rights: There were no reports of coerced abortion or involuntary sterilization on the part of government authorities. The government provided access to health-care services to afford women safe pregnancy and childbirth. The government also provided access to sexual and reproductive healthcare services for survivors of sexual violence. Emergency contraception and postexposure prophylaxis were provided as part of the clinical management of rape, and treatment of complications arising from abortion was available. Systemic Racial or Ethnic Violence and Discrimination The constitution and law prohibited violence and discrimination against members of racial or ethnic minorities or minority groups. The government generally enforced the law. There were isolated reports of Russian speakers facing discrimination in employment, reportedly based on ethnicity. Some Russian speakers stated Estonian-language requirements resulted in job and salary discrimination. The government continued to provide free and subsidized opportunities for learning Estonian. Russian speakers worked disproportionately in blue- collar industries and continued to experience higher unemployment than Estonian speakers. The Police and Border Guard Board maintained a dedicated office to combat extremism that partnered with social support agencies to work with minority and religious groups. The commissioner of the Office of Gender Equality and Equal Treatment reported implementing several campaigns to raise awareness regarding equal treatment of minorities. Children Child Abuse: There were laws against child abuse, and the government generally enforced these laws. Child, Early, and Forced Marriage: The legal minimum age for marriage was 18, and the law was effectively enforced. Sexual Exploitation of Children: The law prohibited the commercial sexual exploitation of children and child pornography, and authorities enforced the law. By law the minimum age for consensual sex was 16. Engaging in child pornography was punishable by a fine or up to three years in prison. Girls were more frequently exploited than boys. Antisemitism The Jewish community estimated 2,500 Jewish persons resided in the country. On November 5, police arrested and initiated misdemeanor proceedings against five individuals for allegedly inciting international crimes against humanity by using the slogan, “From the river to the sea, Palestine will be free” at a protest at Tallinn’s Freedom Square. On November 8, local media reported that brochures allegedly containing antisemitic messages were left on cars in Tallinn’s city center, and on November 19, representatives of the Tartu Jewish Community discovered that a memorial to the former Tartu Synagogue was defaced with a swastika and the number “88,” which was associated with neo-Nazis. Police opened investigations into both incidents. Trafficking in Persons See the Department of State’s Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acts of Violence, Criminalization, and Other Abuses Based on Sexual Orientation, Gender Identity or Expression, or Sex Characteristics Criminalization: There were no laws restricting consensual same-sex sexual conduct between adults, cross-dressing, or other sexual or gender characteristic-related behavior. Violence and Harassment: Advocacy groups reported that societal harassment and discrimination against lesbian, gay, bisexual, transgender, queer, and intersex (LGBTQI+) persons remained common, but these groups noted improving public attitudes towards LGBTQI+ persons. There were no reports of police or other government agents inciting, perpetrating, or tolerating such violence or harassment. In June a man attacked a Finnish pastor at an Association of Gay Christians event, requiring the pastor to be hospitalized; police opened an investigation. Discrimination: The law prohibited discrimination by state and nonstate actors based on sexual orientation, gender identity or expression, or sex characteristics. The government generally enforced the law. In June parliament adopted a law legalizing same-sex marriage; the law also recognized the marriages of same-sex couples married abroad. Availability of Legal Gender Recognition: The government allowed individuals to change their gender identity marker on legal and identifying documents, subject to the approval of a committee of medical experts. NGOs stated the process was difficult and time consuming. Involuntary or Coercive Medical or Psychological Practices: There were no reports of forced or involuntary “conversion therapy” practiced on adults or children to try to change a person’s sexual orientation or gender identity or expression. There were no reports of surgeries performed on children or on nonconsenting adult intersex persons. There were no laws or statements by government or medical associations to limit the above practices. Restrictions of Freedom of Expression, Association, or Peaceful Assembly: There were no laws or other restrictions on the ability of individuals to speak or media to report on LGBTQI+ matters, LGBTQI+ individuals to assemble in public or form associations, or LGBTQI+ organizations to legally register or convene events such as Pride festivities. Persons with Disabilities Persons with disabilities ha d access to education, health services, public buildings, and transportation, although not always on an equal basis with others. The law mandated that newly constructed or renovated buildings be accessible to persons with disabilities, but most older buildings remained inaccessible. Persons with disabilities could request government assistance accessing information, including personal assistance when necessary. The government generally provided needed assistance. NGOs noted that buildings and services were less accessible in rural areas than in large cities. Government assistance also was less available in these areas. There were isolated reports of discrimination against persons with disabilities in occupation and employment.
+
+### Section 7. Worker Rights
+
+#### a. Freedom of Association and the Right to Collective
+
+Bargaining The law, related regulations, and statutory instruments provided workers with the right to form and join independent unions of their choice, bargain collectively, and conduct legal strikes. The law allowed unions to conduct activities without interference. The law prohibited antiunion discrimination. Both employees and employers had the right to request that labor dispute committees or the courts resolve individual labor disputes. The government generally enforced applicable laws protecting freedom of association, collective bargaining, and the right to strike. Resources, inspections, and remediation were adequate to achieve compliance with the law. In most cases violators incurred fines sufficient to deter violations. Criminal proceedings and civil claims were also available, and penalties were commensurate with those for other laws involving denials of civil rights. Penalties were regularly applied against violators.
+
+#### b. Prohibition of Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+#### c. Prohibition of Child Labor and Minimum Age for Employment
+
+Employment The law prohibited the worst forms of child labor. Children ages 15 to 17 could work, depending on their school enrollment status. Children ages seven to 12 could engage in light work in the areas of culture, art, sports, or advertising with the consent of the Labor Inspectorate. The government effectively enforced laws and policies to protect children from labor exploitation. There were no confirmed reports during the year of the worst forms of child labor.
+
+#### e. Acceptable Conditions of Work
+
+Wage and Hour Laws: The law provided for a national monthly minimum wage for all sectors that was higher than the poverty income level. The standard workweek was 40 hours. The law required a rest period of at least 11 hours per 24-hour work period. There was no prohibition against excessive compulsory overtime, except for children younger than 17. Violations of wage, hour, or overtime laws were most common in the construction and hospitality sectors. Occupational Safety and Health: Occupational Safety and Health (OSH) standards were appropriate for the main industries in the country, and OSH experts proactively identified unsafe conditions. Men experienced labor exploitation, particularly in the construction and hospitality sectors, where nontaxed cash payments were sometimes paid. Workers could remove themselves from situations that endangered health or safety without jeopardizing their employment. Wage, Hour, and OSH Enforcement: The Labor Inspectorate, the Health Board, and the Consumer Protection and Technical Regulatory Authority were responsible for enforcing wage, hour, and OSH standards and made efforts to do so in both the formal and informal sectors. The government generally enforced labor laws in all sectors. Inspectors had authority to make unannounced inspections and initiate sanctions. The Labor Inspectorate reported employing 46 labor inspectors, 10 fewer than the International Labor Organization standard. Penalties were commensurate with those for similar crimes such as fraud or negligence and were regularly applied against violators. Tax and Customs Board research reported 4 percent of wage payments during the year were informal. Informal wages were more common in the catering, industrial, construction, and commercial wholesale sector.

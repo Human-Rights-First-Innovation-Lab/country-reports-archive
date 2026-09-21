@@ -1,0 +1,157 @@
+# Saint Kitts and Nevis — Country Reports on Human Rights Practices
+
+Editions included: 2023, 2024
+
+## Saint Kitts and Nevis — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/624521_SAINT-KITTS-AND-NEVIS-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Saint Kitts and Nevis during the year. There were no credible reports of significant human rights abuses. The government took credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports the government or its agents committed arbitrary or unlawful killings during the year.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The constitution provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent media, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The law provided for the right to form and join independent unions and the right to collective bargaining. The government generally respected the law. A union representing more than 50 percent of employees at a company could apply for the company to recognize the union for collective bargaining. Companies generally recognized the establishment of a union if a majority of its workers voted in favor of organizing the union, but the companies were not legally obliged to do so. The law provided for the right to strike and prohibited antiunion discrimination. Penalties for violations of freedom of association, collective bargaining, and the right to strike were commensurate with those for analogous violations such as civil rights violations. The government reported there were no violations during the year resulting in arrests, prosecutions, or penalties. The Ministry of Labour provided employers with training on their rights and responsibilities. The International Labor Organization provided technical assistance to the government in conflict mediation and grievance handling. Forced or Compulsory Labor The law prohibited and criminalized all forms of forced or compulsory labor, the government effectively enforced the law, and penalties were commensurate with those for analogous crimes, such as kidnapping. There were reports from government, nongovernmental organizations (NGOs), and private citizens that employers of foreign nationals occasionally withheld the passports of their foreign national employees, particularly among Chinese and Indian nationals. The government reported investigating one employer during the year who kept possession of the employees’ passports, allegedly for safekeeping. Acceptable Work Conditions Wage and Hour Laws The national minimum wage for all sectors of the economy was above the estimated poverty income level. The government estimated approximately 15 percent of the workforce earned the minimum wage. The law provided for a 40-hour workweek. The law did not prohibit excessive or compulsory overtime, but government policy called for employers to inform employees if they had to work overtime. Although not required by law, workers generally received at least one 24-hour rest period per week. Occupational Safety and Health The government set occupational safety and health (OSH) standards that were outdated but appropriate for the country’s main industries. Workers could remove themselves from situations that endangered health or safety without jeopardy to their employment, and authorities effectively protected the jobs of employees in this situation. The law also required employers to report accidents and dangerous incidents. Government officials and NGOs reported mold in government buildings was occasionally a health hazard, and the government temporarily closed some buildings to address mold infestations. The government worked to proactively identify unsafe conditions by conducting regular workspace inspections. Wage, Hour, and OSH Enforcement The government effectively enforced minimum wage, overtime, and OSH laws, and penalties were commensurate with those for similar crimes, such as fraud. Violators were subject to fines, and repeat offenders were subject to prosecution. The government reported there were no violations during the year resulting in arrests, prosecutions, or penalties. The Labor Commission settled disputes concerning OSH conditions. The labor commissioner in the Ministry of Labour conducted regular workplace inspections, and there was a sufficient number of labor inspectors to enforce compliance. Government agents conducted 95 OSH inspections between January and August. Labor inspectors had the authority to make unannounced inspections and make recommendations. Labor inspectors had authority to issue penalties in some instances and would otherwise coordinate with the appropriate government body to initiate sanctions. The commission undertook wage inspections and special investigations when it received complaints. The government estimated 10 to 15 percent of the workforce was in the informal sector. The government conducted limited enforcement of labor laws in this sector.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The constitution prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their arrest or detention in court. The government generally observed these requirements. Authorities remanded persons accused of serious offenses to custody to await trial. Authorities released persons accused of minor infractions on their own recognizance or on bail with sureties. One detainee at His Majesty’s Prison, deemed to be dangerous to society due to a mental health condition, was held by court order. Lengthy pretrial detention continued to be an issue, exacerbated by the high volume of cases and limited capacity of magistrate judges. As of August, one person in His Majesty’s Prison had been awaiting trial for two years.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+There were no confirmed reports during the year that traffickers exploited domestic or foreign victims in the country or that traffickers exploited nationals as victims abroad.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The constitution prohibited such practices, and there were no credible reports government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor The law prohibited the worst forms of child labor, and a Special Victims Unit, led by the Child Protection Services and police, investigated violations. The law set the minimum age for work at 16. Prohibitions did not apply to family businesses. Children ages 16 to 18 had the same legal protections from dangerous work conditions as all workers. The law permitted children ages 16-18 to work regular hours. Employment of children ages 16-18 in certain industries related to the hotel and entertainment sectors was restricted. The government effectively enforced the applicable laws, and penalties were commensurate with those for analogous crimes. The government reported there were no violations during the year resulting in arrests, prosecutions, or penalties. Most children younger than age 16 with jobs worked after school in shops and supermarkets or did light work in the informal sector. The Ministry of Labour relied on routine inspections, school truancy officers, and the Community Affairs Division to monitor compliance with child labor laws, which they did effectively. Child Marriage The legal minimum age for marriage was 18 for both men and women. The government enforced the law effectively.
+
+#### c. Protection to Refugees
+
+The government coordinated with the Office of the UN High Commissioner for Refugees in providing protection and assistance to refugees, asylum seekers, and other persons of concern. Provision of First Asylum The law provided for the granting of asylum or refugee status, but the government did not have a system for providing protection to refugees.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+There was no organized Jewish community, and there were no reports of antisemitic incidents.
+
+## Saint Kitts and Nevis — 2023 Human Rights Report
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in the country during the year. There were no credible reports of significant human rights abuses. The government took credible steps to identify and punish officials who may have committed human rights.
+
+### Section 1. Respect for the Integrity of the Person
+
+#### a. Arbitrary Deprivation of Life and Other Unlawful or Politically Motivated Killings
+
+Politically Motivated Killings There were no reports that the government or its agents committed arbitrary or unlawful killings, including extrajudicial killings.
+
+#### b. Disappearance
+
+There were no reports of disappearances by or on behalf of government authorities.
+
+#### c. Torture and Other Cruel, Inhuman, or Degrading
+
+Department of State • Bureau of Democracy, Human Rights , and Labor Treatment or Punishment, and Other Related Abuses The constitution prohibited such practices, and there were no credible reports that government officials employed them. Prison and Detention Center Conditions The prisons on both islands of the country were overcrowded, and facilities were austere. Abusive Physical Conditions: There were two prisons in the country, with a total designed capacity of 160 inmates. Her Majesty’s Prison in Saint Kitts, built in 1840 and originally designed for 60 inmates, held approximately 260 inmates. Administration: Authorities generally investigated credible allegations of mistreatment. Independent Monitoring: Authorities generally permitted prison visits by independent human rights observers, although there were no known visits during the year.
+
+#### d. Arbitrary Arrest or Detention
+
+The constitution prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of his or her arrest or detention in court. The government generally observed these Department of State • Bureau of Democracy, Human Rights , and Labor requirements. Arrest Procedures and Treatment of Detainees Police could arrest a person without a warrant, based on the suspicion of criminal activity. The law required that detained persons be charged within 72 hours or be released. If detainees were charged, authorities were required to bring them before a court within 72 hours of detention. The government respected these rights. There was a functioning bail system. Detainees had prompt access to a lawyer of their choice or to a lawyer provided by the state. The government provided free defense counsel to indigent defendants only in capital cases. There was a private legal-aid program to provide legal assistance to indigent defendants. Authorities remanded persons accused of serious offenses to custody to await trial. They released persons accused of minor infractions on their own recognizance or on bail with sureties.
+
+#### e. Denial of Fair Public Trial
+
+The constitution provided for an independent judiciary, and the government generally respected judicial independence and impartiality. Trial Procedures The constitution provided for the right to a fair and public trial, and the Department of State • Bureau of Democracy, Human Rights , and Labor judiciary generally enforced this right. Political Prisoners and Detainees There were no reports of political prisoners or detainees.
+
+#### f. Transnational Repression
+
+Not applicable.
+
+#### g. Property Seizure and Restitution
+
+Not applicable.
+
+#### h. Arbitrary or Unlawful Interference with Privacy, Family,
+
+Home, or Correspondence The constitution prohibited such actions, and there were no reports the government failed to respect these prohibitions.
+
+### Section 2. Respect for Civil Liberties
+
+#### a. Freedom of Expression, Including for Members of the Press and Other Media
+
+Press and Other Media The constitution provided for freedom of expression, including for members of the press and other media, and the government generally respected this Department of State • Bureau of Democracy, Human Rights , and Labor right. An independent media, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members. Internet Freedom The government did not restrict or disrupt access to the internet or censor online content.
+
+#### b. Freedoms of Peaceful Assembly and Association
+
+The constitution provided for the freedoms of peaceful assembly and association, and the government generally respected these rights. Civil servants were restricted from participating in partisan activities and protests.
+
+#### c. Freedom of Religion
+
+See the Department of State’s International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### d. Freedom of Movement and the Right to Leave the Country
+
+Country The law provided for freedom of internal movement, foreign travel, emigration, and repatriation, and the government generally respected these Department of State • Bureau of Democracy, Human Rights , and Labor rights.
+
+#### e. Protection of Refugees
+
+The government coordinated with the Office of the UN High Commissioner for Refugees in matters regarding refugees, asylum seekers, and other persons of concern. Access to Asylum: While the law provided for the granting of asylum or refugee status, the government had not established a system for providing protection to refugees.
+
+### Section 3. Freedom to Participate in the Political
+
+Process The constitution provided citizens the ability to choose their government in free and fair periodic elections held by secret ballot and based on universal and equal suffrage. Elections and Political Participation Abuse or Irregularities in Recent Elections: National elections were widely reported to be fair and free of abuses and irregularities. Department of State • Bureau of Democracy, Human Rights , and Labor
+
+### Section 4. Corruption in Government
+
+The law provided criminal penalties for corruption by officials, and the government generally implemented the law effectively. Media and private citizens reported government corruption was occasionally a problem. Corruption: For additional information about corruption in the country, please see the Department of State’s Investment Climate Statement for the country, and the Department of State’s International Narcotics Control Strategy Report, which includes information on financial crimes.
+
+### Section 5. Government Posture Towards
+
+International and Nongovernmental Monitoring and Investigation of Alleged Abuses of Human Rights The country had a small number of domestic human rights groups that generally operated without government restriction to monitor or investigate human rights conditions or cases and publish their findings on human rights cases. Government officials were generally cooperative and responsive to the views of these groups. Government Human Rights Bodies: In March the government appointed an acting ombudsman to the Integrity Commission’s Office responsible for investigating administrative actions of a government authority to determine Department of State • Bureau of Democracy, Human Rights , and Labor potential maladministration and provide recommendations to the governing body on ways to improve its administrative practices and procedures.
+
+### Section 6. Discrimination and Societal Abuses
+
+Women Rape and Domestic Violence: The law classified sexual violence, rape, incest, and other forms of gender-based violence, including so-called corrective rape of lesbian, gay, bisexual, transgender, queer, intersex, or other sexual minority (LGBTQI+) persons, as serious offenses, and established penalties for perpetrators. The law prohibited rape of women but did not address spousal rape. The law utilized an “unnatural offenses” statute to address male rape. Penalties for rape ranged from two years’ imprisonment for incest between minors to life imprisonment. Indecent assault had a maximum penalty of 10 years’ imprisonment. There was no statute of limitations for prosecuting sexual offenses. The law criminalized domestic violence, including emotional abuse, and stipulated a fine or six months in prison. The government enforced the law. Violence against women and girls was a problem. The government noted an increase in reporting, with most cases involving women. Advocates indicated they believed the true number of domestic violence and other gender-based violence cases were likely higher than reported but that many survivors were reluctant to file reports due to the belief they would not be Department of State • Bureau of Democracy, Human Rights , and Labor protected or that their abusers would not be prosecuted. Other Forms of Gender-based Violence or Harassment: The law did not explicitly prohibit sexual harassment in the workplace. Sexual harassment cases were instead prosecuted under the Protection of Employment Act. Discrimination: The law provided women the same legal status and rights as men, including under family, religious, personal status, and nationality laws, as well as in property, inheritance, employment, and owning or managing a business. No law prohibited gender-based discrimination in access to credit. In the labor sector, the law and regulations prohibited discrimination based on sex. The law required equal remuneration, and women and men generally received equal salaries for comparable jobs. The government effectively enforced the law. Reproductive Rights: There were no reports of coerced abortion or involuntary sterilization on the part of government authorities. Contraception was widely available, including emergency contraception, as part of family planning methods. There were no legal barriers to accessing contraception, but some religious beliefs and cultural barriers limited its usage. Survivors of sexual violence could access services, including emergency contraception and postexposure prophylaxis, from any public hospital. Emergency contraception was available with a doctor’s prescription. Department of State • Bureau of Democracy, Human Rights , and Labor Systemic Racial or Ethnic Violence and Discrimination The constitution expressly prohibited discrimination based on race, place of origin, birth out of wedlock, political opinions or affiliations, color, and sex or creed. There were no reports of governmental or societal violence or discrimination against members of racial, ethnic, or national minorities during the year. There were no reports of disproportionate access to education. Children Child Abuse: Child abuse was illegal. The government enforced the law effectively. According to the government, neglect was the most common form of abuse, while physical abuse, including sexual molestation, also occurred. The Special Victims Unit investigated allegations of physical and sexual abuse, domestic violence, juvenile abuse, and crimes against children. The unit worked closely with the Department of Probation and Child Protection Services when there were juvenile-related matters and the Department of Gender Affairs when there were cases of domestic violence. The Ministry of Social Services and the Ministry of Education regularly collaborated on programs to curb child abuse. Department of State • Bureau of Democracy, Human Rights , and Labor The St. Christopher Children’s Home served abused and neglected children; it received funding and logistical support from the government. Child, Early, and Forced Marriage: The legal minimum age for marriage was 18 for both men and women. The government enforced the law effectively. Sexual Exploitation of Children: The law prohibited the sale and commercial sexual exploitation of children, but it did not explicitly prohibit grooming. The government generally enforced the law. Child pornography was illegal and carried a penalty of up to 20 years in prison. The age of consent for sexual relations was 16. Having sexual relations with children younger than 16 was illegal. The government enforced the law effectively. Antisemitism There was no organized Jewish community, and members of the Jewish faith reported there were no antisemitic acts. Trafficking in Persons There were no confirmed reports during the year that traffickers exploited domestic or foreign victims in the country or that traffickers exploited victims from abroad. Acts of Violence, Criminalization, and Other Abuses Based on Sexual Orientation, Gender Identity or Expression, or Department of State • Bureau of Democracy, Human Rights , and Labor Sex Characteristics Criminalization: In 2022, the Eastern Caribbean Supreme Court struck down the law that criminalized consensual same-sex sexual conduct among men, ruling that the law violated “one’s freedom of expression and personal privacy.” As of October, however, the government had yet to amend the law. Violence and Harassment: The government stated it received no reports of violence or discrimination based on sexual orientation, but some observers suggested there was underreporting of LGBTQI+ discrimination by state and nonstate actors due to negative societal attitudes. Discrimination: No laws prohibited discrimination against a person based on sexual orientation or gender identity in matters regarding essential goods and services and access to government services, such as health care. The law did not specifically address persons who identified as LBGTQI+. The law did not specifically recognize LGBTQI+ couples, nor did it grant them equal rights or protections as a unit. According to a local NGO, employment discrimination remained a problem, although it was often not reported to authorities. Availability of Legal Gender Recognition: There was no legislation on legal gender recognition. Involuntary or Coercive Medical or Psychological Practices: There were no Department of State • Bureau of Democracy, Human Rights , and Labor reports of involuntary or coercive medical or psychological practices specifically targeting LGBTQI+ individuals, or of medically unnecessary and irreversible “normalization” surgeries performed on children or nonconsenting adult intersex persons. Restrictions on F reedom of Expression, Association or Peaceful Assembly: There were no reports of restrictions on freedom of expression, association, or peaceful assembly specifically targeting LGBTQI+ individuals. Persons with Disabilities The law did not explicitly prohibit discrimination against persons with physical, sensory, intellectual, or mental disabilities. Persons with disabilities experienced discrimination, particularly with access to buildings and public transportation. The law mandated access to buildings for persons with disabilities, but it was not consistently enforced. Children with disabilities attended school, although some parents of students with disabilities preferred to have their child stay at home. There was a separate school for students with disabilities in both Saint Kitts and Nevis. Many local schools accommodated students with physical disabilities, but not all public schools were accessible to students with disabilities, and there was an insufficient number of teachers trained to work with children with disabilities. Civil society representatives reported there was no infrastructure in place to assist secondary school students with disabilities in Department of State • Bureau of Democracy, Human Rights , and Labor their transition to college. Other Societal Violence or Discrimination The law prohibited discrimination based on a person’s HIV status; however, societal discrimination occurred against persons with HIV or AIDS. The Ministry of Labor enforced a specific antidiscrimination policy covering HIV and AIDS in the workplace. The national HIV and AIDS program coordinator and other health officials noted that a person’s HIV status was categorized as personal medical information and deserved the right to be kept private and confidential. HIV and AIDS patients were often hesitant to visit public health facilities due to concern their status might be shared within the community.
+
+### Section 7. Worker Rights
+
+#### a. Freedom of Association and the Right to Collective
+
+Bargaining The law provided for the right to form and join independent unions or staff associations and the right to collective bargaining. The government generally respected the law. The law permitted police, civil servants, hotels, construction workers, and small businesses to organize staff associations. Staff associations did not have bargaining powers but were used to network and develop professional standards. A union representing more than 50 Department of State • Bureau of Democracy, Human Rights , and Labor percent of employees at a company could apply for the company to recognize the union for collective bargaining. Companies generally recognized the establishment of a union if a majority of its workers voted in favor of organizing the union, but the companies were not legally obliged to do so. In practice, but not by law, there were restrictions on strikes by workers who provided essential services, such as police and civil servants. The law prohibited antiunion discrimination but did not require employers found guilty of such discrimination to rehire employees fired for union activities. The International Labor Organization provided technical assistance to the government in labor law reform, labor administration, employment services, labor inspection, and occupational safety and health. The government enforced applicable laws effectively, and penalties were commensurate with those for other laws involving denials of civil rights, such as discrimination. The Ministry of Labor provided employers with training on their rights and responsibilities.
+
+#### b. Prohibition of Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at:
+
+See the Department of State’s annual Trafficking in Persons Report at: http://www.state.gov/trafficking-in-persons-report/.
+
+#### c. Prohibition of Child Labor and Minimum Age for Department of State • Bureau of Democracy, Human Rights , and Labor
+
+Department of State • Bureau of Democracy, Human Rights , and Labor Employment The law prohibited the worst forms of child labor, and a Special Victims Unit, led by the Child Protection Services and police, investigated violations. The law set the minimum age for work at 16. Prohibitions did not apply to family businesses. Children ages 16 to 18 had the same legal protections from dangerous work conditions as all workers. The law permitted children 16-18 to work regular hours. Employment of children 16-18 in certain industries related to the hotel and entertainment sectors was restricted. The government effectively enforced the applicable laws, and penalties were commensurate with those for analogous crimes. Most children younger than age 16 with jobs worked after school in shops and supermarkets or did light work in the informal sector. The Ministry of Labor relied heavily on school truancy officers and the Community Affairs Division to monitor compliance with child labor laws, which they did effectively. The ministry reported that investigations were frequent and that violators were referred to the Social Security Office for enforcement.
+
+#### d. Discrimination (see section 6)
+
+e. Acceptable Conditions of Work Wage and Hour Laws: The national minimum wage for all sectors of the Department of State • Bureau of Democracy, Human Rights , and Labor economy was above the estimated poverty income level. The law did not prohibit excessive or compulsory overtime, but policy called for employers to inform employees if they had to work overtime. Although not required by law, workers generally received at least one 24-hour rest period per week. Occupational Safety and Health: The government set occupational safety and health (OSH) standards that were outdated but appropriate for the country’s main industries. Workers could remove themselves from situations that endangered health or safety without jeopardy to their employment, and authorities effectively protected employees in this situation. The law also required employers to report accidents and dangerous incidents. Wage, Hour, and OSH Enforcement: The government effectively enforced minimum wage, overtime, and OSH laws, and penalties were commensurate with those for similar crimes, such as fraud. Violators were subject to fines, and repeat offenders were subject to prosecution. The Labor Commission settled disputes concerning OSH conditions. The labor commissioner in the Ministry of Labor conducted regular workplace inspections. Labor inspectors had the authority to make unannounced inspections and make recommendations. The commission undertook wage inspections and special investigations when it received complaints. If the commission found that employers violated wage regulations, penalties were generally sufficient to encourage compliance. The government reported there were no violations resulting in arrests or prosecutions. A local NGO reported that most OSH violators regularly received penalties, although it was often difficult for victims to navigate the procedure to file claims. The government estimated 10 percent of the workforce was in the informal sector. The government conducted limited enforcement of labor laws in this sector. Department of State • Bureau of Democracy, Human Rights , and Labor
