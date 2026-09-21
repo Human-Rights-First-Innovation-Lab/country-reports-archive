@@ -30,7 +30,7 @@ const code = lines => new Paragraph({
   border:{left:{style:BorderStyle.SINGLE,size:12,color:BLUE}},
   children: lines.flatMap((l,i)=>[
     ...(i? [new TextRun({break:1})] : []),
-    new TextRun({text:l,font:MONO,size:18,color:INK})]) });
+    new TextRun({text:l,font:MONO,size:16,color:INK})]) });
 const bullet = runs => new Paragraph({ numbering:{reference:'b',level:0}, spacing:{after:90},
   children:(Array.isArray(runs)?runs:[runs]).map(r =>
     typeof r==='string'?new TextRun({text:r,font:SANS,size:20,color:INK})
@@ -92,40 +92,41 @@ const doc = new Document({
       new Paragraph({spacing:{after:150},children:[new TextRun({
         text:'Asking questions about the Country Reports',font:SERIF,size:42,bold:true,color:INK})]}),
       new Paragraph({spacing:{after:320,line:300},children:[new TextRun({
-        text:'We keep a complete archive of the State Department’s Country Reports on Human Rights Practices — 389 reports across the 2023 and 2024 editions. You can ask Claude questions about any of them. This takes about ten minutes to set up and costs nothing beyond your existing Claude account.',
+        text:'We keep a complete archive of the State Department’s Country Reports on Human Rights Practices — 389 reports across the 2023 and 2024 editions. You can ask Claude questions about any of them. Setting this up takes a minute or two and costs nothing beyond your existing Claude account.',
         font:SERIF,size:23,color:'39424D'})]}),
 
       h1('Pick a way in'),
-      p('Three options. They all reach the same archive — the difference is how much you install.'),
+      p([{text:'You do not need a GitHub account, and you do not need to download anything by hand. ',bold:true},
+         {text:'The archive is public, so Claude can fetch it for you. All three options below reach the same archive — the difference is only how much you install.'}]),
       new Table({columnWidths:C,width:{size:CW,type:WidthType.DXA},borders:noB,rows:[
-        new TableRow({tableHeader:true,children:[tc('Option',0,{head:true}),tc('Best for',1,{head:true}),tc('To install',2,{head:true})]}),
-        new TableRow({children:[tc('Claude on the web',0,{b:true}),tc('Most people. Nothing to set up.',1),tc('Nothing',2)]}),
-        new TableRow({children:[tc('Claude desktop app',0,{b:true}),tc('If you already use it for other work',1),tc('The app',2)]}),
+        new TableRow({tableHeader:true,children:[tc('Option',0,{head:true}),tc('Best for',1,{head:true}),tc('You need',2,{head:true})]}),
+        new TableRow({children:[tc('Claude desktop app',0,{b:true}),tc('Most people. Nothing to type but a sentence.',1),tc('The Claude app',2)]}),
+        new TableRow({children:[tc('Claude on the web',0,{b:true}),tc('If you would rather not install anything',1),tc('A browser',2)]}),
         new TableRow({children:[tc('Terminal',0,{b:true}),tc('If you are comfortable on a command line',1),tc('Git, Claude Code',2)]}),
       ]}),
       new Paragraph({spacing:{after:200},children:[new TextRun('')]}),
-      p([{text:'If you are not sure, use the web option. ',bold:true},
-         {text:'It needs no installation and does everything the others do for asking questions.'}]),
 
-      h1('Option 1 — Claude on the web'),
-      step([{text:'Go to '},link('claude.ai/code'),
-            {text:' and sign in with your Human Rights First account.'}]),
-      step('Connect the archive repository when prompted for a repository to work in:'),
-      code(['Human-Rights-First-Innovation-Lab/country-reports-archive']),
-      step('Ask your first question (see below). That is the whole setup.'),
-      p([{text:'The exact wording of the buttons may differ slightly from this guide as the interface changes — you are looking for the option to open or connect a GitHub repository.',italics:true,color:MUTED,size:19}]),
+      h1('The one thing to copy'),
+      p('Every option below works the same way: start a Claude session and paste this as your first message.'),
+      code(['Please clone this repository and then tell me what I can do with it:',
+            'https://github.com/Human-Rights-First-Innovation-Lab/country-reports-archive']),
+      p('Claude will download the archive and read its instructions, then tell you what is available. That is the entire setup. Everything after this page is detail.'),
 
-      h1('Option 2 — Claude desktop app'),
-      step2('Open the Claude app and start a session in the Code tab.'),
-      step2([{text:'Choose the folder containing the archive. If you do not have it yet, download it from '},
-            link('github.com/Human-Rights-First-Innovation-Lab/country-reports-archive'),
-            {text:' — use the green Code button, then Download ZIP, and unzip it somewhere you will remember.'}]),
-      step2('Ask your first question.'),
+      h1('Option 1 — Claude desktop app'),
+      step('Open the Claude app and start a session in the Code tab.'),
+      step('When it asks for a folder, pick any empty folder — a new one on your Desktop is fine. The archive will be downloaded into it.'),
+      step('Paste the message above.'),
+      p([{text:'Claude downloads the archive itself. You do not need to visit GitHub, create an account, or unzip anything.',italics:true,color:MUTED,size:19}]),
+
+      h1('Option 2 — Claude on the web'),
+      step2([{text:'Go to '},link('claude.ai/code'),{text:' and sign in with your Human Rights First account.'}]),
+      step2('Paste the message above.'),
+      p([{text:'If the web version asks you to connect a GitHub account, stop — do not create one. ',bold:true},
+         {text:'Use Option 1 or Option 3 instead, which need no GitHub account at all.'}]),
 
       h1('Option 3 — Terminal'),
-      step3('Clone the archive. It is public, so you do not need any credentials:'),
-      code(['git clone https://github.com/Human-Rights-First-Innovation-Lab/\\',
-            '  country-reports-archive.git',
+      step3('Download the archive. It is public, so no credentials are needed:'),
+      code(['git clone https://github.com/Human-Rights-First-Innovation-Lab/country-reports-archive.git',
             'cd country-reports-archive']),
       step3('Start Claude Code in that folder:'),
       code(['claude']),
