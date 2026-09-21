@@ -7,6 +7,26 @@ compares one edition against another.
 Built to answer a specific question each year: **what changed** — in coverage,
 in length, and in who the reports rely on as evidence.
 
+## If you just want to read or search the reports
+
+You do not need to run anything.
+
+| What you want | Where to look |
+|---|---|
+| One country, all editions in one file | `corpus/by-country/<country>.md` |
+| A whole edition in a few large files | `corpus/by-edition/` |
+| The 2024 edition only | `corpus-2024/` |
+| What changed between 2023 and 2024 | [`output/comparison_2023_2024.md`](output/comparison_2023_2024.md) |
+| The original PDFs as published | `data/<year>/pdf/` |
+| **What these figures can and cannot bear** | [`corpus/METHODOLOGY.md`](corpus/METHODOLOGY.md) |
+
+**Read `corpus/METHODOLOGY.md` before citing anything.** These reports carry no
+footnotes, so the extracted sources and figures are inferred from prose rather
+than read off a citation list, and the 2023→2024 restructuring makes some
+comparisons invalid. The methodology note explains both.
+
+The reports are works of the US Government and are in the public domain.
+
 ## Quick start
 
 ```bash
