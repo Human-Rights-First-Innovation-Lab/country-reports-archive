@@ -1,0 +1,61 @@
+# New Zealand — Country Reports on Human Rights Practices
+
+Editions included: 2024
+
+## New Zealand — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/624521_NEW-ZEALAND-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in New Zealand during the year. There were no credible reports of significant human rights abuses. The government took credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports the government or its agents committed arbitrary or unlawful killings.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The law provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent media, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The law provided for the right of workers to form and join independent unions of their choice without previous authorization or excessive requirements, to bargain collectively, and to conduct legal strikes, with some restrictions. The law prohibited antiunion discrimination. While the law did not require reinstatement of workers dismissed for union activity, courts could order this at their discretion. Police had the right to freedom of association and the right to organize and bargain collectively. Contractors and self-employed persons could not join unions, bargain collectively, or conduct strikes. Workers could strike only while negotiating a collective bargaining agreement or over matters of health and safety. An employer could employ another person to perform the work of a striking employee under strict conditions. Strikes by providers of essential services were subject to certain procedural requirements, including mandatory notice of three to 28 days, depending on the service involved. The list of essential services was broader than international standards on the definition of essential services. To bargain collectively, unions had to be registered, independent, governed by democratic rules, and have a minimum of 15 members. Unions could not bargain collectively on social or political issues. The government respected these rights and effectively enforced applicable laws without lengthy delays. Employment legislation placed a statutory duty on both unions and employers to bargain in good faith and entitled both employees and employers to engage in economic sanctions (strikes and lockouts) to support their bargaining claims. The law provided penalties for violations of freedom of association or collective bargaining protections that included fines commensurate with those applied to similar crimes. Penalties were regularly applied against violators. Cases were occasionally referred to the civil Employment Court, which heard and determined cases relating to employment disputes. Employment Court cases included challenges to determinations of the Employment Relations Authority (a government- appointed tribunal that helped resolve employment relationship problems), questions regarding the interpretation of laws, and disputes over strikes and lockouts. Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acceptable Work Conditions Wage and Hour Laws Income researchers frequently used 60 percent of the median household as the unofficial poverty level, and the minimum hourly wage was set above this. The wage was adjusted annually. The law provided that work hours should be set in collective or individual agreements between employers and employees. Although a 40-hour workweek was traditional, employers and employees could contractually agree to a workweek of more than 40 hours. Overtime pay was negotiable. Labor regulations did not define an absolute maximum number of overtime hours. Workers – particularly migrant workers – were vulnerable to violations of wage, hour, or overtime laws, and there were other indicators of forced labor in the agricultural, dairy, construction, horticulture, viticulture, fishing, food service, liquor retail, technology, hospitality, transport, and domestic service sectors. Occupational Safety and Health The government established appropriate occupational safety and health (OSH) standards and proactively investigated labor conditions. Extensive laws and regulations governed health and safety issues. Employers were obliged to provide a safe and healthy work environment, as they had primary responsibility for individuals’ health and safety at work. The law allowed workers to refuse to perform work likely to cause serious harm and permitted legal recourse if the worker believed an employer penalized them as a result. The government also required employers to provide health insurance for seasonal workers. The industries with the highest number of work-related injury claims and fatalities were agriculture, forestry, fisheries, manufacturing, and construction. Wage, Hour, and OSH Enforcement The Ministry of Business, Innovation, and Employment enforced laws governing working conditions through subagencies such as the Labor Inspectorate, Employment NZ, and Worksafe, the official OSH authority. The number of inspectors was sufficient to enforce compliance. In cases of noncompliance with labor law, inspectors had the authority to make unannounced visits and to shut down equipment, levy fines, require restitution of wages, and revoke the licenses of offenders. Labor inspectors effectively enforced wages, hours, safety, and health rules in all sectors. Worksafe reported 66 percent of surveyed employers found their guidance very useful or extremely useful and the majority had changed their workplace practices following inspections. Convictions for violations of the OSH law, as well as for violations of the wages and hours law, could result in fines, deportation of noncitizens, or imprisonment. These penalties were commensurate with similar violations. Penalties were regularly applied against violators. Employers who breached minimum employment standards for their migrant workers faced a set 12-month “stand-down” period during which they lost the ability to support migrant visa applications. As of September, 62 companies or employers were on the stand-down list. Workers’ advocacy groups criticized the government-organized Recognized Seasonal Employer (RSE) program, which allowed employers to hire workers from Pacific Island countries for seasonal horticultural work. The program, designed to eliminate exploitation and illegal labor in the agriculture sector, was the subject of several media exposés and reports (including one from the HRC) highlighting such exploitation. In March a group of seasonal workers from the Solomon Islands who participated in the RSE sued their former employer for violating their minimum entitlements, the largest such legal case to date. The informal economy was approximately one tenth of GDP; authorities enforced labor laws in this sector.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The law prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their arrest or detention in court. The government observed these requirements.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The law prohibited such practices, and there were no credible reports government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor The law prohibited the worst forms of child labor and provided for a minimum age of employment, limitations on working hours, and OSH restrictions for children. Government inspectors effectively enforced these laws. The law outlined prison sentencing guidelines and fines for the most serious offenses. Penalties were commensurate with those for similar crimes. Penalties were regularly applied against violators. See the Department of Labor’s Findings on the Worst Forms of Child Labor at https://www.dol.gov/agencies/ilab/resources/reports/child-labor/findings for information on the Cook Islands, Niue, and Tokelau. Child Marriage The legal minimum age for marriage was 18 for both men and women, but children between 16 and 18 could marry with family-court approval. Marriages involving children younger than 18 were rare. Child welfare advocates believed parents forced a small number of marriages of children between the ages of 16 and 18.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, asylum seekers, and other persons of concern. The country’s Refugee Resettlement Strategy was reviewed annually. Provision of First Asylum The law provided for granting asylum or refugee status, and the government had an established system for providing protection to refugees. Refugees could arrive in the country in three ways: (1) through the United Nations High Commissioner for Refugees resettlement (“quota”) program; (2) as asylum seekers submitting temporary “protection claims”; or (3) as family members reunified with refugees already living in the country. The country provided temporary protection to persons who were not qualified as refugees on arrival but who filed a “protection claim.” Advocacy groups were concerned asylum seekers outside the UN quota system did not receive the same level of governmental support as quota refugees, specifically in finding work. Resettlement Authorities granted refugees who arrived through the quota program – capped at 1,500 per year – permanent residence status, and they could apply for naturalization after five year’s residence in the country. When refugees arrived, they stayed at a central refugee resettlement center in Auckland for six weeks. According to the government, they also received settlement support for up to 12 months, including help with learning English, health, education, and employment, although some NGOs believed refugees suffered from inadequate accommodation and financial hardship.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+According to the 2018 census, the Jewish community numbered approximately 5,200. In May Jewish community leaders described an increase in antisemitism since the beginning of the Gaza war in October 2023, citing death threats, vandalism (graffiti, smashed windows), physical assaults, verbal and physical harassment, doxing, antisemitic content on social media, and protests. While antisemitic incidents were relatively rare, in June the New Zealand Jewish Council published a survey in which 80 percent of Jewish parents said their children had suffered antisemitism in school since October 2023. These incidents included everything from graffiti, name calling, and online abuse to physical abuse.

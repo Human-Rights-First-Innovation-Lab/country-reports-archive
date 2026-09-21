@@ -1,0 +1,61 @@
+# Palau — Country Reports on Human Rights Practices
+
+Editions included: 2024
+
+## Palau — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/624521_PALAU-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Palau during the year. There were no credible reports of significant human rights abuses. The government took credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports that the government or its agents committed arbitrary or unlawful killings.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The constitution and law provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The law provided for the right of all persons to join and organize labor unions and to bargain collectively; no laws regulated trade union organization. The law neither provided for nor prohibited the right to strike, and the government did not address this issue. There was no law barring antiunion discrimination. There were no active labor unions or other employee organizations. Forced or Compulsory Labor See also the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acceptable Work Conditions Wage and Hour Laws The law provided for a minimum wage for government and private-sector employment above the poverty income level. The minimum wage did not apply to foreign migrants working as agricultural laborers or domestic workers, to students, to temporary or probationary work by students, or to persons younger than 21. The workweek for public employees was 40 hours a week. For private sector employees the workweek depended on the terms of the contract; the legal minimum time off was one day per week. Foreign workers in the private sector were entitled to one day off per week, consisting, however, only of 10 continuous hours without work between 6 a.m. and 6 p.m. Occupational Safety and Health The law required employers to adopt reasonable and adequate occupational safety and health (OSH) rules; it did not set safety and health standards and rules were not regularly followed with heavy equipment and transportation. No law protected workers who filed complaints about hazardous conditions. Foreign workers could have self-censored complaints due to fear they would lose their job if they removed themselves from situations endangering their health or safety. There were no statistics available regarding OSH violations. The government did not take a proactive approach to inspecting labor conditions. Wage, Hour, and OSH Enforcement The Office of Labor Compliance had eight labor officers/inspectors responsible for enforcing minimum wage laws, regulations regarding working conditions of foreign employees, and verifying the adequacy of firms’ safety standards. The government did not effectively enforce the law. Although migrant workers could raise complaints to a labor dispute resolution board, they rarely did so. When complaints were raised, employers would usually quickly repatriate the worker to their home country to avoid further investigation. Penalties for violations of wage laws or OSH rules were commensurate with those for similar crimes such as fraud and negligence. Penalties include fines or imprisonment but were rarely applied against violators. Noncompliance with minimum wage requirements entailed a civil penalty in addition to repayment of back due taxes, social security contributions, and wages (with interest also levied on unpaid wages). Inspectors had the authority to make unannounced inspections of workplaces and employer-provided housing. Inspections could also be based on the specific complaint of an employee. They were able to initiate sanctions, but the number of inspectors was insufficient to enforce compliance and penalties were rarely applied against violators. There were continued reports of the mistreatment of foreign workers by employers. Noncitizens were especially at risk of labor abuses. Migrant workers were commonly employed in the tourism sector; those most likely to be abused included domestic and farm workers, waitresses, cashiers, beauticians, hostesses in karaoke bars and massage parlors, and construction and other semiskilled workers, the majority of whom were from the Philippines and Bangladesh. Local workers were largely employed in the government sector. According to the International Labor Organization, in 2021 the informal economy accounted for more than half of all jobs in the country. The government was unable to consistently enforce labor laws in the formal and informal sectors.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The law prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their arrest or detention in court. The government generally observed these requirements.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The constitution and law prohibited such practices, and there were no credible reports that government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor The law prohibited all the worst forms of child labor. There were no reports of children working in the formal economy, but some assisted their families with fishing, agriculture, and small-scale family enterprises. There were no confirmed reports during the year of the worst forms of child labor. The Anti-human Trafficking Unit investigated a case, pending as of December, of the trafficking of a child perpetrated by purported tourists from the Peoples’ Republic of China. Child Marriage There was no minimum age for marriage between two citizens. The minimum age for marriage between a citizen and a noncitizen was 18 for a man and 16 for a girl, and girls younger than 18 had to obtain parental permission. Underage marriage was not common.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, or asylum seekers, as well as other persons of concern. Provision of First Asylum The law did not provide for granting asylum or refugee status. The government provided some protection against expulsion or return of potential refugees to countries where their lives or freedom would be threatened on account of their race, religion, nationality, membership in a particular social group, or political opinion.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+There were reportedly fewer than 20 persons in the Jewish community. There were no reports of antisemitic incidents.

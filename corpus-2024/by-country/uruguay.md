@@ -1,0 +1,61 @@
+# Uruguay — Country Reports on Human Rights Practices
+
+Editions included: 2024
+
+## Uruguay — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/624521_URUGUAY-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Uruguay during the year. According to the U.S. Department of State’s most recent Trafficking in Persons Report, the government did not fully meet the minimum standards for the elimination of trafficking but was making significant efforts to do so. The government took credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports the government or its agents committed arbitrary or unlawful killings during the year.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The law provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent media, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The constitution and the law protected the right of workers to form and join independent unions, bargain collectively, and conduct legal strikes. The government and employers respected freedom of association and the right to collective bargaining. Civil servants, employees of state-run enterprises, private enterprise workers, and legal foreign workers could join unions. The law prohibited antiunion discrimination and required employers to reinstate workers, including migrant workers, fired for union activities and to pay them an indemnity. Workers in the informal sector were excluded from these protections. The government effectively enforced applicable labor laws, and penalties were commensurate with those for analogous violations such as civil rights violations. Penalties were regularly applied against violators. Worker organizations operated free of government and political interference. Labor union leaders were strong advocates for public policies and even foreign policy issues, and they were active in the political and economic life of the country. In May 2023, parliament approved changes to collective bargaining legislation that partially complied with International Labor Organization (ILO) recommendations to ensure that collective bargaining was voluntary. The ILO had previously noted the rule under which tripartite bodies were permitted to negotiate wages (terms and conditions of work were negotiated bilaterally between employers and workers organizations) might have constituted mandatory collective bargaining and was inconsistent with relevant ILO conventions. Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acceptable Work Conditions Wage and Hour Laws The law provided for a national minimum wage, and the monthly minimum wage for all workers was above the poverty line. Formal-sector workers, including part-time workers, domestic and migrant workers, and workers in the agricultural sector, were covered by laws on minimum wage and hours of work. The law stipulated a workday of not more than eight hours a day and a standard workweek for those in the industrial and retail sectors not to exceed 44 or 48 hours, with daily breaks of 30 minutes to two and one-half hours. The law required workers receive premium pay for work that exceeded regular work schedule hours. The law prohibited compulsory overtime beyond a maximum 50-hour workweek. Employers in the industrial sector were required to give workers either Sunday off or one day off every six days of work (variable workweek). Workers in the retail sector were entitled to a 36-hour block of free time each week. Workers in the rural sector (e.g., nonagricultural farm work) were restricted to not more than 48 hours of work in a period of six days. Alleged violations of wage, hour, or overtime laws were common in informal sectors, including construction, trade, agriculture, and rural work. Occupational Safety and Health The law proscribed exposure of workers to situations that endangered their health or safety and provided for them to remove themselves from such situations without jeopardy to their employment. The Ministry of Labor set occupational safety and health (OSH) standards, and the standards were current and appropriate for the main industries in the country. OSH experts proactively identified unsafe conditions and responded to workers’ OSH complaints. Government authorities and unions protected employees who removed themselves from such activities. In some cases, workers were not informed of specific hazards or employers did not adequately enforce labor safety measures. According to the Ministry of Labor, more OSH violations occurred in the rural and construction sectors than in other sectors. Wage, Hour, and OSH Enforcement The Ministry of Labor was responsible for enforcing the minimum monthly wage for both public- and private-sector employees and for enforcing legislation regulating OSH conditions. The government monitored wages and other benefits such as social security and health insurance through the Social Security Fund and the Internal Revenue Service. The Ministry of Public Health’s Bureau of Environment and Occupational Work was responsible for developing policies to detect, analyze, prevent, and control risk factors that could affect workers’ health. The ministry had sufficient inspectors to enforce compliance. Inspectors had authority to make unannounced inspections and initiate sanctions. Penalties were commensurate with those for similar crimes such as fraud or negligence and were regularly applied against violators. The Labor Ministry’s Social Security Fund monitored domestic work and with judicial authorization conducted home inspections, some unannounced, to investigate potential labor law violations and initiate sanctions when necessary. Minimum wage, hour, and OSH laws were not enforced in the informal sector, which accounted for 22 percent of the workforce.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The law prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their arrest or detention in court. The government generally observed these requirements. Prolonged detention of individuals without charges reportedly was not a significant problem.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The constitution and law prohibited such practices, and there were no credible reports government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor There was no significant presence of the worst forms of child labor. The law prohibited all the worst forms of child labor. It provided for a minimum age of employment, including occupational safety mandates, health safeguards, and limitations on working hours for children. The minimum age for employment was 15 for most sectors, and 18 for hazardous work. The government maintained a list of hazardous or fatiguing work that children should not perform and for which it did not grant permits. The National Institute for Children and Adolescent Affairs (INAU) could issue work permits for children ages 13 to 15 under exceptional circumstances specified by law. Children ages 15 to 17 had to undergo physical exams prior to beginning work and renew the exams yearly to confirm the work did not exceed their physical capacity. Children ages 15 to 17 could not work more than six hours per day within a 36-hour workweek. Work between 10 p.m. and 6 a.m. was prohibited. INAU was responsible for enforcing child labor laws. Due to a lack of dedicated resources, enforcement was mixed and particularly poor in the informal economy, where most child labor occurred. Penalties, which included fines and imprisonment, were commensurate with or more than those for other analogous crimes and were regularly applied against violators. Child Marriage The legal minimum age for marriage was 16, but the law required parental consent through age 18. The law defined forced marriage as a form of exploitation. The laws were effectively enforced.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, or asylum seekers, as well as other persons of concern. Provision of First Asylum The law provided for the granting of asylum or refugee status, and the government had a system for providing protection to refugees. Resettlement In May, President Lacalle Pou signed a decree offering a path to regularize more than 26,000 individuals in the country with pending asylum claims, most of them Cubans, as well as a pilot plan to grant prima facie recognition of refugee status to approximately 3,500 Venezuelans with pending asylum claims.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+The Jewish Studies department of the Organization for Educational Resources and Technological Training University and the National Israel Council estimated the country’s Jewish population ranged from 12,000 to 30,000 persons. Representatives of Jewish organizations reported increased antisemitism in social media during the year, including instances of Holocaust denial and trivialization. They stated antisemitic social media commentary was particularly common during public events that involved members of the Jewish community. Antisemitic commentary in the form of graffiti on Jewish buildings or monuments, which had increased substantially following the start of the Israel-Hamas conflict in October 2023, continued. In March, the Uruguay Central Israeli Committee (CCIU) filed a report of “incitement to hatred” with the Attorney General’s Office regarding the use of an effigy during the March 2023 International Women’s Day march. According to the CCIU, the effigy, which depicted a Jew with exaggerated facial features, a Star of David on the forehead, and a spear through the head, “demonizes the Jew” and bore a striking resemblance to a doll in a 1930s Nazi magazine. In July, the Attorney General’s Office closed the case, stating the intent of the protesters was to condemn the actions of the Israeli government in Gaza, not to incite hatred against Jews. The CCIU appealed, responding the protesters opposed the existence of the state of Israel and a Jewish presence there, which according to the International Holocaust Remembrance Alliance’s working definition of antisemitism to which Uruguay adhered, would be considered an antisemitic act. The appellate judge dismissed the case. For further information on incidents of antisemitism in the country, whether or not those incidents were motivated by religion, and for reporting on the ability of Jews to exercise freedom of religion or belief, see the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.

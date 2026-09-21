@@ -1,0 +1,61 @@
+# Iceland — Country Reports on Human Rights Practices
+
+Editions included: 2024
+
+## Iceland — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/624521_ICELAND-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Iceland during the year. There were no credible reports of significant human rights abuses. The government took credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports the government or its agents committed arbitrary or unlawful killings during the year.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The constitution and law provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent press, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members. The law established fines and imprisonment for up to two years for “[a]nyone who publicly mocks, defames, denigrates, or threatens a person or group of persons by comments or expressions of another nature, for example, by means of pictures or symbols for their nationality, color, race, religion, sexual orientation, or gender identity, or disseminates such materials.”
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The law provided for the right of workers to form and join independent unions, bargain collectively, and conduct strikes. The law prohibited antiunion discrimination. It was silent on whether workers fired for union activity should be reinstated, but it allowed for fining employers who engaged in this practice. The law permitted the government to pass a provisional law to impose mandatory mediation when strikes threatened key sectors in the economy. The government effectively enforced the law. Inspection was sufficient to enforce compliance, and penalties for violations (damages and fines) were commensurate with those for similar crimes. Penalties were regularly applied against violators. The government and employers respected freedom of association and the right to bargain collectively. Collective bargaining agreements covered nearly 100 percent of the formal economy’s workforce. Independent contractors in various industries, but mainly in construction and tourism, sometimes hired subcontractors to avoid hiring workers with bargaining rights. Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acceptable Work Conditions Wage and Hour Laws The law did not establish a minimum wage. The minimum wages negotiated in various collective bargaining agreements applied to all employees in those occupations, including foreign workers, regardless of union membership. While the agreements could be industry wide, sector wide, or in some cases firm specific, the type of position defined the negotiated wage levels, which were higher than the poverty level. The law required that employers compensate work exceeding eight hours per day as overtime and limited the time a worker could work, including overtime, to 48 hours a week on average during each four-month period. Collective bargaining agreements set the terms for overtime pay; these did not vary significantly across unions. The law entitled workers to 11 hours of rest in each 24-hour period and one day off each week. Under specially defined circumstances, employers could reduce the 11-hour rest period to a minimum of eight hours, but they then were required to compensate workers with corresponding rest time later. They could also postpone a worker’s day off, but the worker was guaranteed to receive the corresponding rest time within 14 days. The Administration of Occupational Health and Safety (AOSH) monitored and enforced these regulations. Occupational Safety and Health The law set occupational safety and health (OSH) standards that were appropriate for the main industries. The Ministry of Social Affairs and Labor administered and enforced the law through the AOSH, which conducted both proactive and reactive inspections. Workers could remove themselves from situations that endangered health and safety without jeopardy to their employment. The AOSH could close workplaces that failed to meet safety and health standards. Except for certain asylum seekers, the government provided universal health-care coverage to all workers, including those in the informal economy. Wage, Hour, and OSH Enforcement The government effectively enforced minimum wage, overtime, and OSH laws. Penalties were commensurate with those for similar crimes, such as fraud or negligence. Penalties were regularly applied against violators. The AOSH employed enough inspectors to enforce standards effectively in all sectors. Inspectors had the authority to make unannounced inspections and impose sanctions. The AOSH levied daily fines on companies that did not follow instructions, urging them to improve work conditions. According to government estimates, the informal economy accounted for approximately 3 to 7 percent of GDP. The government generally enforced the laws in informal sectors effectively.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The constitution and law prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of an arrest or detention in court. The government generally observed these requirements. The law allowed police to make arrests when they believed a prosecutable offense had been committed, to prevent further offenses or destruction of evidence, to protect a suspect, or when a person refused to obey police orders. The law explicitly required warrants only for arresting individuals who had failed to appear in court for a hearing or a trial, or at a prison to serve a sentence. The law required authorities promptly to inform a person under arrest of their rights and bring that person before a judge within 24 hours of arrest, and authorities respected this right. There was no bail system. A judge determined whether a suspect was required to remain in custody during an investigation and was able to grant conditional release, subject to assurances that the accused would appear for trial. Upon arrival at a police station, detainees were entitled by law to legal counsel, which the government provided for the indigent.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The constitution and law prohibited such practices, and there were no reports that government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor The law prohibited the worst forms of child labor and provided for a minimum age of employment, including limitations on working hours, occupational safety, and health restrictions for children younger than 18. According to the law, children ages 13 and 14 could be employed in light work up to 12 hours per week and a maximum of two hours per day outside school hours during the school year and up to 35 hours a week or a maximum of seven hours per day during school vacations. They were prohibited from working between the hours of 8 p.m. and 6 a.m. Children between the ages of 15 and 18 who did not attend school were permitted to work up to 40 hours per week and a maximum of eight hours per day, but not between the hours of 10 p.m. and 6 a.m. For children ages 15 to 18 who remained in school, the law limited work to 12 hours per week and a maximum two hours per day during the school year, but up to 40 hours per week and a maximum eight hours per day during school vacations. They were prohibited from working between the hours of 8 p.m. and 6 a.m. Children younger than 18 were prohibited from employment in hazardous work as specified by law. The government effectively enforced applicable laws. Penalties were commensurate with those for similar crimes and were regularly applied. Inspection capacity was sufficient to enforce compliance. There were no confirmed reports during the year of the worst forms of child labor. Child Marriage The minimum age for marriage was 18 and was effectively enforced by the government. There were no reports of forced marriages.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, or asylum seekers, as well as other persons of concern. Provision of First Asylum The law provided for the granting of asylum or refugee status, and the government had a system for providing protection to refugees. The law allowed for an accelerated procedure by the Ministry of Justice’s Directorate of Immigration for applications involving unaccompanied children, “manifestly unfounded claims,” fraudulent applications, applicants deemed dangerous to themselves or others, or when an application was filed following the issuance of a deportation order. An independent regulatory committee, the Immigration and Asylum Appeals Board, adjudicated asylum cases rejected by the directorate. The country did not return asylum seekers who had transited EU member states unless the asylum seekers had already received protection in those countries. The country also did not return vulnerable asylum seekers to EU member states if they had not received protection in those countries. Civil society observers asserted, however, that the bar for asylum seekers to be considered “vulnerable” was often unnecessarily high. Resettlement The government accepted refugees for resettlement, provided for their local integration, and assisted in their voluntary return to their areas of habitual residence.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+The resident Jewish community was estimated at approximately 500 individuals. There were no known reports of violence against Jewish persons. Jewish community leaders described an uptick in discrimination and hate speech directed against the Jewish community during the year. The same leaders described a productive and positive relationship with law enforcement and authorities.

@@ -1,0 +1,61 @@
+# Latvia — Country Reports on Human Rights Practices
+
+Editions included: 2024
+
+## Latvia — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/624521_LATVIA-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Latvia during the year. There were no credible reports of significant human rights abuses. The government took credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports the government or its agents committed arbitrary or unlawful killings during the year.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The constitution and the law provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent media, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members. Although the law generally provided for freedom of expression, it criminalized incitement to racial or ethnic hatred and the spreading of false information regarding the financial system. The law forbade glorifying or denying genocide, crimes against humanity, or war crimes against the country perpetrated by the Soviet Union or Nazi Germany, and the use of symbols of totalitarian regimes in political settings. Violation of these provisions could lead to a five-year prison sentence, community service, or a fine. There were also restrictions on speech deemed a threat to national security. The law criminalized nonviolent acts committed against the state or that challenged its “independence, sovereignty, territorial integrity, or authority.” Internet speech was subject to the same restrictions as other forms of speech and media. Through June, police initiated three criminal proceedings for glorifying or denying genocide, crimes against humanity, and war crimes. In one case, the prosecutor issued a penalty of 220 hours of community service. Through June, the State Security Service initiated seven criminal cases against individuals for inciting national, ethnic, religious, or racial hatred. Censorship by Governments, Military, Intelligence, or Police Forces, Criminal Groups, or Armed Extremist or Rebel Groups Restrictions on speech that incited racial hatred, spread false information regarding the financial system, or glorified or denied genocide, crimes against humanity, or crimes against the country by the Soviet Union or Nazi Germany also applied to print and broadcast media, the publication of books, and online newspapers and journals. Several NGOs and media outlets reported the need to practice self- censorship when interacting with leaders of the municipality of Daugavpils, who objected to advocacy for Ukraine and the rights of certain marginalized individuals.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The law provided for workers to form and join independent unions, bargain collectively, and conduct legal strikes. The law prohibited antiunion discrimination and employer interference in union functions, and provided reinstatement for unlawful dismissal, including dismissal for union activity. Unions could not have fewer than 15 members or less than 25 percent of the total number of employees in the company (which could not be fewer than five). There were several limitations on these rights. Uniformed members of the military and members of the State Security Services could not form or join unions. According to the International Trade Union Confederation, collective bargaining in the public administration was a formal procedure with no real substance since all employment conditions were fixed by law. While the law provided for the right to strike, it required a strike vote by a simple majority at a meeting attended by more than half of the union’s members. The law prohibited “solidarity” strikes by workers who were not directly involved in a specific labor agreement between strikers and their employers, a restriction criticized by local labor groups. It also banned “political” strikes. The law provided arbitration mechanisms for essential personnel not permitted to strike. The government effectively enforced laws protecting freedom of association, collective bargaining, and the right to strike for workers. Resources, inspections, and remediation were adequate under the law. Penalties for violations of freedom of association, collective bargaining, and the right to strike were less than those for analogous violations such as civil rights violations. Penalties were regularly applied against violators. Penalties ranged from a few hundred to several thousand euros but were insufficient to deter violations. Administrative and judicial procedures were subject to lengthy delays and appeals. Labor rights organizations expressed concern regarding employer discrimination against union members. Freedom of association and the right to collective bargaining were generally respected. The law on trade unions required trade unions to be independent. Anti-corruption officials and press reports stated, however, that external funding and support called into question the independence of some individuals and groups active in unions. Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acceptable Work Conditions Wage and Hour Laws The law provided for a minimum wage for all sectors that was more than the official estimate for the poverty income level. The maximum permitted overtime work calculated over a four-month reference period could not exceed eight hours on average within a seven-day period. The law required a minimum of 100 percent premium pay in compensation for overtime, unless the parties agreed to other forms of compensation in a contract, but this requirement was rarely enforced. Workers in low-skilled manufacturing and retail jobs as well as some public- sector employees, such as firefighters and police, were reportedly most vulnerable to poor working conditions, including long work hours, lack of overtime pay, and arbitrary remuneration. Occupational Safety and Health Occupational safety and health (OSH) standards were generally appropriate for the main industries in the country. The government proactively identified unsafe conditions. While the law allowed workers to remove themselves from situations that endangered health or safety without jeopardizing their employment, these regulations were not always followed. Workers were able to complain to the State Labor Inspectorate when they believed their rights were violated, most notably in the industrial sector and the transportation, construction, wood processing, and lumber industries. Wage, Hour, and OSH Enforcement The government effectively enforced minimum wage, overtime, and OSH laws. The State Labor Inspectorate was responsible for enforcing minimum wage regulations, restrictions on hours of work, and OSH standards. Penalties were commensurate with those for other analogous crimes and sufficient to deter violations. Penalties were regularly applied against violators. The number of labor inspectors was sufficient to enforce compliance, and the inspectorate had the authority to make unannounced inspections and initiate sanctions. Workplace injuries and fatalities were highest in the transportation, construction, and wood-processing sectors. OSH standards and labor laws were not always enforced in the informal economy, which equaled approximately 23 percent of the total economy. By sector, the construction industry had the highest informal level.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The constitution and law prohibited arbitrary arrest and detention and allowed any individual to challenge the lawfulness of their arrest or detention in court. The government generally observed these requirements.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The law prohibited such practices, and there were no credible reports government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor There was no significant presence of the worst forms of child labor. The law prohibited all the worst forms of child labor. The statutory minimum age for employment was 15. Children age 13 or older could work in certain jobs outside of school hours with written permission from a parent. The law prohibited children younger than 18 from performing nighttime or overtime work. The law provided that children could not work in jobs that posed a risk to their physical safety, health, or development. The government effectively enforced child labor and minimum age laws. Penalties were commensurate with those for other analogous serious crimes and were regularly applied against violators. Child Marriage The legal minimum age for marriage was 18. Persons younger than 18 could legally marry only with parental permission and as long as one party was at least 16 and the other at least 18. The government effectively enforced the law.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees (UNHCR) and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, or asylum seekers. Provision of First Asylum The law provided for the granting of asylum or refugee status, and the government had a system for providing protection to refugees. The law allowed for the declaration of an “enhanced border regime” in response to increased irregular migration instigated and organized by Belarusian authorities. Under an “enhanced border regime,” applications for asylum were accepted only at official border crossing checkpoints, allowing the State Border Guard to refuse applications for asylum if requested outside of those points. UNHCR expressed concern that the legal change effectively authorized “pushbacks” and could lead to individuals not being granted effective access to territory and the right to seek asylum. UNHCR also noted concerns the law did not specify how assessments to refuse entry for asylum seekers arriving irregularly should be conducted, and that the assessments would be undocumented. The State Border Guard stated there were no unauthorized “pushbacks” during the year and that all actions were in full compliance with established law.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+Government sources estimated there were approximately 7,000 Jewish residents in the country. In Riga, several Israeli and Jewish university students reported receiving hate texts and threats. There was one report of antisemitic hate speech, and the State Security Services initiated a criminal proceeding. There were no reported convictions at year’s end. The annual commemoration of Latvian Legionnaires who fought in German Waffen SS units against the Soviet army in World War II was held in Riga in March. As in recent years, the event was sparsely attended, with an estimated 300 participants, including several parliamentarians from National Alliance. Separately, some government officials attended a memorial event at the regimental cemetery in Lestene, as in previous years.

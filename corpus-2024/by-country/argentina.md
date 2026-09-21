@@ -1,0 +1,65 @@
+# Argentina — Country Reports on Human Rights Practices
+
+Editions included: 2024
+
+## Argentina — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/08/624521_ARGENTINA-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Argentina during the year. Significant human rights issues included credible reports of: arbitrary or unlawful killings; torture or cruel, inhuman, or degrading treatment or punishment by federal and provincial officials; and arbitrary arrest and detention. The government took limited credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were a few reports that the government or its agents committed arbitrary or unlawful killings during the year.
+
+#### b. Coercion in Population Control
+
+There were no known reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+#### c. War Crimes, Crimes against Humanity, and Evidence of Acts that May Constitute Genocide, or Conflict-related
+
+Acts that May Constitute Genocide, or Conflict-related Abuses Federal courts continued to prosecute suspects for enforced disappearances and crimes against humanity during the 1976-83 military dictatorship. As of September, there were 15 active trials with an estimated 208 suspects. During the year, a federal court in La Plata convicted two former police officers to life sentences for crimes against humanity; a federal court in the city of Buenos Aires convicted four former police and gendarmerie officers to 25 years in prison for crimes against humanity including the kidnapping, torture, and sexual abuse of 385 victims; and a court in Mar del Plata announced a new trial for 20 former military officers charged with crimes against humanity. In March, the Ministry of Defense closed the Documentary Survey and Analysis Team of the Armed Forces Archives, which provided documentation and reports to the judicial process on chains of command and military personnel involved in illegal actions.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The constitution provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent media and democratic institutions combined to promote freedom of expression, including for media members. Physical Attacks, Imprisonment, and Pressure The Argentina Journalism Forum (FOPEA) reported that from January 1 to September 5, there were 108 incidents of violence and harassment against journalists. There were several physical attacks against media offices. Censorship by Governments, Military, Intelligence, or Police Forces, Criminal Groups, or Armed Extremist or Rebel Groups In September, the Milei administration issued a decree under the 2016 Access to Information Law. The decree gave the executive branch greater discretion to withhold information, including visitor logs and expense reports, and restricted access to predecisional documents. Domestic press freedom watchdog organizations FOPEA and the Association of Argentine Journalistic Entities continued to warn that criminal groups “encroached” on freedom of expression by intimidating and threatening journalists, particularly in the city of Rosario, in Santa Fe Province. In March, journalist Nelson Castro received death threats while reporting on narcotrafficking and gang violence in Rosario. Police arrested a suspect, who was charged with coercive threats and released on condition of undergoing psychiatric treatment.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The law provided for the right of workers to form and join independent unions. Registered unions had the right to bargain collectively and to conduct legal strikes. The law prohibited antiunion discrimination and protected workers from dismissal, suspension, and changes in labor conditions. It prohibited military and law enforcement personnel from forming and joining unions. New legislation enacted in July reduced some labor protections. The law extended the allowable probationary period for new employees and allowed companies to dismiss workers for participating in blockades, sit-ins, or engaging in intimidation of nonstriking workers. A December 2023 presidential decree expanded the list of essential services; labor unions challenged the new regulations. In January, a labor appeals court declared the regulations unconstitutional and suspended their enforcement until the Supreme Court could review them. On September 16, the government issued an executive decree adding the civil aviation sector to the list of essential services barred from striking without maintaining minimum services of at least 50 percent. Labor unions challenged the decree; a court stayed the decree pending a decision. The government effectively enforced laws protecting freedom of association, collective bargaining, and the right to strike for workers. Penalties were commensurate with those for analogous violations such as civil rights violations and were sometimes applied against violators. Complaints of unfair labor practices could be brought before the judiciary. Violations of the law could result in a fine imposed on the employer or the relevant employer’s association, as appropriate. On September 3, police used force to clear members of the Judicial Workers’ Union who had walked off the job to demand higher salaries, resulting in injuries to 15 workers, including the secretary general of the union. The law allowed unions to register without prior authorization. Registered trade union organizations could engage in certain activities to represent their members, including petitioning the government and employers. The law recognized only one union per sector. That union was the one deemed the most representative, defined by law as the union with the highest average proportion of dues-paying members to the total number of workers represented, per industrial sector, within a specific geographical region. Only unions with official recognition received trade union immunity from employer reprisals against their officials, were permitted to deduct union dues directly from wages, and could bargain collectively with recourse to conciliation and arbitration. The most representative union bargained on behalf of all workers in each sector, and collective agreements covered both union members and nonmembers in the sector. The law required the Secretariat of Labor, Employment, and Social Security to ratify collective bargaining agreements. Civil servants could strike only after a compulsory 15-day conciliation process, and they were subject to the condition that unspecified “minimum services” be maintained. Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acceptable Work Conditions Wage and Hour Laws As of August, the minimum wage was 72 percent below the official poverty line. The minimum wage in real terms fell substantially during the year, as adjustments did not keep up with inflation. Federal law set the maximum workday at eight hours and the maximum workweek at 48 hours. The law prohibited excessive overtime and defined permissible levels of overtime as three hours per day. Laws passed in July removed penalties for employers who failed to register workers or pay social security contributions, facilitating formal employment. Occupational Safety and Health The government set standards for occupational safety and health (OSH) conditions that were appropriate for the main industries in the country. Wage, Hour, and OSH Enforcement The Labor Secretariat was responsible for enforcing legislation related to working conditions. The secretariat, through the National Work Regularization Plan, coordinated law enforcement efforts with the labor authorities at the provincial level. The secretariat conducted inspections in various provinces, but the number of labor inspectors was insufficient to enforce compliance. Inspectors had the authority to make unannounced inspections and to impose fines. Inspectors had a referral process to direct labor crimes, including child labor and forced labor, to the courts. The law limited the worker’s right to file an OSH complaint until the worker followed compulsory administrative proceedings with specific medical committees. The government did not comment or provide statistics on OSH inspections or incidents during the year. The government effectively enforced hour, wage regulations through routine labor inspections and by investigating complaints in both the formal and informal sectors. Penalties for wage and hour violations were commensurate with similar crimes such as fraud and were sometimes applied to violators. The Superintendency of Labor Risk served as the enforcement agency to monitor compliance with OSH laws and the activities of the labor risk insurance companies. The government effectively enforced OSH laws. Penalties for violations of OSH laws were commensurate with those for similar crimes such as negligence and were sometimes applied to violators. Domestic workers in the informal sector remained the most affected by the lack of social protections and ineffective enforcement of labor laws. The garment sector had high rates of informal employment, as did small businesses, farms, and construction projects. Analysts reported the official minimum wage, which fell significantly in real terms during the year, was typically used as the basis for informal-sector wages. During the year, the government eliminated penalties on employers hiring informal workers. The national institute of statistics reported 35.7 percent of workers were in the informal sector during the first quarter of the year.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities during the year. Prolonged Detention without Charges The law prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their arrest or detention in court. The government generally observed these requirements.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The law prohibited such practices. Between January and March, the Prosecutor’s office on the Penitentiary System recorded 77 cases of abuse or mistreatment and registered 72 victims. CELS and other human rights organizations denounced several cases of abuse within police stations and federal prisons against detainees who were taken into custody during a protest in front of the National Congress on June 12. Two detainees filed formal complaints alleging torture and mistreatment while under arrest.
+
+#### b. Protection of Children
+
+Child Labor See the Department of Labor’s Findings on the Worst Forms of Child Labor at https://www.dol.gov/agencies/ilab/resources/reports/child-labor/findings/. Child Marriage Children ages 16 and older were legally allowed to marry, with parental permission. Children younger than 16 were required to obtain judicial authorization in addition to parental consent before marrying. The government enforced the law effectively.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, or asylum seekers, as well as other persons of concern. Provision of First Asylum The law provided for the granting of asylum or refugee status, and the government had a system for providing protection to refugees.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+The latest data from the Berman Jewish Databank estimated the Jewish population was 175,000 in 2021. For information on antisemitic incidents in the country, whether or not those incidents were motivated by religion, and for reporting on the ability of Jews to exercise freedom of religion or belief, see the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.

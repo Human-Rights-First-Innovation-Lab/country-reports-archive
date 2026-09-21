@@ -1,0 +1,61 @@
+# Estonia — Country Reports on Human Rights Practices
+
+Editions included: 2024
+
+## Estonia — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/62451_ESTONIA-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Estonia during the year. There were no credible reports of significant human rights abuses. The government took credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports the government or its agents committed arbitrary or unlawful killings during the year.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The constitution and law provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent media, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members. The law prohibited the public display of symbols relating to aggression, genocide, crimes against humanity, or war crimes that would support or justify these acts.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The law, related regulations, and statutory instruments provided workers with the right to form and join independent unions of their choice, bargain collectively, and conduct legal strikes. The law allowed unions to conduct activities without interference. The law prohibited antiunion discrimination. Both employees and employers had the right to request that labor dispute committees or the courts resolve individual labor disputes. The government effectively enforced applicable laws protecting freedom of association, collective bargaining, and the right to strike. Resources, inspections, and remediation were adequate to achieve compliance with the law. In most cases violators incurred fines sufficient to deter violations. Criminal proceedings and civil claims were also available, and penalties were commensurate with those for other laws involving denials of civil rights. Penalties were regularly applied against violators. Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acceptable Work Conditions Wage and Hour Laws The law provided for a national monthly minimum wage for all sectors that was higher than the poverty income level. The standard workweek was 40 hours. The law required a rest period of at least 11 hours per 24-hour work period. There was no prohibition against excessive compulsory overtime, except for children younger than 17. The law required an employer to compensate for overtime work by time off equal to the overtime worked, unless agreed that overtime be compensated for in pay equal to 1.5 times regular wages. Violations of wage, hour, or overtime laws were most common in the construction and hospitality sectors. Nongovernmental organizations (NGOs) reported employers did not always uphold labor laws with refugees and sometimes sought to take advantage of this group’s vulnerable status to reduce wages and other benefits. NGOs reported that refugees did not always understand their labor rights and highlighted a need for educational materials and trainings for employers. Occupational Safety and Health Occupational safety and health (OSH) standards were appropriate for the main industries in the country, and OSH experts proactively identified unsafe conditions. Men experienced labor exploitation, particularly in the construction and hospitality sectors, where nontaxed cash payments were sometimes paid. Workers could remove themselves from situations that endangered health or safety without jeopardizing their employment. Wage, Hour, and OSH Enforcement The Labor Inspectorate, the Health Board, and the Consumer Protection and Technical Regulatory Authority were responsible for enforcing wage, hour, and OSH standards and made efforts to do so in both the formal and informal sectors. The government generally enforced labor laws in all sectors. Inspectors had authority to make unannounced inspections and initiate sanctions. The number of labor inspectors was insufficient to enforce compliance. Penalties were commensurate with those for similar crimes such as fraud or negligence and were regularly applied against violators. The government could not always enforce labor laws for workers in the informal sector who were not officially registered and did not receive any official wages. The State Labor Inspectorate conducted inspections to identify these cases and punish employers for labor law violations. Tax and Customs Board research reported 4 percent of wage payments during the year were informal. Informal workers were more common in the catering, industrial, construction, and commercial wholesale sector.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The constitution and law prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their arrest or detention in court. The government generally observed these requirements. Arrests were made only when authorities possessed a warrant issued by a court or when persons were caught by police in the act of committing a crime. Authorities respected the bail system and other alternatives for provisional release pending trial and did not hold individuals for more than 48 hours without charge. The law provided that asylum seekers could be detained for more than 48 hours (up to two months) without charge only with the permission of an administrative court. An administrative court could extend the term for detention of an asylum seeker by up to two months. Detainees were entitled to immediate access to legal counsel, and the government paid for legal counsel for indigent persons.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The constitution and law prohibited such practices, and there were no credible reports government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor The law prohibited the worst forms of child labor. Children ages 15 to 17 could work, depending on their school enrollment status. Children ages seven to 12 could engage in light work in the areas of culture, art, sports, or advertising with the consent of the Labor Inspectorate. The government effectively enforced laws and policies to protect children from labor exploitation. There were no confirmed reports during the year of the worst forms of child labor. Child Marriage The legal minimum age for marriage was 18, and the law was effectively enforced.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, or asylum seekers, as well as other persons of concern. Provision of First Asylum The law provided for the granting of asylum or refugee status, and the government had a system for providing protection to refugees. Resettlement The government offered naturalization to refugees residing on its territory and assisted in their voluntary return home. Naturalization was possible for permanent residents after five years’ residence, provided they passed mandatory citizenship and language examinations.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+The Jewish community estimated 2,000 Jewish persons resided in the country. In October, police detained an individual who repeatedly made antisemitic statements in public places in Tallinn. Local media reported the individual used a megaphone in a central Tallinn park more than 100 times during the year to make claims regarding Jewish persons controlling social media platforms such as Wikipedia and Facebook. Police detained and questioned the individual but declined to initiate misdemeanor proceedings.

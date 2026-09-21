@@ -1,0 +1,61 @@
+# Luxembourg — Country Reports on Human Rights Practices
+
+Editions included: 2024
+
+## Luxembourg — 2024 Human Rights Report
+
+Source PDF: https://www.state.gov/wp-content/uploads/2025/07/624521_LUXEMBOURG-2024-HUMAN-RIGHTS-REPORT.pdf
+
+### Executive Summary
+
+There were no significant changes in the human rights situation in Luxembourg during the year. There were no credible reports of significant human rights abuses. The government took credible steps to identify and punish officials who committed human rights abuses.
+
+### Section 1. Life
+
+#### a. Extrajudicial Killings
+
+There were no reports the government or its agents committed arbitrary or unlawful killings during the year.
+
+#### b. Coercion in Population Control
+
+There were no reports of coerced abortion or involuntary sterilization on the part of government authorities.
+
+### Section 2. Liberty
+
+#### a. Freedom of the Press
+
+The constitution and law provided for freedom of expression, including for members of the press and other media, and the government generally respected this right. An independent media, an effective judiciary, and a functioning democratic political system combined to promote freedom of expression, including for media members. The law prohibited hate speech in any medium, including online forums, and provided for prison sentences of between eight days and two years and fines for violations. Victims of hate speech on the internet as well as third- party observers could access a website to report hateful remarks and seek help and advice. The Public Prosecutor’s Office and the courts enforced the laws on hate speech. Efforts to Preserve the Independence of the Media The government took significant steps to enhance media independence by introducing new regulations to improve journalists’ access to information, addressing long-standing complaints about difficulties in obtaining government data. The government also encouraged public-service media to provide fair and unbiased political coverage, particularly during elections, by monitoring and enforcing regulations to prevent political bias. Additionally, the government increased funding for independent media outlets to alleviate financial pressures that could compromise editorial independence.
+
+#### b. Worker Rights
+
+Freedom of Association and Collective Bargaining The constitution and law provided for the rights of workers, including foreign workers and workers in the informal sector, to form and join independent unions of their choice, to bargain collectively, and to conduct legal strikes. The law allowed unions to conduct their activities without interference. Workers exercised these rights freely, and the government protected these rights. The law prohibited antiunion discrimination and required reinstatement of workers fired for union activity. Penalties for violations were commensurate with or less than those under other laws involving denials of civil rights. Penalties were regularly applied against violators. Legal strikes could occur only after the conclusion of a lengthy conciliation procedure between the parties. For a strike to be legal, the government’s national conciliation office had to certify that conciliation efforts had ended. The government effectively enforced laws protecting freedom of association, collective bargaining, and the right to strike for workers. Forced or Compulsory Labor See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/. Acceptable Work Conditions Wage and Hour Laws The law set a national minimum wage for workers older than 18. Collective bargaining agreements established eight hours as a standard workday, with a 40-hour week and provision for overtime and 26 days of leave. The minimum wage for unskilled workers was €2,571 ($2,800) per month, while for skilled workers it was €3,085 ($3,360) per month. The Chamber of Employees, however, indicated that those earning less than €2,961 ($3,220) per month were at risk of being categorized as the “working poor.” The Court of Inspection of Labor and Mines’ (ITM) inspectors had the authority to make unannounced inspections and initiate sanctions. Most alleged violations occurred in the restaurant sector. Occupational Safety and Health The law mandated a safe working environment and occupational safety and health (OSH) standards were current and appropriate. The government either proactively identified unsafe conditions or responded to workers’ OSH complaints. Additionally, workers could remove themselves from situations that endangered their health or safety without risking their employment. Penalties for commensurate with those for other similar crimes. Accidents occurred most frequently in the construction, commerce, industry, and catering sectors. Wage, Hour, and OSH Enforcement Authorities effectively enforced minimum wage, overtime, and OSH laws. Penalties were commensurate with those for similar crimes, such as fraud or negligence. Penalties were regularly applied against violators. The ITM, the Social Security Ministry, and the Superior Court of Justice were responsible for enforcing laws governing maximum hours of work and mandatory holidays. The agencies effectively enforced the law. Penalties for violations were commensurate with those for other similar crimes. The ITM and the accident insurance agency of the Social Security Ministry were responsible for inspecting workplaces. Inspectors had the authority to make unannounced inspections, except in private homes, and to order emergency measures for the regularization or cessation of labor law violations. They could seek assistance from police if they met opposition to the fulfillment of their duties. Inspectors could issue fines and establish reports documenting the infringements of the laws, which the director forwarded to the prosecutor’s office for further action if needed. Workers had the right to ask the Labor Inspectorate to make a determination regarding workplace safety. Workers in the informal sector were covered by wage, hour, and OSH laws as well as inspections. The country’s informal sector was not large. The service sector dominated the economy, employing nearly 90 percent of the workforce. While the incidence of informal labor was generally low, it could still occur in the construction, catering, and agricultural sectors, particularly in small businesses or among cross-border workers.
+
+#### c. Disappearance and Abduction
+
+Disappearance There were no reports of enforced disappearances by or on behalf of government authorities. Prolonged Detention without Charges The constitution and law prohibited arbitrary arrest and detention and provided for the right of any person to challenge the lawfulness of their detention in court. The government generally observed these requirements. The law required police to inform detainees of the charges against them within 24 hours of their arrest and to bring detainees before a judge for a determination of the detention’s legality. There was a functioning bail system, which judges regularly employed. According to the law, detainees were provided access to an attorney prior to their initial interrogation. In cases when detainees could not afford legal assistance, the government paid for those services.
+
+#### d. Violations in Religious Freedom
+
+See the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.
+
+#### e. Trafficking in Persons
+
+See the Department of State’s annual Trafficking in Persons Report at https://www.state.gov/trafficking-in-persons-report/.
+
+### Section 3. Security of the Person
+
+#### a. Torture and Cruel, Inhuman, or Degrading Treatment or Punishment
+
+Punishment The constitution and law prohibited such practices, and there were no reports government officials employed them.
+
+#### b. Protection of Children
+
+Child Labor There was no significant presence of the worst forms of child labor. The law prohibited all of the worst forms of child labor and the employment of children younger than 16. Trainees younger than 16 had to attend school in addition to their job training. The law also prohibited the employment of workers younger than 18 in hazardous work environments, on Sundays and official holidays, and for nighttime work. The Ministries of Labor and Education effectively enforced the child labor laws. By law persons who employed children younger than 16 could be subject to a fine and prison sentence. The government effectively enforced the applicable laws and penalties were commensurate with those for analogous serious crimes. Penalties were regularly applied against violators. Child Marriage The minimum legal age for marriage was 18 but could be waived by a guardianship judge. The government enforced the law effectively.
+
+#### c. Protection to Refugees
+
+The government cooperated with the Office of the UN High Commissioner for Refugees and other humanitarian organizations in providing protection and assistance to refugees, returning refugees, and asylum seekers, as well as other persons of concern. Provision of First Asylum The law provided for the granting of asylum or refugee status, and the government had a system for providing protection to refugees. Resettlement Through the EU, the country accepted refugees for resettlement, offered naturalization to refugees residing in the country, and assisted refugees in voluntary return to their homelands.
+
+#### d. Acts of Antisemitism and Antisemitic Incitement
+
+The Jewish community numbered approximately 1,500 persons. There were isolated cases of antisemitic content on the internet. The law provided for punishment of antisemitic statements and Holocaust denial; the government generally enforced the law. Jewish groups reported antisemitic statements and attitudes online, especially in association with statements related to the government of Israel and the Holocaust. On June 1, the NGO Research and Information on Anti-Semitism in Luxembourg (RIAL) published its report for 2023. The report described 36 incidents of antisemitism in the country through the October 2023 Hamas terrorist attack on Israel. RIAL reported 108 incidents in the period following the Hamas attack, with most occurring on social media in which they glorified the October 7 terrorist attacks and called for the destruction of Israel. The report emphasized social media posts often revolved around the war in the Middle East. Additionally, 14 minor incidents such as provocations happened in public spaces, according to RIAL. Persons spreading false information related to Russia’s invasion of Ukraine also promoted conspiracy theories regarding antisemitism. For further information on incidents of antisemitism in the country, whether or not those incidents were motivated by religion, and for reporting on the ability of Jews to exercise freedom of religion or belief, see the Department of State’s annual International Religious Freedom Report at https://www.state.gov/religiousfreedomreport/.

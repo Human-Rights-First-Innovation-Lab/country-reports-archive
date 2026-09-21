@@ -59,8 +59,20 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--years", default="2023,2024")
     ap.add_argument("--shard-mb", type=float, default=4.0)
+    # Each run clears its output directory, so a narrower --years run must not
+    # be able to silently destroy a wider one already sitting in corpus/.
+    ap.add_argument("--out", default=None,
+                    help="output directory (default: corpus/, or corpus-<years>/ "
+                         "when --years narrows the default set)")
     a = ap.parse_args()
     years = [int(y) for y in a.years.split(",")]
+
+    global OUT
+    OUT = pathlib.Path(a.out) if a.out else (
+        ROOT / "corpus" if a.years == "2023,2024"
+        else ROOT / ("corpus-" + a.years.replace(",", "-")))
+    OUT.mkdir(parents=True, exist_ok=True)
+    print(f"writing to {OUT.name}/")
 
     editions = {y: load(y) for y in years}
     keys = sorted({k for e in editions.values() for k in e})
