@@ -30,8 +30,11 @@ limitation.
 A Python pipeline at:
 
 ```
-/Users/jasonlong-hrf/HRFEngineering/Country Reports on Human Rights Practices/
+<path to the "Country Reports on Human Rights Practices" checkout>
 ```
+
+Clone it from `github.com/Human-Rights-First-Innovation-Lab` and set
+`PIPELINE_DIR` to wherever you put it.
 
 It downloads, parses and analyses the reports. It is working and maintained.
 **Your job is to build a web app on top of its outputs, not to reimplement it.**
